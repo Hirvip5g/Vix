@@ -7,7 +7,8 @@ import unicodedata
 from datetime import datetime
 
 # Configuración de URLs y archivos locales
-AGENDA_URL = "https://streamxhd.com/eventos.json?"
+# Obtiene la URL de las variables de entorno de GitHub Actions (o usa el fallback local si se ejecuta manualmente sin la variable)
+AGENDA_URL = os.environ.get("AGENDA_URL", "https://hdfull.com/eventos.json?")
 LOCAL_CHANNELS_JSON = "04.json"
 OUTPUT_JSON = "agenda.json"
 BASE_IMG_URL = "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/equipos_fm"
