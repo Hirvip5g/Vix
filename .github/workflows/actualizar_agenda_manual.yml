@@ -1,7 +1,7 @@
 name: Actualizar Agenda Manual
 
 on:
-  workflow_dispatch: # Se ejecuta unícamente cuando lo hagas de forma manual desde GitHub
+  workflow_dispatch: # Se ejecuta únicamente cuando lo hagas de forma manual desde GitHub
 
 permissions:
   contents: write
@@ -22,6 +22,8 @@ jobs:
         run: pip install requests
 
       - name: Procesar Agenda Manual
+        env:
+          AGENDA_URL: ${{ secrets.AGENDA_URL }}
         run: python procesar_eventos_manual.py
 
       - name: Guardar cambios en GitHub
