@@ -45,7 +45,7 @@
                     "name": "ESPN Knockout",
                     "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/espnknockout.jpg",
                     "events": [
                         {
                             "title": "",
@@ -84,13 +84,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "espnknockout",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/espnknockout.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "espnknockout"
                 }
             ]
         },
@@ -103,7 +103,7 @@
                     "name": "UFC",
                     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/deml.jpg",
                     "events": [
                         {
                             "title": "",
@@ -165,13 +165,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "deml",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/deml.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "deml"
                 }
             ]
         },
