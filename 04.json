@@ -21,9 +21,17 @@
   "tipo": "m3u8",
   "url": "http://209.61.12.132:9000/play/a06z/index.m3u8"
 },
+{
+  "canal": "ESPN 2",
+  "channel": "espn2",
+  "logo": "https://i.postimg.cc/tu-logo/logo.png",
+  "grupo": "Entretenimiento",
+  "tipo": "m3u8",
+  "url": "http://209.61.12.132:9000/play/a08p/index.m3u8"
+},
   {
     "canal": "ESPN 2 AR",
-    "channel": "espn2",
+    "channel": "espn2ar",
     "logo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
     "grupo": "Deportes",
     "tipo": "clearkey",
