@@ -881,13 +881,19 @@
                                 },
                                 {
                                     "name": "ESPN 2 AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2ar",
-                                    "type": "iframe",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNDA0ODU3Iiwic2lwIjoiMTgxLjExNi4xNzguMTExIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0JyYXZvVFYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI4MzRkZDQ4MDQwMGZjNmUxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.lQ0n0NVg_WOwABqGIaSK5AMg75UwX9TTFQdMSCn9jRkAFF2sqVqezIBV9WEntMNFtKRDyLSuFwPhcB0w_--wKA==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": ""
+                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "e6eab53cf8ea962b999c59c298596a65",
+                                        "key": "10c103ae76f99620d66fa75f2c03302a"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar"
                                 }
                             ],
                             "flagCode": "",
@@ -1260,13 +1266,19 @@
                                 },
                                 {
                                     "name": "ESPN 2 AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2ar",
-                                    "type": "iframe",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNDA0ODU3Iiwic2lwIjoiMTgxLjExNi4xNzguMTExIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0JyYXZvVFYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI4MzRkZDQ4MDQwMGZjNmUxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.lQ0n0NVg_WOwABqGIaSK5AMg75UwX9TTFQdMSCn9jRkAFF2sqVqezIBV9WEntMNFtKRDyLSuFwPhcB0w_--wKA==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": ""
+                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "e6eab53cf8ea962b999c59c298596a65",
+                                        "key": "10c103ae76f99620d66fa75f2c03302a"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar"
                                 },
                                 {
                                     "name": "ESPN +",
@@ -1523,20 +1535,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "ESPN 2 AR",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNDA0ODU3Iiwic2lwIjoiMTgxLjExNi4xNzguMTExIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0JyYXZvVFYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI4MzRkZDQ4MDQwMGZjNmUxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.lQ0n0NVg_WOwABqGIaSK5AMg75UwX9TTFQdMSCn9jRkAFF2sqVqezIBV9WEntMNFtKRDyLSuFwPhcB0w_--wKA==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-                                    "type": "clearkey",
+                                    "name": "ESPN 2",
+                                    "url": "http://209.61.12.132:9000/play/a08p/index.m3u8",
+                                    "type": "m3u8",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "e6eab53cf8ea962b999c59c298596a65",
-                                        "key": "10c103ae76f99620d66fa75f2c03302a"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar"
+                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": ""
                                 }
                             ],
                             "flagCode": "",
@@ -1576,20 +1585,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 2 AR",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNDA0ODU3Iiwic2lwIjoiMTgxLjExNi4xNzguMTExIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0JyYXZvVFYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI4MzRkZDQ4MDQwMGZjNmUxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.lQ0n0NVg_WOwABqGIaSK5AMg75UwX9TTFQdMSCn9jRkAFF2sqVqezIBV9WEntMNFtKRDyLSuFwPhcB0w_--wKA==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-                                    "type": "clearkey",
+                                    "name": "ESPN 2",
+                                    "url": "http://209.61.12.132:9000/play/a08p/index.m3u8",
+                                    "type": "m3u8",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "e6eab53cf8ea962b999c59c298596a65",
-                                        "key": "10c103ae76f99620d66fa75f2c03302a"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar"
+                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": ""
                                 },
                                 {
                                     "name": "Universo",
@@ -1639,20 +1645,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 2 AR",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNDA0ODU3Iiwic2lwIjoiMTgxLjExNi4xNzguMTExIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0JyYXZvVFYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI4MzRkZDQ4MDQwMGZjNmUxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.lQ0n0NVg_WOwABqGIaSK5AMg75UwX9TTFQdMSCn9jRkAFF2sqVqezIBV9WEntMNFtKRDyLSuFwPhcB0w_--wKA==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-                                    "type": "clearkey",
+                                    "name": "ESPN 2",
+                                    "url": "http://209.61.12.132:9000/play/a08p/index.m3u8",
+                                    "type": "m3u8",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "e6eab53cf8ea962b999c59c298596a65",
-                                        "key": "10c103ae76f99620d66fa75f2c03302a"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar"
+                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": ""
                                 },
                                 {
                                     "name": "Telemundo",
@@ -2217,20 +2220,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 2 AR",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNDA0ODU3Iiwic2lwIjoiMTgxLjExNi4xNzguMTExIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0JyYXZvVFYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI4MzRkZDQ4MDQwMGZjNmUxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.lQ0n0NVg_WOwABqGIaSK5AMg75UwX9TTFQdMSCn9jRkAFF2sqVqezIBV9WEntMNFtKRDyLSuFwPhcB0w_--wKA==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-                                    "type": "clearkey",
+                                    "name": "ESPN 2",
+                                    "url": "http://209.61.12.132:9000/play/a08p/index.m3u8",
+                                    "type": "m3u8",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "e6eab53cf8ea962b999c59c298596a65",
-                                        "key": "10c103ae76f99620d66fa75f2c03302a"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar"
+                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": ""
                                 }
                             ],
                             "flagCode": "",
@@ -2926,20 +2926,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "ESPN 2 AR",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNDA0ODU3Iiwic2lwIjoiMTgxLjExNi4xNzguMTExIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0JyYXZvVFYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI4MzRkZDQ4MDQwMGZjNmUxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.lQ0n0NVg_WOwABqGIaSK5AMg75UwX9TTFQdMSCn9jRkAFF2sqVqezIBV9WEntMNFtKRDyLSuFwPhcB0w_--wKA==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-                                    "type": "clearkey",
+                                    "name": "ESPN 2",
+                                    "url": "http://209.61.12.132:9000/play/a08p/index.m3u8",
+                                    "type": "m3u8",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "e6eab53cf8ea962b999c59c298596a65",
-                                        "key": "10c103ae76f99620d66fa75f2c03302a"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar"
+                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": ""
                                 }
                             ],
                             "flagCode": "",
