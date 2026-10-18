@@ -184,7 +184,7 @@
                     "name": "MLB",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mlb.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mlb.jpg",
                     "events": [
                         {
                             "title": "Milwaukee Brewers vs Los Angeles Dodgers",
@@ -221,7 +221,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mlb",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mlb.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mlb.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -245,7 +245,7 @@
                     "name": "Liga Profesional",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaprofesional.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg",
                     "events": [
                         {
                             "title": "Racing Club vs Independiente",
@@ -334,7 +334,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaprofesional",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
                         },
                         {
                             "title": "Estudiantes vs San Lorenzo",
@@ -397,7 +397,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaprofesional",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
                         },
                         {
                             "title": "Estudiantes Río Cuarto vs Aldosivi",
@@ -440,7 +440,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaprofesional",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
                         },
                         {
                             "title": "Belgrano vs River Plate",
@@ -526,7 +526,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaprofesional",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -537,7 +537,7 @@
                     "name": "Liga Uruguay",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligauruguay.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligauruguay.jpg",
                     "events": [
                         {
                             "title": "Albion vs Torque",
@@ -574,7 +574,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligauruguay",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligauruguay.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligauruguay.jpg"
                         },
                         {
                             "title": "Danubio vs Central Español",
@@ -611,7 +611,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligauruguay",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligauruguay.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligauruguay.jpg"
                         },
                         {
                             "title": "Liverpool vs Peñarol",
@@ -648,7 +648,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligauruguay",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligauruguay.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligauruguay.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -659,7 +659,7 @@
                     "name": "Liga Paraguay",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaparaguay.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaparaguay.jpg",
                     "events": [
                         {
                             "title": "Cerro Porteño vs Sportivo Ameliano",
@@ -696,7 +696,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaparaguay",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaparaguay.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaparaguay.jpg"
                         },
                         {
                             "title": "Sportivo Trinidense vs Libertad",
@@ -733,7 +733,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaparaguay",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaparaguay.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaparaguay.jpg"
                         },
                         {
                             "title": "Sportivo Luqueño vs Sportivo San Lorenzo",
@@ -770,7 +770,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaparaguay",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaparaguay.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaparaguay.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -781,7 +781,7 @@
                     "name": "Brasileirão",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/brasileirão.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/brasileirão.jpg",
                     "events": [
                         {
                             "title": "São Paulo vs Vasco da Gama",
@@ -840,7 +840,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "brasileirão",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/brasileirão.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/brasileirão.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -851,7 +851,7 @@
                     "name": "Liga MX",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg",
                     "events": [
                         {
                             "title": "Toluca vs Atlético San Luis",
@@ -910,7 +910,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg"
                         },
                         {
                             "title": "Guadalajara vs Tigres UANL",
@@ -957,7 +957,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg"
                         },
                         {
                             "title": "León vs América",
@@ -1004,7 +1004,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg"
                         },
                         {
                             "title": "Cruz Azul vs Juárez",
@@ -1073,7 +1073,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg"
                         },
                         {
                             "title": "Monterrey vs Pachuca",
@@ -1110,7 +1110,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -1121,7 +1121,7 @@
                     "name": "Bundesliga 2",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/bundesliga.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/bundesliga.jpg",
                     "events": [
                         {
                             "title": "Arminia Bielefeld vs Osnabrück",
@@ -1164,7 +1164,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "bundesliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/bundesliga.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/bundesliga.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -1175,7 +1175,7 @@
                     "name": "Premier League",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/premier.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/premier.jpg",
                     "events": [
                         {
                             "title": "AFC Bournemouth vs Sunderland",
@@ -1212,7 +1212,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "premier",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/premier.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/premier.jpg"
                         },
                         {
                             "title": "Brighton & Hove Albion vs Crystal Palace",
@@ -1282,7 +1282,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "premier",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/premier.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/premier.jpg"
                         },
                         {
                             "title": "Leeds United vs Manchester United",
@@ -1329,7 +1329,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "premier",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/premier.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/premier.jpg"
                         },
                         {
                             "title": "Nottingham Forest vs Arsenal",
@@ -1395,7 +1395,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "premier",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/premier.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/premier.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -1406,7 +1406,7 @@
                     "name": "LaLiga",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/laliga.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/laliga.jpg",
                     "events": [
                         {
                             "title": "Osasuna vs Racing Santander",
@@ -1469,7 +1469,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "laliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/laliga.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/laliga.jpg"
                         },
                         {
                             "title": "Celta de Vigo vs Deportivo Alavés",
@@ -1538,7 +1538,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "laliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/laliga.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/laliga.jpg"
                         },
                         {
                             "title": "Málaga vs Real Sociedad",
@@ -1601,7 +1601,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "laliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/laliga.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/laliga.jpg"
                         },
                         {
                             "title": "Real Madrid vs Sevilla",
@@ -1681,7 +1681,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "laliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/laliga.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/laliga.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -1692,7 +1692,7 @@
                     "name": "LaLiga SmartBank",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/smartbank.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/smartbank.jpg",
                     "events": [
                         {
                             "title": "Ceuta vs Real Oviedo",
@@ -1729,7 +1729,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "smartbank",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/smartbank.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/smartbank.jpg"
                         },
                         {
                             "title": "Granada vs Cádiz",
@@ -1766,7 +1766,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "smartbank",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/smartbank.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/smartbank.jpg"
                         },
                         {
                             "title": "Girona vs FC Andorra",
@@ -1803,7 +1803,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "smartbank",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/smartbank.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/smartbank.jpg"
                         },
                         {
                             "title": "Real Valladolid vs Eldense",
@@ -1840,7 +1840,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "smartbank",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/smartbank.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/smartbank.jpg"
                         },
                         {
                             "title": "Burgos vs Sabadell",
@@ -1877,7 +1877,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "smartbank",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/smartbank.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/smartbank.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -1888,7 +1888,7 @@
                     "name": "Serie A",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/seriea.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/seriea.jpg",
                     "events": [
                         {
                             "title": "Udinese vs Lecce",
@@ -1931,7 +1931,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "seriea",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/seriea.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/seriea.jpg"
                         },
                         {
                             "title": "Fiorentina vs Como",
@@ -1994,7 +1994,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "seriea",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/seriea.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/seriea.jpg"
                         },
                         {
                             "title": "Milan vs Atalanta",
@@ -2057,7 +2057,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "seriea",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/seriea.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/seriea.jpg"
                         },
                         {
                             "title": "Juventus vs Lazio",
@@ -2104,7 +2104,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "seriea",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/seriea.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/seriea.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -2115,7 +2115,7 @@
                     "name": "Bundesliga",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/bundesliga.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/bundesliga.jpg",
                     "events": [
                         {
                             "title": "Bayer Leverkusen vs Freiburg",
@@ -2152,7 +2152,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "bundesliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/bundesliga.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/bundesliga.jpg"
                         },
                         {
                             "title": "Borussia Mönchengladbach vs Hoffenheim",
@@ -2199,7 +2199,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "bundesliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/bundesliga.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/bundesliga.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -2210,7 +2210,7 @@
                     "name": "Eredivisie",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/eredivisie.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/eredivisie.jpg",
                     "events": [
                         {
                             "title": "Cambuur vs AZ",
@@ -2247,7 +2247,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "eredivisie",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/eredivisie.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/eredivisie.jpg"
                         },
                         {
                             "title": "Groningen vs Ajax",
@@ -2284,7 +2284,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "eredivisie",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/eredivisie.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/eredivisie.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -2295,7 +2295,7 @@
                     "name": "Copa Mundial Femenina Sub-17",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/paisfe.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/paisfe.jpg",
                     "events": [
                         {
                             "title": "Canadá vs Brasil",
@@ -2354,7 +2354,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "paisfe",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/paisfe.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/paisfe.jpg"
                         },
                         {
                             "title": "Francia vs Venezuela",
@@ -2407,7 +2407,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "paisfe",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/paisfe.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/paisfe.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -2418,7 +2418,7 @@
                     "name": "Ligue 1",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligue1.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg",
                     "events": [
                         {
                             "title": "Angers SCO vs Olympique Marseille",
@@ -2455,7 +2455,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligue1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligue1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg"
                         },
                         {
                             "title": "Le Havre vs Auxerre",
@@ -2492,7 +2492,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligue1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligue1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg"
                         },
                         {
                             "title": "Lorient vs Monaco",
@@ -2529,7 +2529,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligue1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligue1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg"
                         },
                         {
                             "title": "Paris vs Rennes",
@@ -2566,7 +2566,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligue1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligue1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg"
                         },
                         {
                             "title": "Olympique Lyonnais vs Nice",
@@ -2619,7 +2619,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligue1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligue1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -2630,7 +2630,7 @@
                     "name": "Liga Ecuador",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaecuador.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaecuador.jpg",
                     "events": [
                         {
                             "title": "Leones del Norte vs Emelec",
@@ -2667,7 +2667,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaecuador",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaecuador.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaecuador.jpg"
                         },
                         {
                             "title": "Delfín vs Manta",
@@ -2704,7 +2704,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaecuador",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaecuador.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaecuador.jpg"
                         },
                         {
                             "title": "Barcelona vs Universidad Católica",
@@ -2741,7 +2741,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaecuador",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaecuador.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaecuador.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -2752,7 +2752,7 @@
                     "name": "MLS",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg",
                     "events": [
                         {
                             "title": "New York City vs Los Angeles FC",
@@ -2789,7 +2789,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "Atlanta United vs Inter Miami",
@@ -2836,7 +2836,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "New York RB vs Toronto FC",
@@ -2873,7 +2873,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "Orlando City SC vs DC United",
@@ -2910,7 +2910,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "New England vs Chicago Fire",
@@ -2947,7 +2947,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "Austin vs Vancouver Whitecaps",
@@ -2984,7 +2984,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "Houston Dynamo vs Dallas",
@@ -3021,7 +3021,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "Sporting KC vs Real Salt Lake",
@@ -3058,7 +3058,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "LA Galaxy vs San Diego",
@@ -3095,7 +3095,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "Portland Timbers vs Colorado Rapids",
@@ -3132,7 +3132,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "SJ Earthquakes vs Nashville SC",
@@ -3169,7 +3169,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "Seattle Sounders FC vs CF Montréal",
@@ -3206,7 +3206,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         },
                         {
                             "title": "Cincinnati vs Columbus Crew",
@@ -3243,7 +3243,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "mls",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -3254,7 +3254,7 @@
                     "name": "Copa de Portugal",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaportugal.jpg",
                     "events": [
                         {
                             "title": "CF Os Belenenses vs Arouca",
@@ -3296,19 +3296,19 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copaportugal",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaportugal.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copaportugal"
                 },
                 {
                     "name": "Liga 1",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/Liga1.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/Liga1.jpg",
                     "events": [
                         {
                             "title": "Alianza Lima vs Atlético Grau",
@@ -3345,7 +3345,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "Liga1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/Liga1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/Liga1.jpg"
                         },
                         {
                             "title": "Cienciano vs UTC Cajamarca",
@@ -3392,7 +3392,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "Liga1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/Liga1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/Liga1.jpg"
                         },
                         {
                             "title": "Sporting Cristal vs Comerciantes Unidos",
@@ -3429,7 +3429,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "Liga1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/Liga1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/Liga1.jpg"
                         },
                         {
                             "title": "FC Cajamarca vs Deportivo Moquegua",
@@ -3466,7 +3466,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "Liga1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/Liga1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/Liga1.jpg"
                         },
                         {
                             "title": "Alianza Atlético vs Universitario",
@@ -3503,7 +3503,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "Liga1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/Liga1.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/Liga1.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -3514,7 +3514,7 @@
                     "name": "Liga Colombia",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg",
                     "events": [
                         {
                             "title": "Medellín vs Once Caldas",
@@ -3564,7 +3564,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaco",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg"
                         },
                         {
                             "title": "Rionegro Águilas vs Deportes Tolima",
@@ -3604,7 +3604,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaco",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg"
                         },
                         {
                             "title": "Atlético Bucaramanga vs América de Cali",
@@ -3644,7 +3644,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaco",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg"
                         },
                         {
                             "title": "Llaneros vs Santa Fe",
@@ -3694,7 +3694,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaco",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg"
                         },
                         {
                             "title": "Deportivo Cali vs Junior",
@@ -3754,7 +3754,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "ligaco",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -3765,7 +3765,7 @@
                     "name": "Copa Libertadores Femenina",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/libertadores.jpg",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/libertadores.jpg",
                     "events": [
                         {
                             "title": "CSD Colo-Colo vs Santa Fe",
@@ -3802,7 +3802,7 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "leagueId": "libertadores",
-                            "leagueBackground": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/libertadores.jpg"
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/libertadores.jpg"
                         }
                     ],
                     "flagCode": "",
@@ -3826,7 +3826,7 @@
                     "name": "NFL",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg",
                     "events": [
                         {
                             "title": "Green Bay Packers vs Dallas Cowboys",
@@ -3868,8 +3868,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nfl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
                         },
                         {
                             "title": "Jacksonville Jaguars vs Houston Texans",
@@ -3911,8 +3911,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nfl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
                         },
                         {
                             "title": "Philadelphia Eagles vs Carolina Panthers",
@@ -3954,8 +3954,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nfl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
                         },
                         {
                             "title": "Atlanta Falcons vs Chicago Bears",
@@ -3997,8 +3997,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nfl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
                         },
                         {
                             "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers",
@@ -4034,8 +4034,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nfl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
                         },
                         {
                             "title": "Baltimore Ravens vs Cleveland Browns",
@@ -4071,8 +4071,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nfl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
                         },
                         {
                             "title": "Las Vegas Raiders vs Buffalo Bills",
@@ -4114,8 +4114,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nfl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
                         },
                         {
                             "title": "Los Angeles Rams vs Arizona Cardinals",
@@ -4157,8 +4157,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nfl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
                         },
                         {
                             "title": "Kansas City Chiefs vs Los Angeles Chargers",
@@ -4200,13 +4200,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nfl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "nfl"
                 }
             ]
         }
