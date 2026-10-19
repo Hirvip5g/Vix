@@ -7,8 +7,7 @@ import unicodedata
 from datetime import datetime
 
 # Configuración de URLs y archivos locales
-# Obtiene la URL de las variables de entorno de GitHub Actions (o usa el fallback local si se ejecuta manualmente sin la variable)
-AGENDA_URL = os.environ.get("AGENDA_URL", "https://hdfull.com/eventos.json?")
+AGENDA_URL = "https://streamxhd.com/eventos.json?"
 LOCAL_CHANNELS_JSON = "04.json"
 OUTPUT_JSON = "agenda.json"
 BASE_IMG_URL = "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/equipos_fm"
@@ -126,11 +125,11 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "NFL": "nfl",
     "Copa de Portugal": "copaportugal",
     "ESPN Knockout": "espnknockout",
-    "UFC": "deml",
-    "demo": "ufc",
-    "demo": "deml",
-    "demo": "deml",
-    "demo": "deml",
+    "UFC": "ufc",
+    "Categoria Primera B": "categoriaprimerab",
+    "Serie B": "serieb",
+    "Saudi Pro League": "saudiproleague",
+    "Primeira Liga": "primeiraligap",
     "demo": "deml",
     "demo": "deml",
     # Agrega más ligas según necesites...
