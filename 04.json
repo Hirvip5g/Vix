@@ -1,6 +1,6 @@
 [
   {
-    "canal": "ESPN AR",
+    "canal": "ESPN AR MUTICALIDAD",
     "channel": "espnar",
     "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
     "grupo": "Deportes",
@@ -14,7 +14,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd"
   },
   {
-  "canal": "ESPN CO",
+  "canal": "ESPN CO HD",
   "channel": "espn",
   "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
     "grupo": "Deportes",
@@ -22,7 +22,7 @@
   "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8"
   },
 {
-  "canal": "ESPN 2 CO",
+  "canal": "ESPN 2 CO HD",
   "channel": "espn2",
   "logo": "https://i.postimg.cc/tu-logo/logo.png",
   "grupo": "Entretenimiento",
@@ -30,7 +30,7 @@
   "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8"
 },
   {
-    "canal": "ESPN 2 AR",
+    "canal": "ESPN 2 AR MUTICALIDAD",
     "channel": "espn2ar",
     "logo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
     "grupo": "Deportes",
@@ -44,7 +44,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd"
   },
   {
-    "canal": "ESPN 3 AR",
+    "canal": "ESPN 3 AR MUTICALIDAD",
     "channel": "espn3",
     "logo": "https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png",
     "grupo": "Deportes",
@@ -58,7 +58,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd"
   },
   {
-    "canal": "ESPN 4 AR",
+    "canal": "ESPN 4 AR MUTICALIDAD",
     "channel": "espn4",
     "logo": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
     "grupo": "Deportes",
@@ -72,7 +72,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd"
   },
   {
-    "canal": "ESPN 5 AR",
+    "canal": "ESPN 5 AR MUTICALIDAD",
     "channel": "espn5",
     "logo": "https://i.imgur.com/eBYBgnn.png",
     "grupo": "Deportes",
@@ -86,7 +86,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd"
   },
   {
-    "canal": "ESPN 6 AR",
+    "canal": "ESPN 6 AR MUTICALIDAD",
     "channel": "espn6",
     "logo": "https://i.imgur.com/dk8AYkV.png",
     "grupo": "Deportes",
@@ -100,7 +100,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd"
   },
   {
-    "canal": "ESPN 7 AR",
+    "canal": "ESPN 7 AR MUTICALIDAD",
     "channel": "espn7",
     "logo": "https://i.imgur.com/bWrggk0.png",
     "grupo": "Deportes",
@@ -114,7 +114,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd"
   },
   {
-    "canal": "DSPORTS",
+    "canal": "DSPORTS MUTICALIDAD",
     "channel": "dsports",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
     "grupo": "DEPORTES",
@@ -128,7 +128,7 @@
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd"
   },
   {
-    "canal": "DSPORTS ARG",
+    "canal": "DSPORTS ARG MUTICALIDAD",
     "channel": "dsports",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
     "grupo": "DEPORTES",
@@ -142,7 +142,7 @@
     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd"
   },
   {
-    "canal": "DSPORTS 2 HD",
+    "canal": "DSPORTS 2 HD MUTICALIDAD",
     "channel": "dsports2",
     "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
     "grupo": "DEPORTES",
@@ -156,7 +156,7 @@
     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd"
   },
   {
-    "canal": "DSports +",
+    "canal": "DSports + MUTICALIDAD",
     "channel": "dsportsplus",
     "logo": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png",
     "grupo": "DEPORTES",
@@ -170,7 +170,7 @@
     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd"
   },
   {
-    "canal": "SKY sports La Liga",
+    "canal": "SKY sports La Liga MUTICALIDAD",
     "channel": "daznlaliga",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png",
     "grupo": "Deportes",
@@ -184,7 +184,7 @@
     "url": "https://live3-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd"
   },
   {
-    "canal": "SKY sports La Liga",
+    "canal": "SKY sports La Liga MUTICALIDAD",
     "channel": "mlaliga",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png",
     "grupo": "Deportes",
@@ -331,7 +331,7 @@
     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd"
   },
   {
-    "canal": "FOX Sports",
+    "canal": "FOX Sports MUTICALIDAD",
     "channel": "fox1ar",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",
     "grupo": "Deportes",
@@ -345,7 +345,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd"
   },
   {
-    "canal": "FOX Sports 2",
+    "canal": "FOX Sports 2 MUTICALIDAD",
     "channel": "fox2ar",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
     "grupo": "Deportes",
@@ -359,7 +359,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd"
   },
   {
-    "canal": "FOX Sports 3",
+    "canal": "FOX Sports 3 MUTICALIDAD",
     "channel": "fox3ar",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
     "grupo": "Deportes",
@@ -373,7 +373,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd"
   },
   {
-    "canal": "TNT Sports Premium FHD",
+    "canal": "TNT Sports Premium FHD MUTICALIDAD",
     "channel": "tntsports",
     "logo": "https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png",
     "grupo": "Fútbol Argentino",
@@ -387,7 +387,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd"
   },
   {
-    "canal": "ESPN Premium FHD",
+    "canal": "ESPN Premium FHD MUTICALIDAD",
     "channel": "espnpremium",
     "logo": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",
     "grupo": "Fútbol Argentino",
@@ -401,7 +401,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd"
   },
   {
-    "canal": "TyC Sports FHD",
+    "canal": "TyC Sports FHD MUTICALIDAD",
     "channel": "tyc",
     "logo": "https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/400/400/0/0/42832369072861.png",
     "grupo": "Deportes",
@@ -415,7 +415,7 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd"
   },
   {
-    "canal": "TUDN MX",
+    "canal": "TUDN MX MUTICALIDAD",
     "channel": "tudnmx",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
     "grupo": "DEPORTES",
@@ -429,7 +429,7 @@
     "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd"
   },
   {
-    "canal": "CANAL 5 MX",
+    "canal": "CANAL 5 MX MUTICALIDAD",
     "channel": "canal5mx",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
     "grupo": "DEPORTES",
@@ -443,7 +443,7 @@
     "url": "https://live1-ott.izzigo.tv/7/out/u/dash/CANAL-5-HD-H265/default.mpd"
   },
   {
-    "canal": "AZTECA 7",
+    "canal": "AZTECA 7 MUTICALIDAD",
     "channel": "azteca7",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
     "grupo": "DEPORTES",
@@ -457,7 +457,7 @@
     "url": "https://live1-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-7-HD/dash/AZTECA-7-HD.mpd"
   },
   {
-    "canal": "FOX DEPORTES",
+    "canal": "FOX DEPORTES MUTICALIDAD",
     "channel": "fox_deportes_usa",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
     "grupo": "DEPORTES",
@@ -471,7 +471,7 @@
     "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
   },
   {
-  "canal": "LIGA 1 MAX",
+  "canal": "LIGA 1 MAX HD",
   "channel": "liga1max",
   "logo": "https://i.postimg.cc/tu-logo/logo.png",
   "grupo": "Entretenimiento",
@@ -479,7 +479,7 @@
   "url": "http://38.87.224.19:2220/play/a001/index.m3u8"
 },
 {
-  "canal": "Telefe",
+  "canal": "Telefe HD",
   "channel": "telefe",
   "logo": "https://i.postimg.cc/tu-logo/logo.png",
   "grupo": "Entretenimiento",
@@ -487,7 +487,7 @@
   "url": "http://38.87.224.19:2220/play/a04b/index.m3u8"
 },
 {
-  "canal": "ESPN MX",
+  "canal": "ESPN MX HD",
   "channel": "espnmx",
   "logo": "https://i.postimg.cc/tu-logo/logo.png",
   "grupo": "Entretenimiento",
@@ -495,7 +495,7 @@
   "url": "http://187.102.208.209:8000/play/a06a"
 },
 {
-  "canal": "WIN SPORTS +",
+  "canal": "WIN SPORTS + HD",
   "channel": "winplus",
   "logo": "https://i.postimg.cc/tu-logo/logo.png",
   "grupo": "Entretenimiento",
