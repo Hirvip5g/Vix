@@ -31,7 +31,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "ESPN 3 AR",
+                                    "name": "ESPN 3",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn3",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 3 AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -92,7 +102,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "TNT Sports Premium FHD",
+                                    "name": "TNT Sports",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dtntsports",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "TNT Sports Premium FHD MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -145,7 +165,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN Premium FHD",
+                                    "name": "ESPN Premium",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnpremium",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN Premium FHD MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -198,7 +228,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN Premium FHD",
+                                    "name": "ESPN Premium",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnpremium",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN Premium FHD MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -215,6 +255,16 @@
                                 },
                                 {
                                     "name": "ESPN AR",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnar",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -326,6 +376,16 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "SporTV 1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dsporttvbr1",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
                                     "name": "SPORTV 1 🇧🇷",
                                     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
                                     "type": "clearkey",
@@ -340,6 +400,16 @@
                                     },
                                     "referer": "",
                                     "origin": ""
+                                },
+                                {
+                                    "name": "Premiere 1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dpremiere1",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
                                 },
                                 {
                                     "name": "PREMIERE CLUBES 🇧🇷",
@@ -396,7 +466,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "WIN SPORTS +",
+                                    "name": "Win Sports +",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinplus",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "WIN SPORTS + HD",
                                     "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -446,7 +526,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "WIN SPORTS +",
+                                    "name": "Win Sports +",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinplus",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "WIN SPORTS + HD",
                                     "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -523,7 +613,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "WIN SPORTS +",
+                                    "name": "Win Sports +",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinplus",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "WIN SPORTS + HD",
                                     "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -563,7 +663,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "WIN SPORTS +",
+                                    "name": "Win Sports +",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinplus",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "WIN SPORTS + HD",
                                     "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -624,7 +734,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "WIN SPORTS +",
+                                    "name": "Win Sports +",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinplus",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "WIN SPORTS + HD",
                                     "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -771,7 +891,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "DSPORTS 2 HD",
+                                    "name": "DSports 2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddsports2",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "DSPORTS 2 HD MUTICALIDAD",
                                     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -788,6 +918,16 @@
                                 },
                                 {
                                     "name": "TUDN MX",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dtudnmx",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "TUDN MX MUTICALIDAD",
                                     "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -831,6 +971,16 @@
                             "servers": [
                                 {
                                     "name": "TUDN MX",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dtudnmx",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "TUDN MX MUTICALIDAD",
                                     "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -894,7 +1044,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX DEPORTES",
+                                    "name": "FOX Deportes USA",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox_deportes_usa",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "FOX DEPORTES MUTICALIDAD",
                                     "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -947,7 +1107,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX DEPORTES",
+                                    "name": "FOX Deportes USA",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox_deportes_usa",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "FOX DEPORTES MUTICALIDAD",
                                     "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -961,6 +1131,16 @@
                                     },
                                     "referer": "https://www.primevideo.com/",
                                     "origin": ""
+                                },
+                                {
+                                    "name": "SporTV 1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dsporttvbr1",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
                                 },
                                 {
                                     "name": "SPORTV 1 🇧🇷",
@@ -1027,7 +1207,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 2 CO",
+                                    "name": "ESPN 2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 2 CO HD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -1041,6 +1231,16 @@
                                 },
                                 {
                                     "name": "ESPN 2 AR",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2ar",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 2 AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1103,7 +1303,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 2 CO",
+                                    "name": "ESPN 2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 2 CO HD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -1117,6 +1327,16 @@
                                 },
                                 {
                                     "name": "ESPN 2 AR",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2ar",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 2 AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1171,7 +1391,7 @@
                             "homeTeam": "Sabah",
                             "awayTeam": "Borussia Dortmund",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
-                            "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
+                            "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=original",
                             "imageMode": "teams",
                             "duration": 130,
                             "extraTime": 0,
@@ -1189,7 +1409,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN CO",
+                                    "name": "ESPN",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN CO HD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -1202,7 +1432,17 @@
                                     "origin": ""
                                 },
                                 {
-                                    "name": "FOX Sports",
+                                    "name": "FOX Sports 1 AR",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox1ar",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "FOX Sports MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1275,7 +1515,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN CO",
+                                    "name": "ESPN",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN CO HD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -1289,6 +1539,16 @@
                                 },
                                 {
                                     "name": "ESPN AR",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnar",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1361,7 +1621,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 7 AR",
+                                    "name": "ESPN 7",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn7",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 7 AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1377,7 +1647,17 @@
                                     "origin": "https://portal.app.flow.com.ar"
                                 },
                                 {
-                                    "name": "FOX Sports 2",
+                                    "name": "FOX Sports 2 AR",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox2ar",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "FOX Sports 2 MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1430,7 +1710,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 5 AR",
+                                    "name": "ESPN 5",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn5",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 5 AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1446,7 +1736,17 @@
                                     "origin": "https://portal.app.flow.com.ar"
                                 },
                                 {
-                                    "name": "FOX Sports",
+                                    "name": "FOX Sports 1 AR",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox1ar",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "FOX Sports MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1499,7 +1799,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 3 AR",
+                                    "name": "ESPN 3",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn3",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 3 AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1562,7 +1872,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 6 AR",
+                                    "name": "ESPN 6",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn6",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 6 AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1625,7 +1945,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 4 AR",
+                                    "name": "ESPN 4",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn4",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 4 AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1868,7 +2198,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "AZTECA 7",
+                                    "name": "Azteca 7",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dazteca7",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "AZTECA 7 MUTICALIDAD",
                                     "url": "https://live1-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-7-HD/dash/AZTECA-7-HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1894,7 +2234,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX DEPORTES",
+                                    "name": "FOX Deportes USA",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox_deportes_usa",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "FOX DEPORTES MUTICALIDAD",
                                     "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1937,7 +2287,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "AZTECA 7",
+                                    "name": "Azteca 7",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dazteca7",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "AZTECA 7 MUTICALIDAD",
                                     "url": "https://live1-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-7-HD/dash/AZTECA-7-HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1973,7 +2333,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX DEPORTES",
+                                    "name": "FOX Deportes USA",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox_deportes_usa",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "FOX DEPORTES MUTICALIDAD",
                                     "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -2037,7 +2407,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "DSPORTS ARG",
+                                    "name": "DSports",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddsports",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "DSPORTS ARG MUTICALIDAD",
                                     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -2064,6 +2444,16 @@
                                 },
                                 {
                                     "name": "ESPN AR",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnar",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN AR MUTICALIDAD",
                                     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -2079,7 +2469,17 @@
                                     "origin": "https://portal.app.flow.com.ar"
                                 },
                                 {
-                                    "name": "ESPN CO",
+                                    "name": "ESPN",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN CO HD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
@@ -2185,7 +2585,17 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "ESPN 2 CO",
+                                    "name": "ESPN 2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2",
+                                    "type": "iframe",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN 2 CO HD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
