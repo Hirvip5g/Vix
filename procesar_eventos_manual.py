@@ -90,7 +90,7 @@ MAPEO_EQUIPOS = CaseInsensitiveDict({
     "genoa": "10233", "fiorentina": "8535", "inter": "8636", "inter de milan": "8636", "parma": "10167",
     "napoli": "9875", "frosinone": "9891",
     "vasco da gama": "10276", "remo": "1626", "são paulo": "10277", "vitória": "7733",
-    "boca juniors": "90006", "river plate": "90015", "Slavia Praha": "1901", "Al Qadisiya": "1902", "Fenerbahçe": "1903", "Sabah": "Sabah", "demo": "1234", "demo": "1234", "demo": "1234", "demo": "1234",
+    "boca juniors": "90006", "river plate": "90015", "Slavia Praha": "1901", "Al Qadisiya": "1902", "Fenerbahçe": "1903", "Sabah": "Sabah", "demo": "1234",
 })
 
 # Diccionario para asociar ligas con un ID específico (para fondos y estilos)
@@ -135,8 +135,6 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "Copa Sudamericana": "copasudamericana",
     "Copa Centroamericana de CONCACAF": "copaconcacaf",
     "demo": "deml",
-    "demo": "deml",
-    # Agrega más ligas según necesites...
 })
 
 def limpiar_nombre_equipo(nombre, liga_nombre=""):
@@ -168,11 +166,11 @@ def procesar_agenda():
                         ch_key = c.get("channel", "").strip().lower()
                         if ch_key:
                             canales_04_dict[ch_key] = c
-                    print(f"Se cargaron e indexaron {len(canales_04_dict)} canales desde {LOCAL_CHANNELS_JSON}.")
+                    print(f"Se cargaron e indexaron {len(canales_04_dict)} canales desde {LOCAL_CHANNELS_JSON}[cite: 1].")
         except Exception as e:
             print(f"Error al leer {LOCAL_CHANNELS_JSON}: {e}")
 
-    print(f"Descargando JSON manual desde {AGENDA_URL}...")
+    print(f"Descargando JSON manual desde {AGENDA_URL}[cite: 1]...")
     try:
         response = requests.get(AGENDA_URL, timeout=10)
         if response.status_code != 200:
@@ -232,7 +230,7 @@ def procesar_agenda():
                     elif home_logo or away_logo:
                         event["imageMode"] = "teams"
 
-                    # Procesar servidores y buscar coincidencias en 04.json
+                    # Procesar servidores: mantener los originales y agregar los de 04.json si coinciden
                     nuevos_servidores = []
                     for server in event.get("servers", []):
                         server_url = server.get("url", "")
@@ -243,6 +241,14 @@ def procesar_agenda():
                         if not channel_param:
                             channel_param = query_params.get("stream", [""])[0].strip().lower()
 
+                        # 1. Agregar el servidor original de StreamXHD con su iframe predeterminado
+                        iframe_url = f"https://pruevon.blogspot.com/2026/04/embedc.html?r={urllib.parse.quote(server_url, safe='')}"
+                        server_copy = dict(server)
+                        server_copy["url"] = iframe_url
+                        server_copy["type"] = "iframe"
+                        nuevos_servidores.append(server_copy)
+
+                        # 2. Si coincide con 04.json, agregar también el servidor adicional de 04.json
                         if channel_param and channel_param in canales_04_dict:
                             canal_info = canales_04_dict[channel_param]
                             nuevos_servidores.append({
@@ -258,12 +264,6 @@ def procesar_agenda():
                                 "referer": canal_info.get("referer", ""),
                                 "origin": canal_info.get("origin", "")
                             })
-                        else:
-                            iframe_url = f"https://pruevon.blogspot.com/2026/04/embedc.html?r={urllib.parse.quote(server_url, safe='')}"
-                            server_copy = dict(server)
-                            server_copy["url"] = iframe_url
-                            server_copy["type"] = "iframe"
-                            nuevos_servidores.append(server_copy)
 
                     event["servers"] = nuevos_servidores
 
@@ -273,7 +273,7 @@ def procesar_agenda():
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(agenda_data, f, ensure_ascii=False, indent=4)
 
-    print(f"Agenda manual procesada y guardada correctamente en {OUTPUT_JSON}.")
+    print(f"Agenda manual procesada y guardada correctamente en {OUTPUT_JSON}[cite: 1].")
 
 if __name__ == "__main__":
     procesar_agenda()
