@@ -31,17 +31,20 @@
                             "note": "",
                             "servers": [
                                 {
-                                    "name": "ESPN 3 CO",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN 3 AR",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": ""
+                                    "channelLogo": "https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "deeed0f44c6b45e064f4d5064486e821",
+                                        "key": "bf89ceeb93564ddc603ba6afd8c9266a"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar"
                                 }
                             ],
                             "flagCode": "",
@@ -1358,17 +1361,20 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 7 CO",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN 7 AR",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": ""
+                                    "channelLogo": "https://i.imgur.com/bWrggk0.png",
+                                    "clearkey": {
+                                        "keyId": "fdac9b45f19959b848f498c8efe15d12",
+                                        "key": "c2a6e7acabc370ef792ffacc5e2610a9"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar"
                                 },
                                 {
                                     "name": "FOX Sports 2",
@@ -1424,17 +1430,20 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 5 CO",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN 5 AR",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": ""
+                                    "channelLogo": "https://i.imgur.com/eBYBgnn.png",
+                                    "clearkey": {
+                                        "keyId": "cf626de3cadd9bfaf0b85c06aafd2cd0",
+                                        "key": "bc2aa7d9e6354e4979ee62b0ec5595c5"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar"
                                 },
                                 {
                                     "name": "FOX Sports",
@@ -1490,17 +1499,20 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 3 CO",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN 3 AR",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": ""
+                                    "channelLogo": "https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "deeed0f44c6b45e064f4d5064486e821",
+                                        "key": "bf89ceeb93564ddc603ba6afd8c9266a"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar"
                                 },
                                 {
                                     "name": "Vix",
@@ -1550,17 +1562,20 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 6 CO",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN 6 AR",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": ""
+                                    "channelLogo": "https://i.imgur.com/dk8AYkV.png",
+                                    "clearkey": {
+                                        "keyId": "fdac9b45f19959b848f498c8efe15d12",
+                                        "key": "c2a6e7acabc370ef792ffacc5e2610a9"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar"
                                 },
                                 {
                                     "name": "Vix",
@@ -1610,17 +1625,20 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 4 CO",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN 4 AR",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": ""
+                                    "channelLogo": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
+                                    "clearkey": {
+                                        "keyId": "d02981e6faeacef49c90fdb053ab641d",
+                                        "key": "645e13624e933841b1ea35cda1b55bd1"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar"
                                 },
                                 {
                                     "name": "HBO Max 3",
