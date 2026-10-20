@@ -373,6 +373,38 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd"
   },
   {
+    "canal": "FOX Sports 1 HD",
+    "channel": "foxar",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+    "grupo": "Deportes",
+    "tipo": "m3u8",
+  "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports1/playlist.m3u8"
+  },
+  {
+    "canal": "FOX Sports 2 HD",
+    "channel": "fox2ar",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+    "grupo": "Deportes",
+    "tipo": "m3u8",
+  "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8"
+  },
+  {
+    "canal": "FOX Sports 3 HD",
+    "channel": "fox3ar",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+    "grupo": "Deportes",
+    "tipo": "m3u8",
+  "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports3/playlist.m3u8"
+  },
+  {
+    "canal": "TNT SPORTS HD",
+    "channel": "tntsports",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+    "grupo": "Deportes",
+    "tipo": "m3u8",
+  "url": "https://zapster.trapemn.tv:1936/CD-LATAM/TNT_SPORTS/playlist.m3u8"
+  },
+  {
     "canal": "TNT Sports Premium FHD MUTICALIDAD",
     "channel": "tntsports",
     "logo": "https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png",
@@ -399,6 +431,14 @@
     "referer": "https://portal.app.flow.com.ar",
     "origin": "https://portal.app.flow.com.ar",
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd"
+  },
+  {
+    "canal": "ESPN Premium HD",
+    "channel": "espnpremium",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+    "grupo": "Deportes",
+    "tipo": "m3u8",
+  "url": "https://zapster.trapemn.tv:1936/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8"
   },
   {
     "canal": "TyC Sports FHD MUTICALIDAD",
