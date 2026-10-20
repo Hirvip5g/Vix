@@ -19,7 +19,7 @@
   "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
     "grupo": "Deportes",
     "tipo": "m3u8",
-  "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8"
+  "url": "http://209.61.12.132:9000/play/a06z/index.m3u8"
   },
 {
   "canal": "ESPN 2 CO HD",
@@ -27,7 +27,7 @@
   "logo": "https://i.postimg.cc/tu-logo/logo.png",
   "grupo": "Entretenimiento",
   "tipo": "m3u8",
-  "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8"
+  "url": "http://209.61.12.132:9000/play/a08p/index.m3u8"
 },
   {
     "canal": "ESPN 2 AR MUTICALIDAD",
