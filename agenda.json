@@ -701,7 +701,7 @@
                     "name": "UEFA Youth League",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/uefayouthleague.jpg",
                     "events": [
                         {
                             "title": "PSG vs Barcelona",
@@ -737,13 +737,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "uefayouthleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/uefayouthleague.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "uefayouthleague"
                 },
                 {
                     "name": "Copa Mundial Femenina Sub-17",
@@ -1671,7 +1671,7 @@
                     "name": "Copa Chile",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copachile.jpg",
                     "events": [
                         {
                             "title": "Colo Colo vs Puerto Montt",
@@ -1707,8 +1707,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copachile",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copachile.jpg"
                         },
                         {
                             "title": "Unión La Calera vs Coquimbo Unido",
@@ -1744,13 +1744,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copachile",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copachile.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copachile"
                 },
                 {
                     "name": "Liga MX",
@@ -1987,7 +1987,7 @@
                     "name": "Copa Sudamericana",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copasudamericana.jpg",
                     "events": [
                         {
                             "title": "Vasco da Gama vs Boca Juniors",
@@ -2081,19 +2081,19 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copasudamericana",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copasudamericana.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copasudamericana"
                 },
                 {
                     "name": "Copa Centroamericana de CONCACAF",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaconcacaf.jpg",
                     "events": [
                         {
                             "title": "Marathón vs Alianza",
@@ -2129,13 +2129,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copaconcacaf",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaconcacaf.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copaconcacaf"
                 }
             ]
         },
