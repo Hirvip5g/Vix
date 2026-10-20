@@ -130,6 +130,10 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "Serie B": "serieb",
     "Saudi Pro League": "saudiproleague",
     "Primeira Liga": "primeiraligap",
+    "UEFA Youth League": "uefayouthleague",
+    "Copa Chile": "copachile",
+    "Copa Sudamericana": "copasudamericana",
+    "Copa Centroamericana de CONCACAF": "copaconcacaf",
     "demo": "deml",
     "demo": "deml",
     # Agrega más ligas según necesites...
