@@ -260,23 +260,24 @@ def procesar_agenda():
                         nuevos_servidores.append(server_copy)
 
                         # 2. Si coincide con 04.json, agregar también el servidor adicional de 04.json
-                        # 2. Si coincide con 04.json, agregar también el servidor adicional de 04.json
+                        # 2. Si coincide con 04.json, agregar todos los servidores adicionales de 04.json
                         if channel_param and channel_param in canales_04_dict:
-                            canal_info = canales_04_dict[channel_param]
-                            nuevos_servidores.append({
-                                "name": canal_info.get("canal", server.get("name", channel_param.upper())),
-                                "url": canal_info.get("url", ""),
-                                "type": canal_info.get("tipo", "clearkey"),
-                                "quality": server.get("quality", ""),
-                                "active": True,
-                                "languages": server.get("languages", []),
-                                "customLanguages": server.get("customLanguages", ""),
-                                "channelLogo": canal_info.get("logo", server.get("channelLogo", "")),
-                                "clearkey": canal_info.get("clearkey", None),
-                                "referer": canal_info.get("referer", ""),
-                                "origin": canal_info.get("origin", ""),
-                                "userAgent": canal_info.get("userAgent", "")  # <--- ¡Agrega esta línea aquí!
-                            })
+                            # Iteramos sobre la lista de canales asociados a esa clave
+                            for canal_info in canales_04_dict[channel_param]:
+                                nuevos_servidores.append({
+                                    "name": canal_info.get("canal", server.get("name", channel_param.upper())),
+                                    "url": canal_info.get("url", ""),
+                                    "type": canal_info.get("tipo", "clearkey"),
+                                    "quality": server.get("quality", ""),
+                                    "active": True,
+                                    "languages": server.get("languages", []),
+                                    "customLanguages": server.get("customLanguages", ""),
+                                    "channelLogo": canal_info.get("logo", server.get("channelLogo", "")),
+                                    "clearkey": canal_info.get("clearkey", None),
+                                    "referer": canal_info.get("referer", ""),
+                                    "origin": canal_info.get("origin", ""),
+                                    "userAgent": canal_info.get("userAgent", "")
+                                })
 
                     event["servers"] = nuevos_servidores
 
