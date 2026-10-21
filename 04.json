@@ -14,6 +14,104 @@
     "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd"
   },
   {
+    "canal": "ESPN FHD",
+    "channel": "espn",
+    "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "b3e4e74ae2080b137e68bbd0ef8a7e05",
+      "key": "cb004fb100bd92f23793562891e3236b"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?"
+  },
+  {
+    "canal": "ESPN 2 FHD",
+    "channel": "espn2",
+    "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
+      "key": "6d15568e1dab59e7202ae12e71505185"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?"
+  },
+  {
+    "canal": "ESPN 3 FHD",
+    "channel": "espn3",
+    "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "8a60d7889ff126ee1895335e92254f8e",
+      "key": "de1b0ce19fa804a1c473eb8ef2d5cf6d"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd?"
+  },
+  {
+    "canal": "ESPN 4 FHD",
+    "channel": "espn4",
+    "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "54a2c11085c315ed6ff85c340a86095d",
+      "key": "5f0d10cf4a5c7e22e286b7e8cb4e79f4"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.mpd?"
+  },
+  {
+    "canal": "ESPN 5",
+    "channel": "espn5",
+    "logo": "https://i.ibb.co/6bvjxGP/espn-5B.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+        "keyId": "4e126297fc7af35c736bdffe98eecaaa",
+        "key": "fdb0091cf67d9c596dbfb07cf6f4c8f5"
+    },
+    "referer": "",
+    "origin": "",
+    "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd?"
+},
+{
+    "canal": "ESPN 6",
+    "channel": "espn6",
+    "logo": "https://i.ibb.co/CsyhPz4/espn-6B.png?",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+        "keyId": "f5836382452cdca1e1c8bf8b9a713534",
+        "key": "7d261930c3309ed2b06d2abb34a64410"
+    },
+    "referer": "",
+    "origin": "",
+    "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd?"
+},
+{
+    "canal": "ESPN 7",
+    "channel": "espn7",
+    "logo": "https://i.ibb.co/LSQFzkw/espn-7B.png?",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+        "keyId": "98ea1e32227adcd3618baac2bbf36814",
+        "key": "72a03a09d33e412f14a9bfa4ef24b542"
+    },
+    "referer": "",
+    "origin": "",
+    "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd?"
+},
+  {
   "canal": "ESPN CO HD",
   "channel": "espn",
   "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
@@ -435,10 +533,11 @@
   {
     "canal": "ESPN Premium HD",
     "channel": "espnpremium",
+    "userAgent": "APPMOVIL-e4ff1c8cc00f29e8",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
     "grupo": "Deportes",
     "tipo": "m3u8",
-  "url": "https://zapster.trapemn.tv:1936/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8"
+  "url": "http://45.189.108.146:1935/xmp_trans/Espn_premium.stream/playlist.m3u8"
   },
   {
     "canal": "TyC Sports FHD MUTICALIDAD",
