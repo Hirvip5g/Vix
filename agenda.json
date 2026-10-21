@@ -51,7 +51,8 @@
                                     "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
                                     "clearkey": null,
                                     "referer": "",
-                                    "origin": ""
+                                    "origin": "",
+                                    "userAgent": ""
                                 }
                             ],
                             "flagCode": "",
@@ -101,7 +102,8 @@
                                     "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
                                     "clearkey": null,
                                     "referer": "",
-                                    "origin": ""
+                                    "origin": "",
+                                    "userAgent": ""
                                 }
                             ],
                             "flagCode": "",
@@ -152,6 +154,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "DSPORTS MUTICALIDAD",
+                                    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+                                    "clearkey": {
+                                        "keyId": "f8b207c10f3f76aeba32a360ec52b9e4",
+                                        "key": "afad49d20eb39670e93e371c1d669921"
+                                    },
+                                    "referer": "https://www.primevideo.com/",
+                                    "origin": "",
+                                    "userAgent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+                                },
+                                {
                                     "name": "DSPORTS ARG MUTICALIDAD",
                                     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
                                     "type": "clearkey",
@@ -165,7 +184,8 @@
                                         "key": "278128004fe8c6ffb2cd2a0c154a241a"
                                     },
                                     "referer": "https://www.primevideo.com/",
-                                    "origin": ""
+                                    "origin": "",
+                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                                 },
                                 {
                                     "name": "Disney +",
@@ -188,6 +208,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "ESPN FHD",
+                                    "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "b3e4e74ae2080b137e68bbd0ef8a7e05",
+                                        "key": "cb004fb100bd92f23793562891e3236b"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ESPN CO HD",
                                     "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
                                     "type": "m3u8",
@@ -198,7 +235,8 @@
                                     "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
                                     "clearkey": null,
                                     "referer": "",
-                                    "origin": ""
+                                    "origin": "",
+                                    "userAgent": ""
                                 },
                                 {
                                     "name": "ESPN AR",
@@ -224,7 +262,8 @@
                                         "key": "05059d1cb21b6708a55e9c26fb38e2f3"
                                     },
                                     "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar"
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
                                 }
                             ],
                             "flagCode": "",
@@ -373,7 +412,8 @@
                                         "key": "8fbdd8a9ae6748696bb13e547bb093fc"
                                     },
                                     "referer": "",
-                                    "origin": ""
+                                    "origin": "",
+                                    "userAgent": ""
                                 }
                             ],
                             "flagCode": "",
@@ -530,6 +570,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "ESPN FHD",
+                                    "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "b3e4e74ae2080b137e68bbd0ef8a7e05",
+                                        "key": "cb004fb100bd92f23793562891e3236b"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ESPN CO HD",
                                     "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
                                     "type": "m3u8",
@@ -540,7 +597,8 @@
                                     "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
                                     "clearkey": null,
                                     "referer": "",
-                                    "origin": ""
+                                    "origin": "",
+                                    "userAgent": ""
                                 },
                                 {
                                     "name": "FOX Sports 1 AR",
@@ -566,7 +624,8 @@
                                         "key": "a2e20a45a057ff4e7c0bc2ad49e6f3e5"
                                     },
                                     "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar"
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
                                 }
                             ],
                             "flagCode": "",
@@ -698,6 +757,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "ESPN 2 FHD",
+                                    "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
+                                        "key": "6d15568e1dab59e7202ae12e71505185"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ESPN 2 CO HD",
                                     "url": "http://190.60.48.151:8010/play/a09l/index.m3u8",
                                     "type": "m3u8",
@@ -708,7 +784,8 @@
                                     "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
                                     "clearkey": null,
                                     "referer": "",
-                                    "origin": ""
+                                    "origin": "",
+                                    "userAgent": ""
                                 },
                                 {
                                     "name": "NBA League Pass",
@@ -943,6 +1020,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "ESPN 2 FHD",
+                                    "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
+                                        "key": "6d15568e1dab59e7202ae12e71505185"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ESPN 2 CO HD",
                                     "url": "http://190.60.48.151:8010/play/a09l/index.m3u8",
                                     "type": "m3u8",
@@ -953,7 +1047,8 @@
                                     "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
                                     "clearkey": null,
                                     "referer": "",
-                                    "origin": ""
+                                    "origin": "",
+                                    "userAgent": ""
                                 },
                                 {
                                     "name": "NBA League Pass",
