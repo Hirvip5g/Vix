@@ -173,8 +173,11 @@ def procesar_agenda():
                     for c in contenido_04:
                         ch_key = c.get("channel", "").strip().lower()
                         if ch_key:
-                            canales_04_dict[ch_key] = c
-                    print(f"Se cargaron e indexaron {len(canales_04_dict)} canales desde {LOCAL_CHANNELS_JSON}[cite: 1].")
+                            # Guardar en una lista para no sobrescribir duplicados
+                            if ch_key not in canales_04_dict:
+                                canales_04_dict[ch_key] = []
+                            canales_04_dict[ch_key].append(c)
+                    print(f"Se cargaron e indexaron canales desde {LOCAL_CHANNELS_JSON}[cite: 1].")
         except Exception as e:
             print(f"Error al leer {LOCAL_CHANNELS_JSON}: {e}")
 
@@ -257,6 +260,7 @@ def procesar_agenda():
                         nuevos_servidores.append(server_copy)
 
                         # 2. Si coincide con 04.json, agregar también el servidor adicional de 04.json
+                        # 2. Si coincide con 04.json, agregar también el servidor adicional de 04.json
                         if channel_param and channel_param in canales_04_dict:
                             canal_info = canales_04_dict[channel_param]
                             nuevos_servidores.append({
@@ -270,7 +274,8 @@ def procesar_agenda():
                                 "channelLogo": canal_info.get("logo", server.get("channelLogo", "")),
                                 "clearkey": canal_info.get("clearkey", None),
                                 "referer": canal_info.get("referer", ""),
-                                "origin": canal_info.get("origin", "")
+                                "origin": canal_info.get("origin", ""),
+                                "userAgent": canal_info.get("userAgent", "")  # <--- ¡Agrega esta línea aquí!
                             })
 
                     event["servers"] = nuevos_servidores
