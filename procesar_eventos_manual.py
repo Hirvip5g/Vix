@@ -134,6 +134,14 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "Copa Chile": "copachile",
     "Copa Sudamericana": "copasudamericana",
     "Copa Centroamericana de CONCACAF": "copaconcacaf",
+    "NBA": "nba",
+    "Copa Colombia": "copacolombia",
+    "demo": "deml",
+    "demo": "deml",
+    "demo": "deml",
+    "demo": "deml",
+    "demo": "deml",
+    "demo": "deml",
     "demo": "deml",
 })
 
