@@ -1688,6 +1688,19 @@
                                     "languages": [],
                                     "customLanguages": "",
                                     "channelLogo": ""
+                                },
+                                {
+                                    "name": "ESPN DEPORTES HD",
+                                    "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes&code=us&user=cdnlivetv&plan=free",
+                                    "type": "embed",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": ""
                                 }
                             ],
                             "flagCode": "",
