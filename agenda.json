@@ -32,7 +32,7 @@
                             "servers": [
                                 {
                                     "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinplus",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinplus",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -55,7 +55,7 @@
                                 },
                                 {
                                     "name": "Win Sports",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinsports",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinsports",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -92,7 +92,7 @@
                             "servers": [
                                 {
                                     "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinplus",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinplus",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -142,7 +142,7 @@
                             "servers": [
                                 {
                                     "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinplus",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinplus",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -183,53 +183,6 @@
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg",
                     "events": [
                         {
-                            "title": "Guadalajara vs Necaxa",
-                            "league": "Liga MX",
-                            "code": "LIGAMX",
-                            "time": "2026-10-20T19:07:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 4,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Guadalajara",
-                            "awayTeam": "Necaxa",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/229.png",
-                            "imageMode": "teams",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Prime Video",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Damazon1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "Universo",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Duniverso",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg"
-                        },
-                        {
                             "title": "Atlético San Luis vs Querétaro",
                             "league": "Liga MX",
                             "code": "LIGAMX",
@@ -250,7 +203,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney11",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney11",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -287,7 +240,7 @@
                             "servers": [
                                 {
                                     "name": "Azteca 7",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dazteca7",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dazteca7",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -313,7 +266,7 @@
                                 },
                                 {
                                     "name": "FOX One",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfoxone",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfoxone",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -323,7 +276,7 @@
                                 },
                                 {
                                     "name": "FOX Deportes USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox_deportes_usa",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox_deportes_usa",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -376,7 +329,7 @@
                             "servers": [
                                 {
                                     "name": "Azteca 7",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dazteca7",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dazteca7",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -402,7 +355,7 @@
                                 },
                                 {
                                     "name": "FOX One",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfoxone",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfoxone",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -412,7 +365,7 @@
                                 },
                                 {
                                     "name": "Universo",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Duniverso",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Duniverso",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -422,7 +375,7 @@
                                 },
                                 {
                                     "name": "FOX Deportes USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox_deportes_usa",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox_deportes_usa",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -486,7 +439,7 @@
                             "servers": [
                                 {
                                     "name": "DSports Global",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.click%2Fchannel%2F%3Fid%3Ddsports",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Fchannel%2F%3Fid%3Ddsports",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -496,7 +449,7 @@
                                 },
                                 {
                                     "name": "DSports",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddsports",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddsports",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -522,7 +475,7 @@
                                 },
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney10",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney10",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -532,7 +485,7 @@
                                 },
                                 {
                                     "name": "ESPN AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnar",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despnar",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -558,7 +511,7 @@
                                 },
                                 {
                                     "name": "ESPN",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -608,7 +561,7 @@
                             "servers": [
                                 {
                                     "name": "DSports",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddsports",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddsports",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -634,7 +587,7 @@
                                 },
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney10",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney10",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -644,7 +597,7 @@
                                 },
                                 {
                                     "name": "ESPN",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -667,7 +620,7 @@
                                 },
                                 {
                                     "name": "ESPN AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnar",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despnar",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -731,7 +684,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney12",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney12",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -768,7 +721,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney12",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney12",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -805,7 +758,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney13",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney13",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -853,7 +806,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney1",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -863,7 +816,7 @@
                                 },
                                 {
                                     "name": "ESPN",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -886,7 +839,7 @@
                                 },
                                 {
                                     "name": "ESPN AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnar",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despnar",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -912,7 +865,7 @@
                                 },
                                 {
                                     "name": "TUDN USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dtudn_usa",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudn_usa",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -949,7 +902,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -959,7 +912,7 @@
                                 },
                                 {
                                     "name": "ESPN 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -982,7 +935,7 @@
                                 },
                                 {
                                     "name": "FOX Sports 1 AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox1ar",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox1ar",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1008,7 +961,7 @@
                                 },
                                 {
                                     "name": "HBO Max 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dmax1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dmax1",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1018,7 +971,7 @@
                                 },
                                 {
                                     "name": "Vix",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dvix1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dvix1",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1055,7 +1008,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney3",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney3",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1065,7 +1018,7 @@
                                 },
                                 {
                                     "name": "ESPN",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1088,7 +1041,7 @@
                                 },
                                 {
                                     "name": "ESPN AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnar",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despnar",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1141,7 +1094,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney4",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney4",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1151,7 +1104,7 @@
                                 },
                                 {
                                     "name": "ESPN 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1174,7 +1127,7 @@
                                 },
                                 {
                                     "name": "FOX Sports 1 AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox1ar",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox1ar",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1200,7 +1153,7 @@
                                 },
                                 {
                                     "name": "HBO Max 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dmax2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dmax2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1210,7 +1163,7 @@
                                 },
                                 {
                                     "name": "TUDN USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dtudn_usa",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudn_usa",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1247,7 +1200,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney5",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney5",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1257,7 +1210,7 @@
                                 },
                                 {
                                     "name": "ESPN 5",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn5",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn5",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1283,7 +1236,7 @@
                                 },
                                 {
                                     "name": "FOX Sports 2 AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox2ar",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox2ar",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1306,7 +1259,7 @@
                                 },
                                 {
                                     "name": "Vix",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dvix2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dvix2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1316,7 +1269,7 @@
                                 },
                                 {
                                     "name": "HBO Max 3",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dmax3",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dmax3",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1353,7 +1306,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney6",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney6",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1363,7 +1316,7 @@
                                 },
                                 {
                                     "name": "ESPN 7",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn7",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn7",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1389,7 +1342,7 @@
                                 },
                                 {
                                     "name": "Vix",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dvix3",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dvix3",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1426,7 +1379,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney7",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney7",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1436,7 +1389,7 @@
                                 },
                                 {
                                     "name": "ESPN 4",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn4",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn4",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1462,7 +1415,7 @@
                                 },
                                 {
                                     "name": "Vix",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dvix4",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dvix4",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1499,7 +1452,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney8",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney8",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1509,7 +1462,7 @@
                                 },
                                 {
                                     "name": "ESPN 3",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn3",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn3",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1535,7 +1488,7 @@
                                 },
                                 {
                                     "name": "ESPN 2 AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2ar",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2ar",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1561,7 +1514,7 @@
                                 },
                                 {
                                     "name": "Vix",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dvix5",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dvix5",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1598,7 +1551,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney9",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney9",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1608,7 +1561,7 @@
                                 },
                                 {
                                     "name": "ESPN 6",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn6",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn6",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1634,7 +1587,7 @@
                                 },
                                 {
                                     "name": "Vix",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dvix6",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dvix6",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1644,7 +1597,7 @@
                                 },
                                 {
                                     "name": "HBO Max 4",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dmax4",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dmax4",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1692,7 +1645,7 @@
                             "servers": [
                                 {
                                     "name": "DSports 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddsports2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddsports2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1718,7 +1671,7 @@
                                 },
                                 {
                                     "name": "ESPN +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despnplus1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despnplus1",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1728,7 +1681,7 @@
                                 },
                                 {
                                     "name": "ESPN Deportes",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despndeportes",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despndeportes",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1776,7 +1729,7 @@
                             "servers": [
                                 {
                                     "name": "DSports Plus",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddsportsplus",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddsportsplus",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1802,7 +1755,7 @@
                                 },
                                 {
                                     "name": "TUDN MX",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dtudnmx",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudnmx",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1866,7 +1819,7 @@
                             "servers": [
                                 {
                                     "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinplus",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinplus",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1916,7 +1869,7 @@
                             "servers": [
                                 {
                                     "name": "Win Sports",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinsports",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinsports",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1926,7 +1879,7 @@
                                 },
                                 {
                                     "name": "SporTV 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dsporttvbr1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dsporttvbr1",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -1979,7 +1932,7 @@
                             "servers": [
                                 {
                                     "name": "SporTV 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dsporttvbr2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dsporttvbr2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2043,7 +1996,7 @@
                             "servers": [
                                 {
                                     "name": "Apple TV Español",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dappletv1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dappletv1",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2068,7 +2021,7 @@
                     "name": "Copa Colombia",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copacolombia.jpg",
                     "events": [
                         {
                             "title": "Barranquilla vs América de Cali",
@@ -2091,7 +2044,7 @@
                             "servers": [
                                 {
                                     "name": "Win Sports",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dwinsports",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinsports",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2104,13 +2057,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copacolombia",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copacolombia.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copacolombia"
                 },
                 {
                     "name": "Copa Libertadores",
@@ -2139,7 +2092,7 @@
                             "servers": [
                                 {
                                     "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Ddisney11",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney11",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2149,7 +2102,7 @@
                                 },
                                 {
                                     "name": "ESPN",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2172,7 +2125,7 @@
                                 },
                                 {
                                     "name": "FOX Sports 1 AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dfox1ar",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox1ar",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2223,53 +2176,6 @@
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
-                            "title": "Knicks vs 76ers",
-                            "league": "NBA Pretemporada",
-                            "code": "NBA",
-                            "time": "2026-10-20T18:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 1,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Knicks",
-                            "awayTeam": "76ers",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-                            "imageMode": "teams",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "HBO Max 3",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dmax3",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "nba",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
-                        },
-                        {
                             "title": "Spurs vs Thunder",
                             "league": "NBA Pretemporada",
                             "code": "NBA",
@@ -2290,7 +2196,7 @@
                             "servers": [
                                 {
                                     "name": "HBO Max 4",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dmax4",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dmax4",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2300,7 +2206,7 @@
                                 },
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba3",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba3",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2325,7 +2231,7 @@
                     "name": "NBA",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
                             "title": "Wizards vs Bucks",
@@ -2348,7 +2254,7 @@
                             "servers": [
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba1",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba1",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2361,8 +2267,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Magic vs Hawks",
@@ -2385,7 +2291,7 @@
                             "servers": [
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2398,8 +2304,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Heat vs Timberwolves",
@@ -2422,7 +2328,7 @@
                             "servers": [
                                 {
                                     "name": "ESPN 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2445,7 +2351,7 @@
                                 },
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba3",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba3",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2458,8 +2364,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Nets vs Hornets",
@@ -2482,7 +2388,7 @@
                             "servers": [
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba4",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba4",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2495,8 +2401,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Raptors vs Bulls",
@@ -2519,7 +2425,7 @@
                             "servers": [
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba5",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba5",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2532,8 +2438,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Pelicans vs Pacers",
@@ -2556,7 +2462,7 @@
                             "servers": [
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba6",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba6",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2569,8 +2475,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Grizzlies vs Jazz",
@@ -2593,7 +2499,7 @@
                             "servers": [
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba7",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba7",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2606,8 +2512,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Rockets vs Mavericks",
@@ -2630,7 +2536,7 @@
                             "servers": [
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba8",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba8",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2643,8 +2549,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Lakers vs Warriors",
@@ -2667,7 +2573,7 @@
                             "servers": [
                                 {
                                     "name": "ESPN 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Despn2",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2690,7 +2596,7 @@
                                 },
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba9",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba9",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2703,8 +2609,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Trail Blazers vs Suns",
@@ -2727,7 +2633,7 @@
                             "servers": [
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba10",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba10",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2740,8 +2646,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         },
                         {
                             "title": "Clippers vs Kings",
@@ -2764,7 +2670,7 @@
                             "servers": [
                                 {
                                     "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.com%2Flive1.php%3Fstream%3Dnba11",
+                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba11",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -2777,16 +2683,16 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nba",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "nba"
                 }
             ]
         }
     ],
-    "updated": "2026-10-20 21:16:59"
+    "updated": "2026-10-20 21:37:21"
 }
