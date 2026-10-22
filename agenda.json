@@ -802,7 +802,7 @@
                     "name": "UEFA Conference League",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg",
                     "events": [
                         {
                             "title": "Crvena Zvezda vs København",
@@ -838,8 +838,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Paphos vs Riga",
@@ -875,8 +875,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Sporting Braga vs Gent",
@@ -912,8 +912,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Midtjylland vs Sint-Truiden",
@@ -949,8 +949,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "AGF vs Egnatia Rrogozhinë",
@@ -986,8 +986,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Kairat vs Panathinaikos",
@@ -1023,8 +1023,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Getafe vs Lugano",
@@ -1070,8 +1070,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Jablonec vs Brighton & Hove Albion",
@@ -1107,8 +1107,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Trabzonspor vs Hearts",
@@ -1144,8 +1144,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Nordsjælland vs CSKA Sofia",
@@ -1181,8 +1181,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Kauno Žalgiris vs Brann",
@@ -1218,8 +1218,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Inter Club d'Escaldes vs CSU Craiova",
@@ -1255,8 +1255,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Iberia 1999 vs Mjällby",
@@ -1292,8 +1292,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Ajax vs Atalanta",
@@ -1339,8 +1339,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Monaco vs Freiburg",
@@ -1376,8 +1376,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Thun vs Hajduk Split",
@@ -1413,8 +1413,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Lincoln Red Imps vs Twente",
@@ -1450,8 +1450,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         },
                         {
                             "title": "Borac Banja Luka vs KuPS",
@@ -1487,13 +1487,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafaconferenceleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "ueafaconferenceleague"
                 },
                 {
                     "name": "Copa Mundial Femenina Sub-17",
@@ -1682,7 +1682,7 @@
                     "name": "UEFA Europa League",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg",
                     "events": [
                         {
                             "title": "Juventus vs Rennes",
@@ -1769,8 +1769,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "OFI vs Bayer Leverkusen",
@@ -1860,8 +1860,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Lech Poznań vs Sunderland",
@@ -1951,8 +1951,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Sturm Graz vs Olympique Marseille",
@@ -2039,8 +2039,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Union Saint-Gilloise vs Hapoel Be'er Sheva",
@@ -2120,8 +2120,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Ararat-Armenia vs AZ",
@@ -2201,8 +2201,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Dinamo Zagreb vs NEC",
@@ -2238,8 +2238,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Ferencváros vs Torreense",
@@ -2275,8 +2275,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "AFC Bournemouth vs Milan",
@@ -2363,8 +2363,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Beşiktaş vs Crystal Palace",
@@ -2451,8 +2451,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Celtic vs Celta de Vigo",
@@ -2542,8 +2542,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Hoffenheim vs Olympique Lyonnais",
@@ -2633,8 +2633,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Omonia Nicosia vs Benfica",
@@ -2714,8 +2714,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Olympiakos Piraeus vs Sparta Praha",
@@ -2795,8 +2795,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Lillestrøm vs Real Sociedad",
@@ -2832,8 +2832,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Celje vs Salzburg",
@@ -2869,8 +2869,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Viktoria Plzeň vs Levski Sofia",
@@ -2906,8 +2906,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         },
                         {
                             "title": "Jagiellonia Białystok vs Anderlecht",
@@ -2943,13 +2943,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ueafeuropaleague",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "ueafeuropaleague"
                 },
                 {
                     "name": "Saudi Pro League",
@@ -3738,7 +3738,7 @@
                     "name": "NHL",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nhl.jpg",
                     "events": [
                         {
                             "title": "Toronto Maple Leafs vs New York Rangers",
@@ -3808,13 +3808,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "nhl",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nhl.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "nhl"
                 }
             ]
         },
