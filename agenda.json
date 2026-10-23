@@ -4268,7 +4268,7 @@
                             "homeTeam": "Atlético Madrid",
                             "awayTeam": "Deportivo La Coruña",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-                            "awayLogo": "",
+                            "awayLogo": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/equipos_fm/lacoruña.png",
                             "imageMode": "teams",
                             "duration": 130,
                             "extraTime": 0,
@@ -4519,7 +4519,7 @@
                             "homeTeam": "Girona",
                             "awayTeam": "Celta de Vigo II",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png",
-                            "awayLogo": "",
+                            "awayLogo": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/equipos_fm/vigo2.png",
                             "imageMode": "teams",
                             "duration": 130,
                             "extraTime": 0,
@@ -6190,7 +6190,7 @@
                             "homeTeam": "Venados",
                             "awayTeam": "Durango",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10124.png",
-                            "awayLogo": "",
+                            "awayLogo": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/equipos_fm/durango.png",
                             "imageMode": "teams",
                             "duration": 130,
                             "extraTime": 0,
@@ -7098,7 +7098,7 @@
                     "name": "World Series",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/worldseries.jpg",
                     "events": [
                         {
                             "title": "Tampa Bay Rays vs Milwaukee Brewers",
@@ -7165,13 +7165,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "worldseries",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/worldseries.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "worldseries"
                 }
             ]
         },
