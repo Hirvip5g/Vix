@@ -1,95 +1,6 @@
 {
     "sports": [
         {
-            "id": "nfl",
-            "name": "American Football",
-            "icon": "🏈",
-            "leagues": [
-                {
-                    "name": "NFL",
-                    "logo": "",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg",
-                    "events": [
-                        {
-                            "title": "Chicago Bears vs New England Patriots",
-                            "league": "NFL",
-                            "code": "NFL",
-                            "time": "2026-10-22T19:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 4,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Chicago Bears",
-                            "awayTeam": "New England Patriots",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-                            "imageMode": "teams",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN 7",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn7",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN 7",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.ibb.co/LSQFzkw/espn-7B.png?",
-                                    "clearkey": {
-                                        "keyId": "98ea1e32227adcd3618baac2bbf36814",
-                                        "key": "72a03a09d33e412f14a9bfa4ef24b542"
-                                    },
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN 7 AR MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.imgur.com/bWrggk0.png",
-                                    "clearkey": {
-                                        "keyId": "fdac9b45f19959b848f498c8efe15d12",
-                                        "key": "c2a6e7acabc370ef792ffacc5e2610a9"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "nfl",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "nfl"
-                }
-            ]
-        },
-        {
             "id": "motor",
             "name": "Motor",
             "icon": "🏎️",
@@ -192,7 +103,7 @@
                                 },
                                 {
                                     "name": "FOX Sports MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -408,7 +319,7 @@
                                 },
                                 {
                                     "name": "FOX Sports MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -591,7 +502,7 @@
                                 },
                                 {
                                     "name": "ESPN 4 AR MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -662,7 +573,7 @@
                                 },
                                 {
                                     "name": "ESPN 4 AR MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -703,57 +614,6 @@
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg",
                     "events": [
-                        {
-                            "title": "Atlético Nacional vs Deportivo Pasto",
-                            "league": "Liga Colombia",
-                            "code": "COL",
-                            "time": "2026-10-22 20:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 6,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Atlético Nacional",
-                            "awayTeam": "Deportivo Pasto",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5264.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5485.png",
-                            "imageMode": "teams",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinplus",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "WIN SPORTS + HD",
-                                    "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaco",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg"
-                        },
                         {
                             "title": "Boyacá Chicó vs Atlético Bucaramanga",
                             "league": "Liga Colombia",
@@ -870,293 +730,6 @@
                     "flagCode": "",
                     "flagUrl": "",
                     "leagueId": "ligaco"
-                },
-                {
-                    "name": "Copa Centroamericana de CONCACAF",
-                    "logo": "",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaconcacaf.jpg",
-                    "events": [
-                        {
-                            "title": "Motagua vs Alajuelense",
-                            "league": "Copa Centroamericana de CONCACAF",
-                            "code": "NATIONESCAF",
-                            "time": "2026-10-22 20:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 7,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Motagua",
-                            "awayTeam": "Alajuelense",
-                            "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zi6mw31581857175.png/medium",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2057.png",
-                            "imageMode": "teams",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney8",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "copaconcacaf",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaconcacaf.jpg"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "copaconcacaf"
-                },
-                {
-                    "name": "Copa Libertadores Femenina",
-                    "logo": "",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/libertadores.jpg",
-                    "events": [
-                        {
-                            "title": "Olimpia Asunción vs Cruzeiro",
-                            "league": "Copa Libertadores Femenina",
-                            "code": "LIB",
-                            "time": "2026-10-22 19:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 3,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Olimpia Asunción",
-                            "awayTeam": "Cruzeiro",
-                            "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png/medium",
-                            "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
-                            "imageMode": "teams",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "SporTV 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dsporttvbr1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "SPORTV 1 🇧🇷",
-                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "",
-                                    "clearkey": {
-                                        "keyId": "51c0ef23b17297e5c01cd7f36dd0a6ce",
-                                        "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
-                                    },
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "Win Sports",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinsports",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "libertadores",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/libertadores.jpg"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "libertadores"
-                },
-                {
-                    "name": "Copa Libertadores",
-                    "logo": "",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/libertadores.jpg",
-                    "events": [
-                        {
-                            "title": "Flamengo vs Estudiantes",
-                            "league": "Copa Libertadores",
-                            "code": "LIB",
-                            "time": "2026-10-22T19:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 5,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Flamengo",
-                            "awayTeam": "Estudiantes",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
-                            "imageMode": "teams",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney7",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "b3e4e74ae2080b137e68bbd0ef8a7e05",
-                                        "key": "cb004fb100bd92f23793562891e3236b"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN CO HD",
-                                    "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "FOX Sports 1 AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox1ar",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "FOX Sports MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",
-                                    "clearkey": {
-                                        "keyId": "37730b00a5f92084c47a8129e84559f3",
-                                        "key": "a2e20a45a057ff4e7c0bc2ad49e6f3e5"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "libertadores",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/libertadores.jpg"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "libertadores"
-                },
-                {
-                    "name": "Liga de Expansión MX",
-                    "logo": "",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/expamx.jpg",
-                    "events": [
-                        {
-                            "title": "Alebrijes de Oaxaca vs Cruz Azul Hidalgo",
-                            "league": "Liga de Expansión MX",
-                            "code": "MEX",
-                            "time": "2026-10-22T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 8,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Alebrijes de Oaxaca",
-                            "awayTeam": "Cruz Azul Hidalgo",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17233.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9371.png",
-                            "imageMode": "teams",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney9",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "expamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/expamx.jpg"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "expamx"
                 },
                 {
                     "name": "Saudi Pro League",
@@ -1418,7 +991,7 @@
                                 },
                                 {
                                     "name": "FOX Sports 2 MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1811,7 +1384,7 @@
                                 },
                                 {
                                     "name": "ESPN AR MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1944,7 +1517,7 @@
                                 },
                                 {
                                     "name": "ESPN 3 AR MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2087,7 +1660,7 @@
                                 },
                                 {
                                     "name": "ESPN 5 AR MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2114,7 +1687,7 @@
                                 },
                                 {
                                     "name": "FOX Sports 2 MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2336,7 +1909,7 @@
                                 },
                                 {
                                     "name": "ESPN Premium FHD MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2418,7 +1991,7 @@
                                 },
                                 {
                                     "name": "TNT Sports Premium FHD MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2486,7 +2059,7 @@
                                 },
                                 {
                                     "name": "TNT Sports Premium FHD MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2847,84 +2420,6 @@
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
-                        {
-                            "title": "76ers vs Cavaliers",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-10-22T18:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 1,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "76ers",
-                            "awayTeam": "Cavaliers",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
-                            "imageMode": "teams",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN 2 FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
-                                        "key": "6d15568e1dab59e7202ae12e71505185"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN 2 CO HD",
-                                    "url": "http://190.60.48.151:8010/play/a09l/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "nba",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
-                        },
                         {
                             "title": "Thunder vs Nuggets",
                             "league": "NBA",
@@ -3475,95 +2970,6 @@
             ]
         },
         {
-            "id": "hockey",
-            "name": "Hockey",
-            "icon": "🏒",
-            "leagues": [
-                {
-                    "name": "NHL",
-                    "logo": "",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nhl.jpg",
-                    "events": [
-                        {
-                            "title": "Toronto Maple Leafs vs New York Rangers",
-                            "league": "NHL",
-                            "code": "NHL",
-                            "time": "2026-10-22T18:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 2,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Toronto Maple Leafs",
-                            "awayTeam": "New York Rangers",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/tor.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png",
-                            "imageMode": "teams",
-                            "duration": 160,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN 4",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn4",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN 4 FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "54a2c11085c315ed6ff85c340a86095d",
-                                        "key": "5f0d10cf4a5c7e22e286b7e8cb4e79f4"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN 4 AR MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
-                                    "clearkey": {
-                                        "keyId": "d02981e6faeacef49c90fdb053ab641d",
-                                        "key": "645e13624e933841b1ea35cda1b55bd1"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "nhl",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nhl.jpg"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "nhl"
-                }
-            ]
-        },
-        {
             "id": "baseball",
             "name": "Baseball",
             "icon": "⚾",
@@ -3708,7 +3114,7 @@
                                 },
                                 {
                                     "name": "ESPN 3 AR MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyNTg5MjIyIiwic2lwIjoiMjA2LjAuODEuNCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9EaXNjb3ZlcnlUdXJiby9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM4NTNkZGZmYzYyYWI3OWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzUyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.FLg4Xej_7u4HqmfgkHtvxwPwRfr1KmZo0xVzGjDxsjW2d-etguC-jKPpEwt6S7VnLTQXrnlt1maMnQlqOLIB1w==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyOTM2NTYxIiwic2lwIjoiMTAzLjUwLjMzLjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPX1BsdXMvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJhNjlmMmFjZTM5MmI0MmY2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.UrPksdz5C0dBW3rFULeZtLuqRt8D3v62EUyy22pkdHZl5KJHg69bJeb1ibtK-jSyYbhaPa8wM4-MwI98bkSBqg==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3739,5 +3145,5 @@
             ]
         }
     ],
-    "updated": "2026-10-22 18:00:22"
+    "updated": "2026-10-22 22:59:42"
 }
