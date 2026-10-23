@@ -139,10 +139,10 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "UEFA Europa League": "ueafeuropaleague",
     "UEFA Conference League": "ueafaconferenceleague",
     "NHL": "nhl",
-    "demo": "deml",
-    "demo": "deml",
-    "demo": "deml",
-    "demo": "deml",
+    "F1": "f1",
+    "Liga Chile": "ligachile",
+    "MotoGP": "motogp",
+    "MLB World Series": "mlb",
 })
 
 def limpiar_nombre_equipo(nombre, liga_nombre=""):
