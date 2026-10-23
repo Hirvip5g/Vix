@@ -98,7 +98,7 @@
                     "name": "F1",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/medium",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg",
                     "events": [
                         {
                             "title": "",
@@ -239,8 +239,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "f1",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
                         },
                         {
                             "title": "",
@@ -276,8 +276,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "f1",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
                         },
                         {
                             "title": "",
@@ -313,8 +313,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "f1",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
                         },
                         {
                             "title": "GP Estados Unidos (Austin) vs Práctica 1",
@@ -455,8 +455,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "f1",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
                         },
                         {
                             "title": "GP Estados Unidos (Austin) vs On Board Colapinto",
@@ -492,8 +492,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "f1",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
                         },
                         {
                             "title": "GP Estados Unidos (Austin) vs On Board Russell",
@@ -529,19 +529,19 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "f1",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "f1"
                 },
                 {
                     "name": "MotoGP",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/gg3c201768486075.png/medium",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/motogp.jpg",
                     "events": [
                         {
                             "title": "GP Australia vs Sprint",
@@ -611,8 +611,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "motogp",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/motogp.jpg"
                         },
                         {
                             "title": "GP Australia vs Clasificación",
@@ -682,13 +682,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "motogp",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/motogp.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "motogp"
                 }
             ]
         },
@@ -2620,7 +2620,7 @@
                     "name": "Liga Chile",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligachile.jpg",
                     "events": [
                         {
                             "title": "Audax Italiano vs Huachipato",
@@ -2656,13 +2656,13 @@
                             "flagUrl": "https://flagcdn.com/w320/cl.png",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "ligachile",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligachile.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "ligachile"
                 },
                 {
                     "name": "Liga Uruguay",
@@ -3572,7 +3572,7 @@
                     "name": "MLB World Series",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mlb.jpg",
                     "events": [
                         {
                             "title": "Tampa Bay Rays vs Milwaukee Brewers",
@@ -3639,13 +3639,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "mlb",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mlb.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "mlb"
                 }
             ]
         },
