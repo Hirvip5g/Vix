@@ -90,7 +90,7 @@ MAPEO_EQUIPOS = CaseInsensitiveDict({
     "genoa": "10233", "fiorentina": "8535", "inter": "8636", "inter de milan": "8636", "parma": "10167",
     "napoli": "9875", "frosinone": "9891",
     "vasco da gama": "10276", "remo": "1626", "são paulo": "10277", "vitória": "7733",
-    "boca juniors": "90006", "river plate": "90015", "Slavia Praha": "1901", "Al Qadisiya": "1902", "Fenerbahçe": "1903", "Sabah": "Sabah", "demo": "1234",
+    "boca juniors": "90006", "river plate": "90015", "Slavia Praha": "1901", "Al Qadisiya": "1902", "Fenerbahçe": "1903", "Sabah": "Sabah", "Deportivo La Coruña": "lacoruña", "Celta de Vigo II": "vigo2", "Durango": "durango", "demo": "1234", "demo": "1234", "demo": "1234", "demo": "1234", "demo": "1234", "demo": "1234",
 })
 
 # Diccionario para asociar ligas con un ID específico (para fondos y estilos)
@@ -143,6 +143,15 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "Liga Chile": "ligachile",
     "MotoGP": "motogp",
     "MLB World Series": "mlb",
+    "World Series": "worldseries",
+    "demo": "demo",
+    "demo": "demo",
+    "demo": "demo",
+    "demo": "demo",
+    "demo": "demo",
+    "demo": "demo",
+    "demo": "demo",
+    "demo": "demo",
 })
 
 def limpiar_nombre_equipo(nombre, liga_nombre=""):
