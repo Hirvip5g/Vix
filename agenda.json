@@ -606,7 +606,7 @@
         {
             "id": "football",
             "name": "Football",
-            "icon": "⚽",
+            "icon": "https://i.ibb.co/Xxnz30fn/futbol-americano.png",
             "leagues": [
                 {
                     "name": "Liga Colombia",
