@@ -7,7 +7,7 @@ import unicodedata
 from datetime import datetime
 
 # Configuración de URLs y archivos locales
-AGENDA_URL = "https://streamxhd.com/eventos.json?"
+AGENDA_URL = "https://streamxhd.sbs/eventos.json?"
 LOCAL_CHANNELS_JSON = "04.json"
 OUTPUT_JSON = "agenda.json"
 BASE_IMG_URL = "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/equipos_fm"
