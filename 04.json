@@ -648,5 +648,13 @@
   "grupo": "Entretenimiento",
   "tipo": "embed",
   "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes&code=us&user=cdnlivetv&plan=free"
+},
+{
+  "canal": "Liga 1 Max Peru",
+  "channel": "l1max",
+  "logo": "https://i.postimg.cc/tu-logo/logo.png",
+  "grupo": "Entretenimiento",
+  "tipo": "embed",
+  "url": "https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8"
 }
 ]
