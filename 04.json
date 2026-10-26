@@ -654,7 +654,7 @@
   "channel": "l1max",
   "logo": "https://i.postimg.cc/tu-logo/logo.png",
   "grupo": "Entretenimiento",
-  "tipo": "embed",
+  "tipo": "m3u8",
   "url": "https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8"
 }
 ]
