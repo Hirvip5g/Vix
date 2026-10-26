@@ -1009,13 +1009,13 @@
                     "background": "",
                     "events": [
                         {
-                            "title": "",
+                            "title": "BALÓN DE ORO 2026",
                             "league": "FUT",
                             "code": "FUT",
                             "time": "2026-10-26T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 12,
-                            "image": "",
+                            "image": "https://static.vecteezy.com/system/resources/previews/055/184/689/non_2x/a-golden-soccer-ball-on-transparent-background-free-png.png",
                             "logo": "",
                             "homeTeam": "",
                             "awayTeam": "",
