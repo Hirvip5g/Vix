@@ -144,7 +144,7 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "MotoGP": "motogp",
     "MLB World Series": "mlb",
     "World Series": "worldseries",
-    "demo": "demo",
+    "Champions League Elite": "championsarabe",
     "demo": "demo",
     "demo": "demo",
     "demo": "demo",
