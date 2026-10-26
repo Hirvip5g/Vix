@@ -1003,10 +1003,10 @@
                     "leagueId": "laliga"
                 },
                 {
-                    "name": "FUT",
+                    "name": "BALÓN DE ORO 2026",
                     "logo": "https://static.vecteezy.com/system/resources/previews/055/184/689/non_2x/a-golden-soccer-ball-on-transparent-background-free-png.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://static.vecteezy.com/system/resources/previews/055/184/689/non_2x/a-golden-soccer-ball-on-transparent-background-free-png.png",
                     "events": [
                         {
                             "title": "",
