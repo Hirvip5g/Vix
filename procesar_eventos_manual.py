@@ -250,7 +250,7 @@ def procesar_agenda():
                     elif home_logo or away_logo:
                         event["imageMode"] = "teams"
 
-                    # Procesar servidores: reemplazar si el nombre en 04.json es exactamente igual
+                    # Procesar servidores: mantener los originales y agregar los de 04.json si coinciden
                     nuevos_servidores = []
                     for server in event.get("servers", []):
                         server_url = server.get("url", "")
@@ -261,39 +261,32 @@ def procesar_agenda():
                         if not channel_param:
                             channel_param = query_params.get("stream", [""])[0].strip().lower()
 
-                        # Verificar si tenemos canales en 04.json para este parámetro
-                        remplazado = False
+                        # 1. Agregar el servidor original de StreamXHD con su iframe predeterminado
+                        iframe_url = f"https://pruevon.blogspot.com/2026/04/embedc.html?r={urllib.parse.quote(server_url, safe='')}"
+                        server_copy = dict(server)
+                        server_copy["url"] = iframe_url
+                        server_copy["type"] = "iframe"
+                        nuevos_servidores.append(server_copy)
+
+                        # 2. Si coincide con 04.json, agregar también el servidor adicional de 04.json
+                        # 2. Si coincide con 04.json, agregar todos los servidores adicionales de 04.json
                         if channel_param and channel_param in canales_04_dict:
+                            # Iteramos sobre la lista de canales asociados a esa clave
                             for canal_info in canales_04_dict[channel_param]:
-                                # Verificamos si el nombre del canal en 04.json coincide exactamente con el servidor o se usa como reemplazo directo
-                                nombre_canal_04 = canal_info.get("canal", "").strip()
-                                nombre_server_actual = server.get("name", "").strip()
-
-                                # Si el nombre del canal es exactamente igual, agregamos el de 04.json y evitamos el original
-                                if nombre_canal_04.lower() == nombre_server_actual.lower():
-                                    nuevos_servidores.append({
-                                        "name": canal_info.get("canal", channel_param.upper()),
-                                        "url": canal_info.get("url", ""),
-                                        "type": canal_info.get("tipo", "clearkey"),
-                                        "quality": server.get("quality", ""),
-                                        "active": True,
-                                        "languages": server.get("languages", []),
-                                        "customLanguages": server.get("customLanguages", ""),
-                                        "channelLogo": canal_info.get("logo", server.get("channelLogo", "")),
-                                        "clearkey": canal_info.get("clearkey", None),
-                                        "referer": canal_info.get("referer", ""),
-                                        "origin": canal_info.get("origin", ""),
-                                        "userAgent": canal_info.get("userAgent", "")
-                                    })
-                                    remplazado = True
-
-                        # Si no hubo un reemplazo exacto por nombre, mantenemos el comportamiento por defecto (iframe de StreamXHD)
-                        if not remplazado:
-                            iframe_url = f"https://pruevon.blogspot.com/2026/04/embedc.html?r={urllib.parse.quote(server_url, safe='')}"
-                            server_copy = dict(server)
-                            server_copy["url"] = iframe_url
-                            server_copy["type"] = "iframe"
-                            nuevos_servidores.append(server_copy)
+                                nuevos_servidores.append({
+                                    "name": canal_info.get("canal", server.get("name", channel_param.upper())),
+                                    "url": canal_info.get("url", ""),
+                                    "type": canal_info.get("tipo", "clearkey"),
+                                    "quality": server.get("quality", ""),
+                                    "active": True,
+                                    "languages": server.get("languages", []),
+                                    "customLanguages": server.get("customLanguages", ""),
+                                    "channelLogo": canal_info.get("logo", server.get("channelLogo", "")),
+                                    "clearkey": canal_info.get("clearkey", None),
+                                    "referer": canal_info.get("referer", ""),
+                                    "origin": canal_info.get("origin", ""),
+                                    "userAgent": canal_info.get("userAgent", "")
+                                })
 
                     event["servers"] = nuevos_servidores
 
