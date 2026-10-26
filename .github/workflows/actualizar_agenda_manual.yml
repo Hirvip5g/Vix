@@ -1,15 +1,13 @@
-name: Actualizar Agenda Automática
+name: Actualizar Agenda Manual
 
 on:
-  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
-  schedule:
-    - cron: '0 */6 * * *' # Se ejecuta automáticamente cada 6 horas
+  workflow_dispatch: # Se ejecuta únicamente cuando lo hagas de forma manual desde GitHub
 
 permissions:
   contents: write
 
 jobs:
-  update-agenda:
+  update-agenda-manual:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,7 +21,7 @@ jobs:
       - name: Instalar dependencias
         run: pip install requests
 
-      - name: Procesar Agenda
+      - name: Procesar Agenda Manual
         env:
           AGENDA_URL: ${{ secrets.AGENDA_URL }}
         run: python procesar_eventos_manual.py
@@ -33,7 +31,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add agenda.json
-          git commit -m "Agenda actualizada automáticamente" || exit 0
+          git commit -m "Agenda manual actualizada" || exit 0
           
           # Actualiza el repositorio local trayendo los cambios remotos y aplicando los tuyos encima
           git pull --rebase origin main
