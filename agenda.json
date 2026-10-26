@@ -9,7 +9,7 @@
                     "name": "Champions League Elite",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsarabe.jpg",
                     "events": [
                         {
                             "title": "FK Neftchi Fergana vs Al-Ittihad Jeddah",
@@ -45,8 +45,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "championsarabe",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsarabe.jpg"
                         },
                         {
                             "title": "Al Qadisiya vs Al Sadd",
@@ -126,8 +126,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "championsarabe",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsarabe.jpg"
                         },
                         {
                             "title": "Al Nassr vs Al Wasl",
@@ -163,13 +163,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "championsarabe",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsarabe.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "championsarabe"
                 },
                 {
                     "name": "Super Lig",
