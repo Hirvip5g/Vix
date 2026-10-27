@@ -221,7 +221,7 @@
                     "name": "Copa de Rusia",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/coparusia.jpg",
                     "events": [
                         {
                             "title": "Fakel vs Akhmat Grozny",
@@ -274,8 +274,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "coparusia",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/coparusia.jpg"
                         },
                         {
                             "title": "Krasnodar vs Dinamo Moskva",
@@ -328,19 +328,19 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "coparusia",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/coparusia.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "coparusia"
                 },
                 {
                     "name": "DFB Pokal",
                     "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/DFB-Pokal_Logo_2026.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/pokal.jpg",
                     "events": [
                         {
                             "title": "Bochum vs Mainz 05",
@@ -376,8 +376,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "pokal",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/pokal.jpg"
                         },
                         {
                             "title": "Sonnenhof Großaspach vs Augsburg",
@@ -413,8 +413,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "pokal",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/pokal.jpg"
                         },
                         {
                             "title": "Hamburger SV vs Eintracht Frankfurt",
@@ -450,8 +450,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "pokal",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/pokal.jpg"
                         },
                         {
                             "title": "Rot-Weiss Essen vs RB Leipzig",
@@ -487,8 +487,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "pokal",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/pokal.jpg"
                         },
                         {
                             "title": "Borussia M'gladbach vs Karlsruher SC",
@@ -524,8 +524,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "pokal",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/pokal.jpg"
                         },
                         {
                             "title": "Elversberg vs Darmstadt 98",
@@ -561,8 +561,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "pokal",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/pokal.jpg"
                         },
                         {
                             "title": "Köln vs Union Berlin",
@@ -598,8 +598,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "pokal",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/pokal.jpg"
                         },
                         {
                             "title": "Borussia Dortmund vs Werder Bremen",
@@ -635,13 +635,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "pokal",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/pokal.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "pokal"
                 },
                 {
                     "name": "Messi Cup",
@@ -1193,7 +1193,7 @@
                     "name": "Copa del Rey",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copadelrey.jpg",
                     "events": [
                         {
                             "title": "Sestao River vs Espanyol",
@@ -1229,8 +1229,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copadelrey",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copadelrey.jpg"
                         },
                         {
                             "title": "Pinatar vs Elche",
@@ -1266,8 +1266,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copadelrey",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copadelrey.jpg"
                         },
                         {
                             "title": "Manacor vs Villarreal",
@@ -1303,8 +1303,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copadelrey",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copadelrey.jpg"
                         },
                         {
                             "title": "Alcázar vs Málaga",
@@ -1340,8 +1340,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copadelrey",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copadelrey.jpg"
                         },
                         {
                             "title": "Recreativo Huelva vs Rayo Vallecano",
@@ -1377,13 +1377,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copadelrey",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copadelrey.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copadelrey"
                 },
                 {
                     "name": "Champions League Elite",
@@ -1437,7 +1437,7 @@
                     "name": "EFL Cup",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/eflcup.jpg",
                     "events": [
                         {
                             "title": "Bradford City vs Peterborough United",
@@ -1473,8 +1473,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "eflcup",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/eflcup.jpg"
                         },
                         {
                             "title": "Fleetwood Town vs Arsenal",
@@ -1551,13 +1551,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "eflcup",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/eflcup.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "eflcup"
                 },
                 {
                     "name": "Liga 1",
