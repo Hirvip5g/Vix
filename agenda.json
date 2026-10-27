@@ -6,200 +6,16 @@
             "icon": "⚽",
             "leagues": [
                 {
-                    "name": "Messi Cup",
-                    "logo": "",
-                    "image": "",
-                    "background": "",
-                    "events": [
-                        {
-                            "title": "Palmeiras Academy vs Newell's Old Boys Academy",
-                            "league": "Messi Cup",
-                            "code": "FUT",
-                            "time": "2026-10-26 17:10",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 18,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Palmeiras Academy",
-                            "awayTeam": "Newell's Old Boys Academy",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
-                            "imageMode": "teams",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN 2 FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
-                                        "key": "6d15568e1dab59e7202ae12e71505185"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN 2 CO HD",
-                                    "url": "http://190.60.48.151:8010/play/a09l/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": ""
-                },
-                {
                     "name": "Liga Profesional",
                     "logo": "",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg",
                     "events": [
                         {
-                            "title": "Unión Santa Fe vs Estudiantes",
-                            "league": "Liga Profesional",
-                            "code": "AR",
-                            "time": "2026-10-26T17:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 16,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Unión Santa Fe",
-                            "awayTeam": "Estudiantes",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
-                            "imageMode": "teams",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney9",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN Premium",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despnpremium",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN Premium FHD MUTICALIDAD",
-                                    "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMDk4OTQ5Iiwic2lwIjoiMTg2LjE1OC4yMjguNDgiLCJwYXRoIjoiL2xpdmUvYzZlZHMvS1pPL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiNmUzMDRhNmI5OTJjYmZkMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.BnJBdgxgULSkalYR_MbgSNmP57Po1hJVDSW1KkvzYXm0NhYrtHmbOIkRL6EYBaECwCXcRc7-7hE3_P88RiCn5A==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",
-                                    "clearkey": {
-                                        "keyId": "c502892e037a9f34827147b2b24e42cf",
-                                        "key": "2531bd34bec6c0e8fa4e07aedb261ade"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN Premium HD",
-                                    "url": "http://45.189.108.146:1935/xmp_trans/Espn_premium.stream/playlist.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": "APPMOVIL-e4ff1c8cc00f29e8"
-                                },
-                                {
-                                    "name": "ESPN AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despnar",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN AR MUTICALIDAD",
-                                    "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMDk4OTQ5Iiwic2lwIjoiMTg2LjE1OC4yMjguNDgiLCJwYXRoIjoiL2xpdmUvYzZlZHMvS1pPL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiNmUzMDRhNmI5OTJjYmZkMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.BnJBdgxgULSkalYR_MbgSNmP57Po1hJVDSW1KkvzYXm0NhYrtHmbOIkRL6EYBaECwCXcRc7-7hE3_P88RiCn5A==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "d079ffa3757e8335611fc48be6ba47ff",
-                                        "key": "05059d1cb21b6708a55e9c26fb38e2f3"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaprofesional",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
-                        },
-                        {
                             "title": "Instituto vs Deportivo Riestra",
                             "league": "Liga Profesional",
                             "code": "AR",
-                            "time": "2026-10-26T19:15:00-05:00",
+                            "time": "2026-10-26 19:15",
                             "timezone": "America/Lima",
                             "agendaOrder": 29,
                             "image": "",
@@ -1110,5 +926,5 @@
             ]
         }
     ],
-    "updated": "2026-10-26 18:16:14"
+    "updated": "2026-10-26 19:39:11"
 }
