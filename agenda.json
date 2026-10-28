@@ -1270,7 +1270,7 @@
                     "name": "UEFA Champions League Femenina",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsf.jpg",
                     "events": [
                         {
                             "title": "Servette Chênois Féminin vs OH Leuven",
@@ -1306,8 +1306,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "championsf",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsf.jpg"
                         },
                         {
                             "title": "Bayern vs Real Madrid",
@@ -1377,8 +1377,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "championsf",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsf.jpg"
                         },
                         {
                             "title": "Chelsea FC vs Roma",
@@ -1414,8 +1414,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "championsf",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsf.jpg"
                         },
                         {
                             "title": "Arsenal vs SL Benfica",
@@ -1451,8 +1451,8 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "championsf",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsf.jpg"
                         },
                         {
                             "title": "OL Lyonnes vs Inter Milano",
@@ -1522,13 +1522,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "championsf",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsf.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "championsf"
                 },
                 {
                     "name": "Copa del Rey",
@@ -2496,7 +2496,7 @@
                     "name": "Copa Paraguay",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaparaguay.jpg",
                     "events": [
                         {
                             "title": "Sportivo Luqueño vs Deportivo Recoleta",
@@ -2532,13 +2532,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copaparaguay",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaparaguay.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copaparaguay"
                 },
                 {
                     "name": "Liga Colombia",
@@ -3244,7 +3244,7 @@
                     "name": "Copa Ecuador",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaecuador.jpg",
                     "events": [
                         {
                             "title": "Delfín vs Independiente del Valle",
@@ -3280,13 +3280,13 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "leagueId": "copaecuador",
+                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaecuador.jpg"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copaecuador"
                 },
                 {
                     "name": "Copa Argentina",
