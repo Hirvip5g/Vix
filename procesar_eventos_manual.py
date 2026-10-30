@@ -90,7 +90,7 @@ MAPEO_EQUIPOS = CaseInsensitiveDict({
     "genoa": "10233", "fiorentina": "8535", "inter": "8636", "inter de milan": "8636", "parma": "10167",
     "napoli": "9875", "frosinone": "9891",
     "vasco da gama": "10276", "remo": "1626", "são paulo": "10277", "vitória": "7733",
-    "boca juniors": "90006", "river plate": "90015", "Slavia Praha": "1901", "Al Qadisiya": "1902", "Fenerbahçe": "1903", "Sabah": "Sabah", "Deportivo La Coruña": "lacoruña", "Celta de Vigo II": "vigo2", "Durango": "durango", "demo": "1234", "demo": "1234", "demo": "1234", "demo": "1234", "demo": "1234", "demo": "1234",
+    "boca juniors": "90006", "river plate": "90015", "Slavia Praha": "1901", "Al Qadisiya": "1902", "Fenerbahçe": "1903", "Sabah": "Sabah", "Deportivo La Coruña": "lacoruña", "Celta de Vigo II": "vigo2", "Durango": "durango", "demo": "1234",
 })
 
 # Diccionario para asociar ligas con un ID específico (para fondos y estilos)
@@ -153,11 +153,6 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "Copa Paraguay": "copaparaguay",
     "Copa Ecuador": "copaecuador",
     "demo": "demo",
-    "demo": "demo",
-    "demo": "demo",
-    "demo": "demo",
-    "demo": "demo",
-    "demo": "demo",
 })
 
 def limpiar_nombre_equipo(nombre, liga_nombre=""):
@@ -188,7 +183,6 @@ def procesar_agenda():
                     for c in contenido_04:
                         ch_key = c.get("channel", "").strip().lower()
                         if ch_key:
-                            # Guardar en una lista para no sobrescribir duplicados
                             if ch_key not in canales_04_dict:
                                 canales_04_dict[ch_key] = []
                             canales_04_dict[ch_key].append(c)
@@ -214,11 +208,9 @@ def procesar_agenda():
             for league in sport.get("leagues", []):
                 league_name = league.get("name", "")
                 
-                # Asignar ID de liga si existe en MAPEO_LIGAS
                 league_id = MAPEO_LIGAS.get(league_name, "")
                 league["leagueId"] = league_id
 
-                # Si la liga no tiene background o está vacío, se lo asignamos usando el ID
                 if not league.get("background") and league_id:
                     league["background"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.jpg"
 
@@ -229,8 +221,6 @@ def procesar_agenda():
                     away_raw = event.get("awayTeam", "")
                     original_title = event.get("title", "")
                     
-                    # Detectar si es un evento con equipos reales (fútbol, básquet, etc.)
-                    # Excluimos explícitamente ligas de motor o eventos donde home/away parezcan descripciones de sesiones
                     is_motor = league_name.upper() in ["F1", "MOTOGP"] or "GP " in home_raw or "Práctica" in away_raw or "Clasificación" in away_raw
                     is_match = bool(home_raw and away_raw) and not is_motor
 
@@ -247,8 +237,6 @@ def procesar_agenda():
                         event["homeLogo"] = home_logo
                         event["awayLogo"] = away_logo
                     else:
-                        # Para motor u otros eventos nominales, respetamos el título original limpio
-                        # Si el título original está vacío, intentamos rescatarlo de home_raw o away_raw
                         if not original_title:
                             if home_raw and away_raw:
                                 original_title = f"{home_raw} - {away_raw}"
@@ -270,8 +258,6 @@ def procesar_agenda():
                         event["imageMode"] = "teams"
                     else:
                         event["imageMode"] = "banner"
-                    elif home_logo or away_logo:
-                        event["imageMode"] = "teams"
 
                     # Procesar servidores: mantener los originales y agregar los de 04.json si coinciden
                     nuevos_servidores = []
@@ -284,17 +270,13 @@ def procesar_agenda():
                         if not channel_param:
                             channel_param = query_params.get("stream", [""])[0].strip().lower()
 
-                        # 1. Agregar el servidor original de StreamXHD con su iframe predeterminado
                         iframe_url = f"https://pruevon.blogspot.com/2026/04/embedc.html?r={urllib.parse.quote(server_url, safe='')}"
                         server_copy = dict(server)
                         server_copy["url"] = iframe_url
                         server_copy["type"] = "iframe"
                         nuevos_servidores.append(server_copy)
 
-                        # 2. Si coincide con 04.json, agregar también el servidor adicional de 04.json
-                        # 2. Si coincide con 04.json, agregar todos los servidores adicionales de 04.json
                         if channel_param and channel_param in canales_04_dict:
-                            # Iteramos sobre la lista de canales asociados a esa clave
                             for canal_info in canales_04_dict[channel_param]:
                                 nuevos_servidores.append({
                                     "name": canal_info.get("canal", server.get("name", channel_param.upper())),
