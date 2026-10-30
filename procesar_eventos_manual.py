@@ -101,7 +101,7 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "Liga MX": "ligamx", "Liga de Expansión MX": "expamx", "MLS": "mls", "Super Lig": "superlig",
     "Eredivisie": "eredivisie", "Liga Colombia": "ligaco", "NFL": "nfl", "UFC": "ufc",
     "Saudi Pro League": "saudiproleague", "Primeira Liga": "primeiraligap", "NBA": "nba",
-    "NHL": "nhl", "F1": "f1", "Liga Chile": "ligachile", "MotoGP": "motogp",
+    "NHL": "nhl", "Liga Chile": "ligachile", "MotoGP": "motogp",
     "Copa del Rey": "copadelrey", "Copa Ecuador": "copaecuador", "demo": "demo",
 })
 
@@ -118,6 +118,7 @@ def buscar_imagen(equipo_val):
     return ""
 
 def obtener_eventos_thesportsdb(league_id):
+    """Extrae los eventos y sus URLs desde la página HTML de la liga en TheSportsDB"""
     url = f"https://www.thesportsdb.com/league/{league_id}"
     eventos_dict = {}
     try:
@@ -134,6 +135,7 @@ def obtener_eventos_thesportsdb(league_id):
     return eventos_dict
 
 def obtener_thumb_de_evento_web(event_url):
+    """Entra a la página web del evento individual en TheSportsDB y extrae su imagen principal (og:image)"""
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(event_url, headers=headers, timeout=5)
@@ -191,7 +193,6 @@ def procesar_agenda():
                 league_id = MAPEO_LIGAS.get(league_name, "")
                 league["leagueId"] = league_id
 
-                # El background SOLO pertenece a la liga y usa el asset fijo de GitHub
                 if not league.get("background") and league_id:
                     league["background"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.jpg"
 
@@ -220,7 +221,7 @@ def procesar_agenda():
                         event["homeLogo"] = ""
                         event["awayLogo"] = ""
 
-                    # --- EXTRACCIÓN DE IMAGEN PARA EL EVENTO (EXCLUSIVAMENTE EN 'image') ---
+                    # --- PRIORIDAD MÁXIMA PARA F1: Extraer de TheSportsDB Web ---
                     imagen_web = ""
                     if league_name.upper() == "F1":
                         sesion_buscada = traducir_sesion(original_title)
@@ -238,9 +239,13 @@ def procesar_agenda():
                         
                         if encontrado_url:
                             event["sourceEventUrl"] = encontrado_url
+                            # Extraer la miniatura/imagen principal de la página web del evento
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
 
-                    # Asignación de imagen al evento (NUNCA toca background)
+                    # Jerarquía de imágenes:
+                    # 1. Imagen extraída de la web de TheSportsDB (Prioridad Absoluta para F1)
+                    # 2. Imagen que traía el JSON original de StreamXHD
+                    # 3. Logo/respaldo de la liga o GitHub
                     event_thumb = event.get("image", "")
                     
                     if imagen_web:
@@ -252,10 +257,6 @@ def procesar_agenda():
                     else:
                         event["image"] = league.get("logo", "")
                         event["imageMode"] = "banner"
-
-                    # Asegurar que el evento NUNCA tenga la propiedad background
-                    if "background" in event:
-                        del event["background"]
 
                     # Procesar servidores
                     nuevos_servidores = []
