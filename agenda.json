@@ -2727,7 +2727,7 @@
                     "name": "F1",
                     "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg",
+                    "background": "",
                     "events": [
                         {
                             "title": "GP México - Práctica 1",
@@ -3215,7 +3215,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": "f1"
+                    "leagueId": ""
                 },
                 {
                     "name": "MotoGP",
