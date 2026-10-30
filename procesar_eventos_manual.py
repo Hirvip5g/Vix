@@ -102,7 +102,7 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "Eredivisie": "eredivisie", "Liga Colombia": "ligaco", "NFL": "nfl", "UFC": "ufc",
     "Saudi Pro League": "saudiproleague", "Primeira Liga": "primeiraligap", "NBA": "nba",
     "NHL": "nhl", "Liga Chile": "ligachile", "MotoGP": "motogp",
-    "Copa del Rey": "copadelrey", "Copa Ecuador": "copaecuador", "demo": "demo",
+    "Copa del Rey": "copadelrey", "Copa Ecuador": "copaecuador", "Messi Cup U16": "nessicupu16",
 })
 
 def limpiar_nombre_equipo(nombre, liga_nombre=""):
