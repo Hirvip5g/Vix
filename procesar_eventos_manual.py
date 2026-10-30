@@ -227,31 +227,48 @@ def procesar_agenda():
                 for event in league.get("events", []):
                     home_raw = event.get("homeTeam", "")
                     away_raw = event.get("awayTeam", "")
+                    original_title = event.get("title", "")
                     
-                    home_team = limpiar_nombre_equipo(home_raw, league_name)
-                    away_team = limpiar_nombre_equipo(away_raw, league_name)
+                    # Detectar si es un evento con equipos reales (fútbol, básquet, etc.)
+                    # Excluimos explícitamente ligas de motor o eventos donde home/away parezcan descripciones de sesiones
+                    is_motor = league_name.upper() in ["F1", "MOTOGP"] or "GP " in home_raw or "Práctica" in away_raw or "Clasificación" in away_raw
+                    is_match = bool(home_raw and away_raw) and not is_motor
 
-                    event["homeTeam"] = home_team
-                    event["awayTeam"] = away_team
+                    if is_match:
+                        home_team = limpiar_nombre_equipo(home_raw, league_name)
+                        away_team = limpiar_nombre_equipo(away_raw, league_name)
 
-                    if away_team:
+                        event["homeTeam"] = home_team
+                        event["awayTeam"] = away_team
                         event["title"] = f"{home_team} vs {away_team}"
+                        
+                        home_logo = event.get("homeLogo") or buscar_imagen(home_team)
+                        away_logo = event.get("awayLogo") or buscar_imagen(away_team)
+                        event["homeLogo"] = home_logo
+                        event["awayLogo"] = away_logo
                     else:
-                        event["title"] = home_team
+                        # Para motor u otros eventos nominales, respetamos el título original limpio
+                        # Si el título original está vacío, intentamos rescatarlo de home_raw o away_raw
+                        if not original_title:
+                            if home_raw and away_raw:
+                                original_title = f"{home_raw} - {away_raw}"
+                            else:
+                                original_title = home_raw or away_raw
+                                
+                        event["title"] = original_title
+                        event["homeTeam"] = ""
+                        event["awayTeam"] = ""
+                        event["homeLogo"] = ""
+                        event["awayLogo"] = ""
 
-                    event["leagueId"] = league_id
-                    event["leagueBackground"] = league_bg
-
-                    # Obtener logos exclusivamente del repositorio local usando MAPEO_EQUIPOS
-                    home_logo = event.get("homeLogo") or buscar_imagen(home_team)
-                    away_logo = event.get("awayLogo") or buscar_imagen(away_team)
                     event_thumb = event.get("image", "")
-
-                    event["homeLogo"] = home_logo
-                    event["awayLogo"] = away_logo
                     event["image"] = event_thumb
 
                     if event_thumb:
+                        event["imageMode"] = "banner"
+                    elif event.get("homeLogo") or event.get("awayLogo"):
+                        event["imageMode"] = "teams"
+                    else:
                         event["imageMode"] = "banner"
                     elif home_logo or away_logo:
                         event["imageMode"] = "teams"
