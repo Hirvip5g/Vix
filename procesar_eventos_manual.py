@@ -91,66 +91,18 @@ MAPEO_EQUIPOS = CaseInsensitiveDict({
     "boca juniors": "90006", "river plate": "90015", "Slavia Praha": "1901", "Al Qadisiya": "1902", "Fenerbahçe": "1903", "Sabah": "Sabah", "Deportivo La Coruña": "lacoruña", "Celta de Vigo II": "vigo2", "Durango": "durango", "demo": "1234",
 })
 
-# Diccionario para asociar ligas con un ID específico (para fondos y estilos)
 MAPEO_LIGAS = CaseInsensitiveDict({
-    "LaLiga": "laliga",
-    "Premier League": "premier",
-    "Serie A": "seriea",
-    "Bundesliga": "bundesliga",
-    "Ligue 1": "ligue1",
-    "UEFA Champions League": "ucl",
-    "Copa Libertadores": "libertadores",
-    "Championship": "championship",
-    "Liga 1": "Liga1",
-    "LaLiga SmartBank": "smartbank",
-    "Liga Ecuador": "ligaecuador",
-    "Liga Profesional": "ligaprofesional",
-    "Liga Uruguay": "ligauruguay",
-    "MLB": "mlb",
-    "Liga Paraguay": "ligaparaguay",
-    "Brasileirão": "brasileirão",
-    "NBA Pretemporada": "nba",
-    "Copa de la Liga": "copadelaliga",
-    "Copa Libertadores Femenina": "libertadores",
-    "Liga MX": "ligamx",
-    "Liga de Expansión MX": "expamx",
-    "Bundesliga 2": "bundesliga",
-    "MLS": "mls",
-    "Super Lig": "superlig",
-    "Eredivisie": "eredivisie",
-    "Copa Mundial Femenina Sub-17": "paisfe",
-    "Liga Colombia": "ligaco",
-    "NFL": "nfl",
-    "Copa de Portugal": "copaportugal",
-    "ESPN Knockout": "espnknockout",
-    "UFC": "ufc",
-    "Categoria Primera B": "categoriaprimerab",
-    "Serie B": "serieb",
-    "Saudi Pro League": "saudiproleague",
-    "Primeira Liga": "primeiraligap",
-    "UEFA Youth League": "uefayouthleague",
-    "Copa Chile": "copachile",
-    "Copa Sudamericana": "copasudamericana",
-    "Copa Centroamericana de CONCACAF": "copaconcacaf",
-    "NBA": "nba",
-    "Copa Colombia": "copacolombia",
-    "UEFA Europa League": "ueafeuropaleague",
-    "UEFA Conference League": "ueafaconferenceleague",
-    "NHL": "nhl",
-    "F1": "f1",
-    "Liga Chile": "ligachile",
-    "MotoGP": "motogp",
-    "MLB World Series": "mlb",
-    "World Series": "worldseries",
-    "Champions League Elite": "championsarabe",
-    "Copa de Rusia": "coparusia",
-    "DFB Pokal": "pokal",
-    "Copa del Rey": "copadelrey",
-    "EFL Cup": "eflcup",
-    "UEFA Champions League Femenina": "championsf",
-    "Copa Paraguay": "copaparaguay",
-    "Copa Ecuador": "copaecuador",
-    "demo": "demo",
+    "LaLiga": "laliga", "Premier League": "premier", "Serie A": "seriea",
+    "Bundesliga": "bundesliga", "Ligue 1": "ligue1", "UEFA Champions League": "ucl",
+    "Copa Libertadores": "libertadores", "Championship": "championship", "Liga 1": "Liga1",
+    "LaLiga SmartBank": "smartbank", "Liga Ecuador": "ligaecuador", "Liga Profesional": "ligaprofesional",
+    "Liga Uruguay": "ligauruguay", "MLB": "mlb", "Liga Paraguay": "ligaparaguay",
+    "Brasileirão": "brasileirão", "NBA Pretemporada": "nba", "Copa de la Liga": "copadelaliga",
+    "Liga MX": "ligamx", "Liga de Expansión MX": "expamx", "MLS": "mls", "Super Lig": "superlig",
+    "Eredivisie": "eredivisie", "Liga Colombia": "ligaco", "NFL": "nfl", "UFC": "ufc",
+    "Saudi Pro League": "saudiproleague", "Primeira Liga": "primeiraligap", "NBA": "nba",
+    "NHL": "nhl", "F1": "f1", "Liga Chile": "ligachile", "MotoGP": "motogp",
+    "Copa del Rey": "copadelrey", "Copa Ecuador": "copaecuador", "demo": "demo",
 })
 
 def limpiar_nombre_equipo(nombre, liga_nombre=""):
@@ -166,7 +118,7 @@ def buscar_imagen(equipo_val):
     return ""
 
 def obtener_eventos_thesportsdb(league_id):
-    """Extrae los eventos y sus URLs directamente desde la página HTML de la liga en TheSportsDB"""
+    """Extrae los eventos y sus URLs desde la página HTML de la liga en TheSportsDB"""
     url = f"https://www.thesportsdb.com/league/{league_id}"
     eventos_dict = {}
     try:
@@ -181,6 +133,19 @@ def obtener_eventos_thesportsdb(league_id):
     except Exception as e:
         print(f"Error al obtener eventos web de TheSportsDB: {e}")
     return eventos_dict
+
+def obtener_thumb_de_evento_web(event_url):
+    """Entra a la página web del evento individual en TheSportsDB y extrae su imagen principal (og:image)"""
+    try:
+        headers = {"User-Agent": "Mozilla/5.0"}
+        response = requests.get(event_url, headers=headers, timeout=5)
+        if response.status_code == 200:
+            match = re.search(r'<meta property="og:image" content="([^"]+)"', response.text)
+            if match:
+                return match.group(1)
+    except Exception as e:
+        print(f"Error al extraer la imagen del evento web {event_url}: {e}")
+    return ""
 
 def traducir_sesion(titulo):
     t = titulo.lower()
@@ -256,20 +221,17 @@ def procesar_agenda():
                         event["homeLogo"] = ""
                         event["awayLogo"] = ""
 
-                    # --- BÚSQUEDA DINÁMICA UNIVERSAL PARA F1 (Cualquier país) ---
+                    # --- PRIORIDAD MÁXIMA PARA F1: Extraer de TheSportsDB Web ---
+                    imagen_web = ""
                     if league_name.upper() == "F1":
                         sesion_buscada = traducir_sesion(original_title)
-                        
-                        # Limpiar el título local para aislar el nombre del lugar (ej. "GP México - Práctica 1" -> "méxico")
                         lugar_local = re.sub(r'gp|práctica|practica|clasificación|clasificacion|on board.*|-', '', original_title, flags=re.I).strip()
                         lugar_local_norm = unicodedata.normalize('NFD', lugar_local).encode('ascii', 'ignore').decode('utf-8').lower()
                         
                         encontrado_url = ""
                         for web_title, web_url in f1_web_events.items():
                             web_title_lower = web_title.lower()
-                            # Verificar si la sesión coincide (ej. practice 1)
                             if sesion_buscada in web_title_lower:
-                                # Verificar si alguna palabra clave del lugar (ej. 'mexico', 'brazil', 'las vegas') coincide con el título web
                                 palabras_lugar = [p for p in lugar_local_norm.split() if len(p) > 2]
                                 if any(p in web_title_lower for p in palabras_lugar):
                                     encontrado_url = web_url
@@ -277,9 +239,19 @@ def procesar_agenda():
                         
                         if encontrado_url:
                             event["sourceEventUrl"] = encontrado_url
+                            # Extraer la miniatura/imagen principal de la página web del evento
+                            imagen_web = obtener_thumb_de_evento_web(encontrado_url)
 
+                    # Jerarquía de imágenes:
+                    # 1. Imagen extraída de la web de TheSportsDB (Prioridad Absoluta para F1)
+                    # 2. Imagen que traía el JSON original de StreamXHD
+                    # 3. Logo/respaldo de la liga o GitHub
                     event_thumb = event.get("image", "")
-                    if event_thumb:
+                    
+                    if imagen_web:
+                        event["image"] = imagen_web
+                        event["imageMode"] = "banner"
+                    elif event_thumb:
                         event["image"] = event_thumb
                         event["imageMode"] = "banner"
                     else:
