@@ -486,7 +486,7 @@
                     "name": "Copa Centroamericana de CONCACAF",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaconcacaf.jpg",
+                    "background": "",
                     "events": [
                         {
                             "title": "Alajuelense vs Motagua",
@@ -526,7 +526,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": "copaconcacaf"
+                    "leagueId": ""
                 },
                 {
                     "name": "Liga de Expansión MX",
@@ -847,7 +847,7 @@
                     "name": "Bundesliga 2",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/bundesliga.jpg",
+                    "background": "",
                     "events": [
                         {
                             "title": "Energie Cottbus vs Bochum",
@@ -918,7 +918,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": "bundesliga"
+                    "leagueId": ""
                 },
                 {
                     "name": "Ligue 1",
@@ -2736,7 +2736,7 @@
                             "time": "2026-10-30 13:30",
                             "timezone": "America/Lima",
                             "agendaOrder": 22,
-                            "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/c7j0321787424601.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -2907,7 +2907,7 @@
                             "time": "2026-10-30 13:30",
                             "timezone": "America/Lima",
                             "agendaOrder": 23,
-                            "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/c7j0321787424601.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -2943,7 +2943,7 @@
                             "time": "2026-10-30T13:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 24,
-                            "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/c7j0321787424601.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -2979,7 +2979,7 @@
                             "time": "2026-10-30T17:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 37,
-                            "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/2071wv1787424613.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -3147,7 +3147,7 @@
                             "time": "2026-10-30T17:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 38,
-                            "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/c7j0321787424601.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -3183,7 +3183,7 @@
                             "time": "2026-10-30T17:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 39,
-                            "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/c7j0321787424601.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -3388,7 +3388,7 @@
                     "name": "ESPN KnockOut",
                     "logo": "https://stream04.lat/logs/BOX.png",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/espnknockout.jpg",
+                    "background": "",
                     "events": [
                         {
                             "title": "Eveling Ortega vs Alma Meraz",
@@ -3459,7 +3459,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": "espnknockout"
+                    "leagueId": ""
                 }
             ]
         }
