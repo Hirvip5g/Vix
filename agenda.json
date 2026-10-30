@@ -58,9 +58,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "Liga1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/Liga1.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -150,9 +148,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "brasileirão",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/brasileirão.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Corinthians vs Mirassol",
@@ -255,9 +251,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "brasileirão",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/brasileirão.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -317,9 +311,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaco",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Deportivo Pereira vs Jaguares de Córdoba",
@@ -378,9 +370,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaco",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Atlético Bucaramanga vs Deportivo Pasto",
@@ -439,9 +429,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaco",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -487,9 +475,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "copaecuador",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaecuador.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -535,9 +521,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "copaconcacaf",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaconcacaf.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -583,9 +567,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "expamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/expamx.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Correcaminos UAT vs Venados",
@@ -620,9 +602,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "expamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/expamx.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -685,9 +665,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -777,9 +755,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "saudiproleague",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/saudiproleague.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Al Shabab vs Al-Ahli",
@@ -814,9 +790,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "saudiproleague",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/saudiproleague.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -862,9 +836,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "superlig",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/superlig.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -941,9 +913,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "bundesliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/bundesliga.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1057,9 +1027,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligue1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Nice vs Rennes",
@@ -1094,9 +1062,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligue1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Lille vs Lens",
@@ -1172,9 +1138,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligue1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1257,9 +1221,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "bundesliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/bundesliga.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1339,9 +1301,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Inter Miami vs Inter",
@@ -1376,9 +1336,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Flamengo vs Barcelona",
@@ -1447,9 +1405,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Benfica vs Boca Juniors",
@@ -1484,9 +1440,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1600,9 +1554,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "laliga",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/laliga.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1679,9 +1631,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "championship",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championship.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1744,9 +1694,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "primeiraligap",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/primeiraligap.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1850,9 +1798,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaprofesional",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Estudiantes Río Cuarto vs Gimnasia La Plata",
@@ -1918,9 +1864,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaprofesional",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Racing Club vs Aldosivi",
@@ -1996,9 +1940,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaprofesional",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Sarmiento vs Rosario Central",
@@ -2064,9 +2006,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaprofesional",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -2112,9 +2052,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligachile",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligachile.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Coquimbo Unido vs Unión La Calera",
@@ -2149,9 +2087,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligachile",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligachile.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -2197,9 +2133,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaparaguay",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaparaguay.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Sportivo Trinidense vs Rubio Ñú",
@@ -2234,9 +2168,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligaparaguay",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaparaguay.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -2326,9 +2258,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Juárez vs Querétaro",
@@ -2400,9 +2330,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Puebla vs Pumas UNAM",
@@ -2474,9 +2402,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "ligamx",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -2529,9 +2455,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "nba",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Hawks vs Cavaliers",
@@ -2566,9 +2490,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "nba",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Trail Blazers vs Grizzlies",
@@ -2603,9 +2525,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "nba",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -2692,9 +2612,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "nhl",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nhl.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -2791,9 +2709,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "nfl",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -2814,7 +2730,7 @@
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg",
                     "events": [
                         {
-                            "title": "",
+                            "title": "GP México - Práctica 1",
                             "league": "F1",
                             "code": "F1",
                             "time": "2026-10-30 13:30",
@@ -2981,12 +2897,10 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "f1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
+                            "awayCountryCode": ""
                         },
                         {
-                            "title": "",
+                            "title": "GP México - On Board Colapinto",
                             "league": "F1",
                             "code": "F1",
                             "time": "2026-10-30 13:30",
@@ -3018,12 +2932,10 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "f1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
+                            "awayCountryCode": ""
                         },
                         {
-                            "title": "GP México vs On Board Antonelli",
+                            "title": "GP México - On Board Antonelli",
                             "league": "F1",
                             "code": "F1",
                             "time": "2026-10-30T13:30:00-05:00",
@@ -3031,8 +2943,8 @@
                             "agendaOrder": 24,
                             "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-                            "homeTeam": "GP México",
-                            "awayTeam": "On Board Antonelli",
+                            "homeTeam": "",
+                            "awayTeam": "",
                             "homeLogo": "",
                             "awayLogo": "",
                             "imageMode": "banner",
@@ -3055,12 +2967,10 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "f1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
+                            "awayCountryCode": ""
                         },
                         {
-                            "title": "GP México vs Práctica 2",
+                            "title": "GP México - Práctica 2",
                             "league": "F1",
                             "code": "F1",
                             "time": "2026-10-30T17:00:00-05:00",
@@ -3068,8 +2978,8 @@
                             "agendaOrder": 37,
                             "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-                            "homeTeam": "GP México",
-                            "awayTeam": "Práctica 2",
+                            "homeTeam": "",
+                            "awayTeam": "",
                             "homeLogo": "",
                             "awayLogo": "",
                             "imageMode": "banner",
@@ -3224,12 +3134,10 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "f1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
+                            "awayCountryCode": ""
                         },
                         {
-                            "title": "GP México vs On Board Colapinto",
+                            "title": "GP México - On Board Colapinto",
                             "league": "F1",
                             "code": "F1",
                             "time": "2026-10-30T17:00:00-05:00",
@@ -3237,8 +3145,8 @@
                             "agendaOrder": 38,
                             "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-                            "homeTeam": "GP México",
-                            "awayTeam": "On Board Colapinto",
+                            "homeTeam": "",
+                            "awayTeam": "",
                             "homeLogo": "",
                             "awayLogo": "",
                             "imageMode": "banner",
@@ -3261,12 +3169,10 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "f1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
+                            "awayCountryCode": ""
                         },
                         {
-                            "title": "GP México vs On Board Antonelli",
+                            "title": "GP México - On Board Antonelli",
                             "league": "F1",
                             "code": "F1",
                             "time": "2026-10-30T17:00:00-05:00",
@@ -3274,8 +3180,8 @@
                             "agendaOrder": 39,
                             "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-                            "homeTeam": "GP México",
-                            "awayTeam": "On Board Antonelli",
+                            "homeTeam": "",
+                            "awayTeam": "",
                             "homeLogo": "",
                             "awayLogo": "",
                             "imageMode": "banner",
@@ -3298,9 +3204,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "f1",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/f1.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -3314,7 +3218,7 @@
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/motogp.jpg",
                     "events": [
                         {
-                            "title": "GP Malasia vs Clasificación",
+                            "title": "GP Malasia - Clasificación",
                             "league": "MotoGP",
                             "code": "MOTOGP",
                             "time": "2026-10-30T21:45:00-05:00",
@@ -3322,11 +3226,11 @@
                             "agendaOrder": 53,
                             "image": "",
                             "logo": "",
-                            "homeTeam": "GP Malasia",
-                            "awayTeam": "Clasificación",
+                            "homeTeam": "",
+                            "awayTeam": "",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 150,
                             "extraTime": 0,
                             "status": "",
@@ -3380,9 +3284,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "motogp",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/motogp.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -3415,7 +3317,7 @@
                             "awayTeam": "Juliano Prescendo",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 240,
                             "extraTime": 0,
                             "status": "",
@@ -3469,9 +3371,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "",
-                            "leagueBackground": ""
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -3497,7 +3397,7 @@
                             "awayTeam": "Alma Meraz",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 240,
                             "extraTime": 0,
                             "status": "",
@@ -3548,9 +3448,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueId": "espnknockout",
-                            "leagueBackground": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/espnknockout.jpg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
