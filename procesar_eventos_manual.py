@@ -13,7 +13,6 @@ OUTPUT_JSON = "agenda.json"
 BASE_IMG_URL = "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/equipos_fm"
 BASE_LEAGUE_IMG_URL = "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm"
 
-# Clase para hacer un diccionario insensible a mayúsculas, minúsculas y acentos
 class CaseInsensitiveDict(dict):
     def __init__(self, data=None, **kwargs):
         super().__init__()
@@ -52,7 +51,6 @@ class CaseInsensitiveDict(dict):
             for k in F:
                 super().__setitem__(self._normalize(k), F[k])
 
-# Diccionario de equipos (para escudos locales)
 MAPEO_EQUIPOS = CaseInsensitiveDict({
     "puebla": "7847", "club puebla": "7847", "leon": "1841", "club León": "1841",
     "tigres": "8561", "tigres uanl": "8561", "toluca": "6618", "fc juarez": "649424",
@@ -158,13 +156,7 @@ MAPEO_LIGAS = CaseInsensitiveDict({
 def limpiar_nombre_equipo(nombre, liga_nombre=""):
     if not nombre:
         return ""
-    nombre_limpio = nombre.strip()
-    if nombre_limpio.lower() == "everton":
-        liga_lower = liga_nombre.lower()
-        if any(k in liga_lower for k in ["primera división", "chile", "tntsports"]):
-            return "Everton de Viña del Mar"
-        return "Everton"
-    return nombre_limpio
+    return nombre.strip()
 
 def buscar_imagen(equipo_val):
     if not equipo_val:
@@ -173,48 +165,71 @@ def buscar_imagen(equipo_val):
         return f"{BASE_IMG_URL}/{MAPEO_EQUIPOS[equipo_val]}.png"
     return ""
 
+def obtener_eventos_thesportsdb(league_id):
+    """Extrae los eventos y sus URLs directamente desde la página HTML de la liga en TheSportsDB"""
+    url = f"https://www.thesportsdb.com/league/{league_id}"
+    eventos_dict = {}
+    try:
+        headers = {"User-Agent": "Mozilla/5.0"}
+        response = requests.get(url, headers=headers, timeout=10)
+        if response.status_code == 200:
+            html_content = response.text
+            matches = re.findall(r"<a href='(/event/\d+-[^']+)'>([^<]+)</a>", html_content)
+            for path, title in matches:
+                event_url = f"https://www.thesportsdb.com{path}"
+                eventos_dict[title.strip().lower()] = event_url
+    except Exception as e:
+        print(f"Error al obtener eventos web de TheSportsDB: {e}")
+    return eventos_dict
+
+def traducir_sesion(titulo):
+    t = titulo.lower()
+    if "práctica 1" in t or "practica 1" in t: return "practice 1"
+    if "práctica 2" in t or "practica 2" in t: return "practice 2"
+    if "práctica 3" in t or "practica 3" in t: return "practice 3"
+    if "clasificación" in t or "clasificacion" in t: return "qualifying"
+    if "sprint" in t: return "sprint"
+    return "grand prix"
+
 def procesar_agenda():
     canales_04_dict = {}
     if os.path.exists(LOCAL_CHANNELS_JSON):
         try:
             with open(LOCAL_CHANNELS_JSON, "r", encoding="utf-8") as f:
                 contenido_04 = json.load(f)
-                if isinstance(contenido_04, list) and len(contenido_04) > 0:
+                if isinstance(contenido_04, list):
                     for c in contenido_04:
                         ch_key = c.get("channel", "").strip().lower()
                         if ch_key:
                             if ch_key not in canales_04_dict:
                                 canales_04_dict[ch_key] = []
                             canales_04_dict[ch_key].append(c)
-                    print(f"Se cargaron e indexaron canales desde {LOCAL_CHANNELS_JSON}[cite: 1].")
         except Exception as e:
             print(f"Error al leer {LOCAL_CHANNELS_JSON}: {e}")
 
-    print(f"Descargando JSON manual desde {AGENDA_URL}[cite: 1]...")
+    print(f"Descargando JSON manual desde {AGENDA_URL}...")
     try:
         response = requests.get(AGENDA_URL, timeout=10)
         if response.status_code != 200:
-            print(f"Error al descargar la agenda manual: Status {response.status_code}")
             return
         agenda_data = response.json()
     except Exception as e:
-        print(f"Error al obtener datos de la agenda manual: {e}")
+        print(f"Error: {e}")
         return
 
-    print("Procesando eventos, asignando IDs y rellenando el campo background de las ligas...")
+    # Precargar eventos web de F1 desde TheSportsDB (ID 4370-formula-1)
+    print("Obteniendo eventos web de TheSportsDB para F1...")
+    f1_web_events = obtener_eventos_thesportsdb("4370-formula-1")
 
     if "sports" in agenda_data:
         for sport in agenda_data["sports"]:
             for league in sport.get("leagues", []):
                 league_name = league.get("name", "")
-                
                 league_id = MAPEO_LIGAS.get(league_name, "")
                 league["leagueId"] = league_id
 
                 if not league.get("background") and league_id:
                     league["background"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.jpg"
-
-                league_bg = league.get("background", "")
 
                 for event in league.get("events", []):
                     home_raw = event.get("homeTeam", "")
@@ -227,39 +242,51 @@ def procesar_agenda():
                     if is_match:
                         home_team = limpiar_nombre_equipo(home_raw, league_name)
                         away_team = limpiar_nombre_equipo(away_raw, league_name)
-
                         event["homeTeam"] = home_team
                         event["awayTeam"] = away_team
                         event["title"] = f"{home_team} vs {away_team}"
-                        
-                        home_logo = event.get("homeLogo") or buscar_imagen(home_team)
-                        away_logo = event.get("awayLogo") or buscar_imagen(away_team)
-                        event["homeLogo"] = home_logo
-                        event["awayLogo"] = away_logo
+                        event["homeLogo"] = event.get("homeLogo") or buscar_imagen(home_team)
+                        event["awayLogo"] = event.get("awayLogo") or buscar_imagen(away_team)
                     else:
                         if not original_title:
-                            if home_raw and away_raw:
-                                original_title = f"{home_raw} - {away_raw}"
-                            else:
-                                original_title = home_raw or away_raw
-                                
+                            original_title = f"{home_raw} - {away_raw}" if (home_raw and away_raw) else (home_raw or away_raw)
                         event["title"] = original_title
                         event["homeTeam"] = ""
                         event["awayTeam"] = ""
                         event["homeLogo"] = ""
                         event["awayLogo"] = ""
 
+                    # --- BÚSQUEDA DINÁMICA UNIVERSAL PARA F1 (Cualquier país) ---
+                    if league_name.upper() == "F1":
+                        sesion_buscada = traducir_sesion(original_title)
+                        
+                        # Limpiar el título local para aislar el nombre del lugar (ej. "GP México - Práctica 1" -> "méxico")
+                        lugar_local = re.sub(r'gp|práctica|practica|clasificación|clasificacion|on board.*|-', '', original_title, flags=re.I).strip()
+                        lugar_local_norm = unicodedata.normalize('NFD', lugar_local).encode('ascii', 'ignore').decode('utf-8').lower()
+                        
+                        encontrado_url = ""
+                        for web_title, web_url in f1_web_events.items():
+                            web_title_lower = web_title.lower()
+                            # Verificar si la sesión coincide (ej. practice 1)
+                            if sesion_buscada in web_title_lower:
+                                # Verificar si alguna palabra clave del lugar (ej. 'mexico', 'brazil', 'las vegas') coincide con el título web
+                                palabras_lugar = [p for p in lugar_local_norm.split() if len(p) > 2]
+                                if any(p in web_title_lower for p in palabras_lugar):
+                                    encontrado_url = web_url
+                                    break
+                        
+                        if encontrado_url:
+                            event["sourceEventUrl"] = encontrado_url
+
                     event_thumb = event.get("image", "")
-                    event["image"] = event_thumb
-
                     if event_thumb:
+                        event["image"] = event_thumb
                         event["imageMode"] = "banner"
-                    elif event.get("homeLogo") or event.get("awayLogo"):
-                        event["imageMode"] = "teams"
                     else:
+                        event["image"] = league.get("logo", "")
                         event["imageMode"] = "banner"
 
-                    # Procesar servidores: mantener los originales y agregar los de 04.json si coinciden
+                    # Procesar servidores
                     nuevos_servidores = []
                     for server in event.get("servers", []):
                         server_url = server.get("url", "")
@@ -301,7 +328,7 @@ def procesar_agenda():
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(agenda_data, f, ensure_ascii=False, indent=4)
 
-    print(f"Agenda manual procesada y guardada correctamente en {OUTPUT_JSON}[cite: 1].")
+    print(f"Agenda procesada correctamente en {OUTPUT_JSON}.")
 
 if __name__ == "__main__":
     procesar_agenda()
