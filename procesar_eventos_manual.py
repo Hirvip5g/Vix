@@ -164,27 +164,34 @@ def traducir_sesion(titulo):
     if "carrera" in t or "race" in t or "gp" in t or "grand prix" in t: return "gp"
     return ""
 
-def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
-    """Busca coincidencia del evento web usando los slugs de eventos normalizados"""
+def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict, fecha_evento=""):
+    """Busca coincidencia del evento web priorizando la sesión y la fecha exacta"""
     if not web_events_dict:
         return ""
     
     ln_upper = league_name.upper()
     if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
         sesion_buscada = traducir_sesion(original_title)
-        
-        # Normalizamos el título completo del evento para buscar coincidencias de palabras clave del GP
         titulo_norm = unicodedata.normalize('NFD', original_title).encode('ascii', 'ignore').decode('utf-8').lower()
         
         mejor_coincidencia = ""
-        max_coincidencias = 0
+        max_coincidencias = -1
 
         for web_slug, web_url in web_events_dict.items():
-            # Verificamos si comparte la sesión o si hay coincidencia directa en el texto del slug
-            coincidencias = sum(1 for palabra in titulo_norm.split() if len(palabra) > 3 and palabra in web_slug)
+            coincidencias = 0
             
+            # Si el slug de la web contiene la fecha actual (ej. 2026-10-31), le damos máxima prioridad
+            if fecha_evento and fecha_evento in web_slug:
+                coincidencias += 5
+
+            # Coincidencia por palabras clave del título del Gran Premio
+            for palabra in titulo_norm.split():
+                if len(palabra) > 3 and palabra in web_slug:
+                    coincidencias += 2
+
+            # Coincidencia por tipo de sesión exacta
             if sesion_buscada and sesion_buscada in web_slug:
-                coincidencias += 2  # Mayor peso si coincide la sesión exacta
+                coincidencias += 3
 
             if coincidencias > max_coincidencias:
                 max_coincidencias = coincidencias
@@ -194,7 +201,7 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
             return mejor_coincidencia
     else:
         home_norm = unicodedata.normalize('NFD', home_team).encode('ascii', 'ignore').decode('utf-8').lower() if home_team else ""
-        away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_team else ""
+        away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_norm else ""
         
         for web_slug, web_url in web_events_dict.items():
             match_home = home_norm and (home_norm in web_slug or any(word in web_slug for word in home_norm.split() if len(word) > 2))
@@ -314,12 +321,15 @@ def procesar_agenda():
                         event["awayLogo"] = ""
 
                     # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB (SEGÚN SOURCE.JSON) ---
-                    imagen_web = ""
-                    if web_events:
-                        encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events)
-                        if encontrado_url:
-                            event["sourceEventUrl"] = encontrado_url
-                            imagen_web = obtener_thumb_de_evento_web(encontrado_url)
+                    # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB ---
+imagen_web = ""
+if web_events:
+    # Asegúrate de extraer la fecha del evento actual de tu agenda (ej: "2026-10-31")
+    fecha_actual_evento = event.get("date", "2026-10-31") 
+    encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events, fecha_actual_evento)
+    if encontrado_url:
+        event["sourceEventUrl"] = encontrado_url
+        imagen_web = obtener_thumb_de_evento_web(encontrado_url)
 
                     # --- GESTIÓN DE IMÁGENES Y LOGOS SEPARADOS ---
                     event_thumb = event.get("image", "")
