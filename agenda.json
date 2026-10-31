@@ -987,7 +987,7 @@
                             "time": "2026-10-31T10:15:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 19,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/y64b9s1784904558.jpg",
                             "logo": "",
                             "homeTeam": "Rayo Vallecano",
                             "awayTeam": "Celta de Vigo",
@@ -1091,7 +1091,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506276-rayo-vallecano-vs-celta-vigo"
                         },
                         {
                             "title": "Real Betis vs Málaga",
@@ -1100,7 +1101,7 @@
                             "time": "2026-10-31T12:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 29,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/vb4b7m1784904554.jpg",
                             "logo": "",
                             "homeTeam": "Real Betis",
                             "awayTeam": "Málaga",
@@ -1221,7 +1222,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506273-real-betis-vs-m%c3%a1laga"
                         },
                         {
                             "title": "Barcelona vs Deportivo Alavés",
@@ -1230,7 +1232,7 @@
                             "time": "2026-10-31T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 50,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/bmpula1784904548.jpg",
                             "logo": "",
                             "homeTeam": "Barcelona",
                             "awayTeam": "Deportivo Alavés",
@@ -1385,7 +1387,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506269-barcelona-vs-deportivo-alav%c3%a9s"
                         }
                     ],
                     "flagCode": "",
@@ -2191,7 +2194,7 @@
                             "time": "2026-10-31T10:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 14,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ikvdu71784549352.jpg",
                             "logo": "",
                             "homeTeam": "Manchester City",
                             "awayTeam": "Brighton & Hove Albion",
@@ -2285,7 +2288,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494085-manchester-city-vs-brighton-and-hove-albion"
                         },
                         {
                             "title": "Hull City vs Ipswich Town",
@@ -2294,7 +2298,7 @@
                             "time": "2026-10-31T10:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 15,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/jxo4g51784549354.jpg",
                             "logo": "",
                             "homeTeam": "Hull City",
                             "awayTeam": "Ipswich Town",
@@ -2320,7 +2324,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494087-hull-city-vs-ipswich-town"
                         },
                         {
                             "title": "Coventry City vs Sunderland",
@@ -2329,7 +2334,7 @@
                             "time": "2026-10-31T10:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 16,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/k3ixti1784549356.jpg",
                             "logo": "",
                             "homeTeam": "Coventry City",
                             "awayTeam": "Sunderland",
@@ -2365,7 +2370,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494089-coventry-city-vs-sunderland"
                         },
                         {
                             "title": "Brentford vs Nottingham Forest",
@@ -2374,7 +2380,7 @@
                             "time": "2026-10-31T10:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 17,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/qkcc311784549353.jpg",
                             "logo": "",
                             "homeTeam": "Brentford",
                             "awayTeam": "Nottingham Forest",
@@ -2420,7 +2426,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494086-brentford-vs-nottingham-forest"
                         },
                         {
                             "title": "AFC Bournemouth vs Leeds United",
@@ -2429,7 +2436,7 @@
                             "time": "2026-10-31T10:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 18,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/cuczcr1784549349.jpg",
                             "logo": "",
                             "homeTeam": "AFC Bournemouth",
                             "awayTeam": "Leeds United",
@@ -2455,7 +2462,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494081-bournemouth-vs-leeds-united"
                         },
                         {
                             "title": "Tottenham Hotspur vs Crystal Palace",
@@ -2464,7 +2472,7 @@
                             "time": "2026-10-31T12:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 30,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/u786gd1784549351.jpg",
                             "logo": "",
                             "homeTeam": "Tottenham Hotspur",
                             "awayTeam": "Crystal Palace",
@@ -2500,7 +2508,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494083-tottenham-hotspur-vs-crystal-palace"
                         },
                         {
                             "title": "Aston Villa vs Fulham",
@@ -2509,7 +2518,7 @@
                             "time": "2026-10-31T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 53,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/tqkhbf1787740859.jpg",
                             "logo": "",
                             "homeTeam": "Aston Villa",
                             "awayTeam": "Fulham",
@@ -2535,7 +2544,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494088-aston-villa-vs-fulham"
                         }
                     ],
                     "flagCode": "",
