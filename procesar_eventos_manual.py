@@ -119,7 +119,7 @@ def buscar_imagen(equipo_val):
     return ""
 
 def obtener_eventos_thesportsdb(league_input):
-    """Extrae los eventos y sus URLs desde la página HTML de la liga en TheSportsDB (acepta URL completa o ID)"""
+    """Extrae los eventos y sus URLs utilizando los slugs completos de la URL del evento en TheSportsDB"""
     if league_input.startswith("http"):
         url = league_input
     else:
@@ -131,10 +131,14 @@ def obtener_eventos_thesportsdb(league_input):
         response = requests.get(url, headers=headers, timeout=10)
         if response.status_code == 200:
             html_content = response.text
-            matches = re.findall(r"<a href='(/event/\d+-[^']+)'>([^<]+)</a>", html_content)
-            for path, title in matches:
-                event_url = f"https://www.thesportsdb.com{path}"
-                eventos_dict[title.strip().lower()] = event_url
+            # Extraemos la URL y el slug del evento directamente del atributo href
+            matches = re.findall(r"<a href='(/event/(\d+)-([^']+))'>", html_content)
+            for full_path, event_id, event_slug in matches:
+                event_url = f"https://www.thesportsdb.com{full_path}"
+                # Normalizamos el slug reemplazando guiones por espacios y quitando tildes
+                clean_title = urllib.parse.unquote(event_slug).replace('-', ' ')
+                clean_title_norm = unicodedata.normalize('NFD', clean_title).encode('ascii', 'ignore').decode('utf-8').lower()
+                eventos_dict[clean_title_norm] = event_url
     except Exception as e:
         print(f"Error al obtener eventos web de TheSportsDB para {url}: {e}")
     return eventos_dict
@@ -162,7 +166,7 @@ def traducir_sesion(titulo):
     return "grand prix"
 
 def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
-    """Busca coincidencia del evento web dependiendo si es motor (F1/MotoGP) o partidos de equipos"""
+    """Busca coincidencia del evento web usando los slugs de eventos normalizados"""
     if not web_events_dict:
         return ""
     
@@ -172,21 +176,20 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
         lugar_local = re.sub(r'gp|práctica|practica|clasificación|clasificacion|on board.*|-', '', original_title, flags=re.I).strip()
         lugar_local_norm = unicodedata.normalize('NFD', lugar_local).encode('ascii', 'ignore').decode('utf-8').lower()
         
-        for web_title, web_url in web_events_dict.items():
-            web_title_lower = web_title.lower()
-            if sesion_buscada in web_title_lower:
+        for web_slug, web_url in web_events_dict.items():
+            if sesion_buscada in web_slug:
                 palabras_lugar = [p for p in lugar_local_norm.split() if len(p) > 2]
-                if any(p in web_title_lower for p in palabras_lugar):
+                if any(p in web_slug for p in palabras_lugar):
                     return web_url
     else:
-        # Coincidencia flexible para deportes de equipos
+        # Coincidencia para fútbol y deportes de equipos
         home_norm = unicodedata.normalize('NFD', home_team).encode('ascii', 'ignore').decode('utf-8').lower() if home_team else ""
         away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_team else ""
         
-        for web_title, web_url in web_events_dict.items():
-            web_title_lower = web_title.lower()
-            match_home = home_norm and any(word in web_title_lower for word in home_norm.split() if len(word) > 3)
-            match_away = away_norm and any(word in web_title_lower for word in away_norm.split() if len(word) > 3)
+        for web_slug, web_url in web_events_dict.items():
+            # Comprobamos si las palabras de los equipos están presentes en el slug del evento web
+            match_home = home_norm and any(word in web_slug for word in home_norm.split() if len(word) > 3)
+            match_away = away_norm and any(word in web_slug for word in away_norm.split() if len(word) > 3)
             
             if match_home and match_away:
                 return web_url
@@ -238,7 +241,6 @@ def procesar_agenda():
     # Precargar eventos web de TheSportsDB mapeando cada alias configurado
     web_events_por_liga = {}
     for league_key, data in sources_ligas.items():
-        # Soporta tanto si el source.json tiene un objeto con "url" y "aliases" como si tiene solo el string de la URL
         if isinstance(data, dict):
             league_url = data.get("url", "")
             aliases = data.get("aliases", [league_key.lower()])
@@ -250,7 +252,6 @@ def procesar_agenda():
             print(f"Obteniendo eventos web de TheSportsDB para la liga '{league_key}'...")
             eventos_remotos = obtener_eventos_thesportsdb(league_url)
             
-            # Registrar la clave principal y cada alias para que el buscador los reconozca
             for alias in aliases:
                 web_events_por_liga[alias.lower().strip()] = eventos_remotos
             web_events_por_liga[league_key.lower().strip()] = eventos_remotos
@@ -313,9 +314,9 @@ def procesar_agenda():
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
 
                     # Jerarquía de imágenes:
-                    # 1. Imagen extraída de la web de TheSportsDB (Prioridad Absoluta si existe en la fuente)
-                    # 2. Imagen que traía el JSON original de StreamXHD
-                    # 3. Logo/respaldo de la liga o GitHub
+                    # 1. Imagen extraída de la web de TheSportsDB
+                    # 2. Imagen original de StreamXHD
+                    # 3. Logo/respaldo de la liga
                     event_thumb = event.get("image", "")
                     
                     if imagen_web:
