@@ -179,17 +179,17 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
                 if any(p in web_title_lower for p in palabras_lugar):
                     return web_url
     else:
-        # Coincidencia para deportes de equipos (ej. Fútbol, baloncesto, etc.)
+        # Coincidencia flexible para deportes de equipos
         home_norm = unicodedata.normalize('NFD', home_team).encode('ascii', 'ignore').decode('utf-8').lower() if home_team else ""
         away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_team else ""
-        title_norm = unicodedata.normalize('NFD', original_title).encode('ascii', 'ignore').decode('utf-8').lower() if original_title else ""
         
         for web_title, web_url in web_events_dict.items():
             web_title_lower = web_title.lower()
-            if home_norm and away_norm:
-                if home_norm in web_title_lower and away_norm in web_title_lower:
-                    return web_url
-            if title_norm and title_norm in web_title_lower:
+            # Verificamos si al menos el equipo local o visitante aparecen en el título del evento web de TheSportsDB
+            match_home = home_norm and any(word in web_title_lower for word in home_norm.split() if len(word) > 3)
+            match_away = away_norm and any(word in web_title_lower for word in away_norm.split() if len(word) > 3)
+            
+            if match_home and match_away:
                 return web_url
     return ""
 
@@ -248,9 +248,13 @@ def procesar_agenda():
                     league["background"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.jpg"
 
                 # Comprobar si la liga actual coincide con alguna configurada en source.json
+                # Comprobar si la liga actual coincide de forma flexible con source.json
                 web_events = {}
+                league_name_lower = league_name.lower()
                 for l_key, w_events in web_events_por_liga.items():
-                    if l_key in league_name.lower() or league_name.lower() in l_key:
+                    # Comprobamos palabras clave principales (ej: "premier", "laliga", "f1")
+                    keywords = [k for k in l_key.lower().split() if len(k) > 2]
+                    if l_key in league_name_lower or league_name_lower in l_key or any(kw in league_name_lower for kw in keywords):
                         web_events = w_events
                         break
 
