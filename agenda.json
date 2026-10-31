@@ -1905,7 +1905,7 @@
                             "time": "2026-10-31T18:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 72,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/qhbx8u1784405093.jpg",
                             "logo": "",
                             "homeTeam": "Pachuca",
                             "awayTeam": "Tigres UANL",
@@ -1941,7 +1941,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487581-pachuca-vs-tigres-uanl"
                         },
                         {
                             "title": "Monterrey vs Tijuana",
@@ -1950,7 +1951,7 @@
                             "time": "2026-10-31T20:05:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 80,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/tzi5ab1784405094.jpg",
                             "logo": "",
                             "homeTeam": "Monterrey",
                             "awayTeam": "Tijuana",
@@ -2030,7 +2031,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487583-monterrey-vs-tijuana"
                         },
                         {
                             "title": "Guadalajara vs Atlante",
@@ -2039,7 +2041,7 @@
                             "time": "2026-10-31T20:07:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 81,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/aawkgo1784405093.jpg",
                             "logo": "",
                             "homeTeam": "Guadalajara",
                             "awayTeam": "Atlante",
@@ -2085,7 +2087,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487582-cd-guadalajara-vs-atlante"
                         },
                         {
                             "title": "América vs Toluca",
@@ -2094,7 +2097,7 @@
                             "time": "2026-10-31T22:10:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 83,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ekx7i61784405095.jpg",
                             "logo": "",
                             "homeTeam": "América",
                             "awayTeam": "Toluca",
@@ -2174,7 +2177,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487584-am%c3%a9rica-vs-toluca"
                         }
                     ],
                     "flagCode": "",
