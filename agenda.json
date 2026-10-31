@@ -286,93 +286,6 @@
             "icon": "⚽",
             "leagues": [
                 {
-                    "name": "Brasileirão",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Campeonato_Brasileiro_S%C3%A9rie_A_logo_%282024%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/brasileirão.jpg",
-                    "events": [
-                        {
-                            "title": "Coritiba vs Vitória",
-                            "league": "Brasileirão",
-                            "code": "BRA",
-                            "time": "2026-10-31T14:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 42,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Coritiba",
-                            "awayTeam": "Vitória",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinplus",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "WIN SPORTS + HD",
-                                    "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "Premiere 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dpremiere1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "PREMIERE CLUBES 🇧🇷",
-                                    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "",
-                                    "clearkey": {
-                                        "keyId": "56b79c1782b30e6b6fc973b0e8fd4104",
-                                        "key": "fa38aaa865a57eda7c77444697ba8ed3"
-                                    },
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "brasileirão"
-                },
-                {
                     "name": "Bundesliga 2",
                     "logo": "https://upload.wikimedia.org/wikipedia/en/7/7b/2._Bundesliga_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
                     "image": "",
@@ -1609,41 +1522,6 @@
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaecuador.jpg",
                     "events": [
                         {
-                            "title": "Emelec vs Leones del Norte",
-                            "league": "Liga Ecuador",
-                            "code": "ECUA",
-                            "time": "2026-10-31T14:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 43,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Emelec",
-                            "awayTeam": "Leones del Norte",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2668.png",
-                            "awayLogo": "https://upload.wikimedia.org/wikipedia/lt/5/52/Leones_F%C3%BAtbol_Club_emblema.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Zapping EC",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dzapping_ec",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        },
-                        {
                             "title": "Macará vs Barcelona",
                             "league": "Liga Ecuador",
                             "code": "ECUA",
@@ -1947,78 +1825,6 @@
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg",
                     "events": [
-                        {
-                            "title": "Sporting KC vs Dallas",
-                            "league": "MLS",
-                            "code": "MLS",
-                            "time": "2026-10-31T14:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 44,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/eqefeh1706713303.jpg",
-                            "logo": "",
-                            "homeTeam": "Sporting KC",
-                            "awayTeam": "Dallas",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Apple TV Español",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dappletv5",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407197-sporting-kansas-city-vs-fc-dallas"
-                        },
-                        {
-                            "title": "St. Louis City vs San Diego",
-                            "league": "MLS",
-                            "code": "MLS",
-                            "time": "2026-10-31T14:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 45,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/vwf7lz1771753461.jpg",
-                            "logo": "",
-                            "homeTeam": "St. Louis City",
-                            "awayTeam": "San Diego",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Apple TV Español",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dappletv6",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407198-st.-louis-city-sc-vs-san-diego-fc"
-                        },
                         {
                             "title": "LA Galaxy vs Austin",
                             "league": "MLS",
@@ -2584,5 +2390,5 @@
             ]
         }
     ],
-    "updated": "2026-10-31 15:42:48"
+    "updated": "2026-10-31 16:36:25"
 }
