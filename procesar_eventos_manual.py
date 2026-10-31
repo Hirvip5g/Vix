@@ -165,7 +165,7 @@ def traducir_sesion(titulo):
     return ""
 
 def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict, fecha_evento=""):
-    """Busca coincidencia del evento web priorizando la sesión y la fecha exacta"""
+    """Busca coincidencia del evento web priorizando la fecha exacta y la sesión"""
     if not web_events_dict:
         return ""
     
@@ -180,7 +180,7 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
         for web_slug, web_url in web_events_dict.items():
             coincidencias = 0
             
-            # Si el slug de la web contiene la fecha actual (ej. 2026-10-31), le damos máxima prioridad
+            # Prioridad máxima si la fecha coincide exactamente en el slug (ej. 2026-10-31)
             if fecha_evento and fecha_evento in web_slug:
                 coincidencias += 5
 
@@ -189,7 +189,7 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
                 if len(palabra) > 3 and palabra in web_slug:
                     coincidencias += 2
 
-            # Coincidencia por tipo de sesión exacta
+            # Coincidencia por tipo de sesión
             if sesion_buscada and sesion_buscada in web_slug:
                 coincidencias += 3
 
@@ -201,7 +201,7 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
             return mejor_coincidencia
     else:
         home_norm = unicodedata.normalize('NFD', home_team).encode('ascii', 'ignore').decode('utf-8').lower() if home_team else ""
-        away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_norm else ""
+        away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_team else ""
         
         for web_slug, web_url in web_events_dict.items():
             match_home = home_norm and (home_norm in web_slug or any(word in web_slug for word in home_norm.split() if len(word) > 2))
@@ -295,7 +295,6 @@ def procesar_agenda():
                     away_raw = event.get("awayTeam", "")
                     original_title = event.get("title", "")
                     
-                    # Capturamos el logo original del evento antes de modificar propiedades
                     event_logo_original = event.get("logo", "")
                     
                     is_motor = league_name.upper() in ["F1", "MOTOGP"] or "GP " in home_raw or "Práctica" in away_raw or "Clasificación" in away_raw
@@ -321,15 +320,13 @@ def procesar_agenda():
                         event["awayLogo"] = ""
 
                     # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB (SEGÚN SOURCE.JSON) ---
-                    # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB ---
-imagen_web = ""
-if web_events:
-    # Asegúrate de extraer la fecha del evento actual de tu agenda (ej: "2026-10-31")
-    fecha_actual_evento = event.get("date", "2026-10-31") 
-    encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events, fecha_actual_evento)
-    if encontrado_url:
-        event["sourceEventUrl"] = encontrado_url
-        imagen_web = obtener_thumb_de_evento_web(encontrado_url)
+                    imagen_web = ""
+                    if web_events:
+                        fecha_evento = event.get("date", datetime.now().strftime("%Y-%m-%d"))
+                        encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events, fecha_evento)
+                        if encontrado_url:
+                            event["sourceEventUrl"] = encontrado_url
+                            imagen_web = obtener_thumb_de_evento_web(encontrado_url)
 
                     # --- GESTIÓN DE IMÁGENES Y LOGOS SEPARADOS ---
                     event_thumb = event.get("image", "")
@@ -344,7 +341,6 @@ if web_events:
                         event["image"] = ""
                         event["imageMode"] = "banner"
 
-                    # Asignamos estrictamente el logo original en el campo 'logo'
                     event["logo"] = event_logo_original
 
                     # Procesar servidores
