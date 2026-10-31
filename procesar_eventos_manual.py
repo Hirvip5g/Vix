@@ -181,14 +181,21 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
                     return web_url
     else:
         home_norm = unicodedata.normalize('NFD', home_team).encode('ascii', 'ignore').decode('utf-8').lower() if home_team else ""
-        away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_team else ""
+        away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_norm else ""
         
         for web_slug, web_url in web_events_dict.items():
-            match_home = home_norm and any(word in web_slug for word in home_norm.split() if len(word) > 3)
-            match_away = away_norm and any(word in web_slug for word in away_norm.split() if len(word) > 3)
+            # Coincidencia directa si el nombre del equipo está contenido en el slug web
+            match_home = home_norm and (home_norm in web_slug or any(word in web_slug for word in home_norm.split() if len(word) > 2))
+            match_away = away_norm and (away_norm in web_slug or any(word in web_slug for word in away_norm.split() if len(word) > 2))
             
             if match_home and match_away:
                 return web_url
+                
+            # Intento alternativo usando el título original combinado
+            title_orig_norm = unicodedata.normalize('NFD', f"{home_team} vs {away_team}").encode('ascii', 'ignore').decode('utf-8').lower()
+            if home_norm and away_norm and (home_norm in web_slug and away_norm in web_slug):
+                return web_url
+                
     return ""
 
 def procesar_agenda():
