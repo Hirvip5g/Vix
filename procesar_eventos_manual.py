@@ -175,12 +175,13 @@ def procesar_agenda():
     print(f"Descargando JSON manual desde {AGENDA_URL}...")
     try:
         response = requests.get(AGENDA_URL, timeout=10)
+        print(f"Código de estado HTTP: {response.status_code}") # Para depurar en los logs
         if response.status_code != 200:
-            return
+            raise Exception(f"El servidor respondió con código {response.status_code}")
         agenda_data = response.json()
     except Exception as e:
-        print(f"Error: {e}")
-        return
+        print(f"Error al descargar la agenda: {e}")
+        raise e  # Fuerza a que el workflow falle y te muestre la alerta en rojo
 
     # Precargar eventos web de F1 desde TheSportsDB (ID 4370-formula-1)
     print("Obteniendo eventos web de TheSportsDB para F1...")
