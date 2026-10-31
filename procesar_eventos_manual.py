@@ -9,7 +9,6 @@ from datetime import datetime
 # Configuración de URLs y archivos locales
 AGENDA_URL = "https://streamxhd.sbs/eventos.json?"
 LOCAL_CHANNELS_JSON = "04.json"
-SOURCE_JSON = "source.json"
 OUTPUT_JSON = "agenda.json"
 BASE_IMG_URL = "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/equipos_fm"
 BASE_LEAGUE_IMG_URL = "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm"
@@ -118,13 +117,9 @@ def buscar_imagen(equipo_val):
         return f"{BASE_IMG_URL}/{MAPEO_EQUIPOS[equipo_val]}.png"
     return ""
 
-def obtener_eventos_thesportsdb(league_input):
+def obtener_eventos_thesportsdb(league_id):
     """Extrae los eventos y sus URLs desde la página HTML de la liga en TheSportsDB"""
-    if league_input.startswith("http"):
-        url = league_input
-    else:
-        url = f"https://www.thesportsdb.com/league/{league_input}"
-        
+    url = f"https://www.thesportsdb.com/league/{league_id}"
     eventos_dict = {}
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
@@ -136,7 +131,7 @@ def obtener_eventos_thesportsdb(league_input):
                 event_url = f"https://www.thesportsdb.com{path}"
                 eventos_dict[title.strip().lower()] = event_url
     except Exception as e:
-        print(f"Error al obtener eventos web de TheSportsDB para {url}: {e}")
+        print(f"Error al obtener eventos web de TheSportsDB: {e}")
     return eventos_dict
 
 def obtener_thumb_de_evento_web(event_url):
@@ -160,53 +155,6 @@ def traducir_sesion(titulo):
     if "clasificación" in t or "clasificacion" in t: return "qualifying"
     if "sprint" in t: return "sprint"
     return "grand prix"
-
-def normalizar_texto(texto):
-    if not texto:
-        return ""
-    t = unicodedata.normalize('NFD', texto)
-    t = t.encode('ascii', 'ignore').decode('utf-8')
-    return t.strip().lower()
-
-def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
-    """Busca coincidencia inteligente de eventos para Motor y Partidos de Fútbol/Ligas"""
-    if not web_events_dict:
-        return ""
-    
-    ln_upper = league_name.upper()
-    if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
-        sesion_buscada = traducir_sesion(original_title)
-        lugar_local = re.sub(r'gp|práctica|practica|clasificación|clasificacion|on board.*|-', '', original_title, flags=re.I).strip()
-        lugar_local_norm = normalizar_texto(lugar_local)
-        
-        for web_title, web_url in web_events_dict.items():
-            web_title_lower = web_title.lower()
-            if sesion_buscada in web_title_lower:
-                palabras_lugar = [p for p in lugar_local_norm.split() if len(p) > 2]
-                if any(p in web_title_lower for p in palabras_lugar):
-                    return web_url
-    else:
-        # Coincidencia flexible optimizada para partidos de fútbol
-        home_norm = normalizar_texto(home_team)
-        away_norm = normalizar_texto(away_team)
-        
-        # Ignorar palabras de relleno comunes en nombres de clubes para mejorar el acierto
-        palabras_ignorar = {"fc", "cf", "sc", "united", "city", "real", "club", "deportivo", "athletic"}
-        
-        home_palabras = [w for w in home_norm.split() if w not in palabras_ignorar and len(w) > 2]
-        away_palabras = [w for w in away_norm.split() if w not in palabras_ignorar and len(w) > 2]
-        
-        for web_title, web_url in web_events_dict.items():
-            web_title_lower = web_title.lower()
-            
-            # Verificar si las palabras clave principales de ambos equipos aparecen en el título del evento web
-            coincide_home = any(p in web_title_lower for p in home_palabras) if home_palabras else False
-            coincide_away = any(p in web_title_lower for p in away_palabras) if away_palabras else False
-            
-            if coincide_home and coincide_away:
-                return web_url
-                
-    return ""
 
 def procesar_agenda():
     canales_04_dict = {}
@@ -234,22 +182,9 @@ def procesar_agenda():
         print(f"Error: {e}")
         return
 
-    # Cargar fuentes de ligas desde source.json
-    sources_ligas = {}
-    if os.path.exists(SOURCE_JSON):
-        try:
-            with open(SOURCE_JSON, "r", encoding="utf-8") as f:
-                sources_ligas = json.load(f)
-        except Exception as e:
-            print(f"Error al leer {SOURCE_JSON}: {e}")
-    else:
-        sources_ligas = {"F1": "4370-formula-1"}
-
-    # Precargar eventos web de TheSportsDB para cada liga configurada en source.json
-    web_events_por_liga = {}
-    for league_key, league_val in sources_ligas.items():
-        print(f"Obteniendo eventos web de TheSportsDB para la liga '{league_key}'...")
-        web_events_por_liga[league_key.lower()] = obtener_eventos_thesportsdb(league_val)
+    # Precargar eventos web de F1 desde TheSportsDB (ID 4370-formula-1)
+    print("Obteniendo eventos web de TheSportsDB para F1...")
+    f1_web_events = obtener_eventos_thesportsdb("4370-formula-1")
 
     if "sports" in agenda_data:
         for sport in agenda_data["sports"]:
@@ -260,15 +195,6 @@ def procesar_agenda():
 
                 if not league.get("background") and league_id:
                     league["background"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.jpg"
-
-                # Coincidencia flexible para asociar la liga con source.json
-                web_events = {}
-                ln_lower = league_name.lower()
-                for l_key, w_events in web_events_por_liga.items():
-                    lk_lower = l_key.lower()
-                    if lk_lower in ln_lower or ln_lower in lk_lower or any(w in ln_lower for w in lk_lower.split() if len(w) > 3):
-                        web_events = w_events
-                        break
 
                 for event in league.get("events", []):
                     home_raw = event.get("homeTeam", "")
@@ -287,8 +213,6 @@ def procesar_agenda():
                         event["homeLogo"] = event.get("homeLogo") or buscar_imagen(home_team)
                         event["awayLogo"] = event.get("awayLogo") or buscar_imagen(away_team)
                     else:
-                        home_team = ""
-                        away_team = ""
                         if not original_title:
                             original_title = f"{home_raw} - {away_raw}" if (home_raw and away_raw) else (home_raw or away_raw)
                         event["title"] = original_title
@@ -297,15 +221,31 @@ def procesar_agenda():
                         event["homeLogo"] = ""
                         event["awayLogo"] = ""
 
-                    # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB (SEGÚN SOURCE.JSON) ---
+                    # --- PRIORIDAD MÁXIMA PARA F1: Extraer de TheSportsDB Web ---
                     imagen_web = ""
-                    if web_events:
-                        encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events)
+                    if league_name.upper() == "F1":
+                        sesion_buscada = traducir_sesion(original_title)
+                        lugar_local = re.sub(r'gp|práctica|practica|clasificación|clasificacion|on board.*|-', '', original_title, flags=re.I).strip()
+                        lugar_local_norm = unicodedata.normalize('NFD', lugar_local).encode('ascii', 'ignore').decode('utf-8').lower()
+                        
+                        encontrado_url = ""
+                        for web_title, web_url in f1_web_events.items():
+                            web_title_lower = web_title.lower()
+                            if sesion_buscada in web_title_lower:
+                                palabras_lugar = [p for p in lugar_local_norm.split() if len(p) > 2]
+                                if any(p in web_title_lower for p in palabras_lugar):
+                                    encontrado_url = web_url
+                                    break
+                        
                         if encontrado_url:
                             event["sourceEventUrl"] = encontrado_url
+                            # Extraer la miniatura/imagen principal de la página web del evento
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
 
                     # Jerarquía de imágenes:
+                    # 1. Imagen extraída de la web de TheSportsDB (Prioridad Absoluta para F1)
+                    # 2. Imagen que traía el JSON original de StreamXHD
+                    # 3. Logo/respaldo de la liga o GitHub
                     event_thumb = event.get("image", "")
                     
                     if imagen_web:
