@@ -18,7 +18,7 @@
                             "time": "2026-10-31 14:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 41,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/gya7rr1759234272.jpg",
                             "logo": "",
                             "homeTeam": "Utah Jazz",
                             "awayTeam": "Portland Trail Blazers",
@@ -44,7 +44,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601746-utah-jazz-vs-portland-trail-blazers"
                         },
                         {
                             "title": "Charlotte Hornets vs Philadelphia 76ers",
@@ -53,7 +54,7 @@
                             "time": "2026-10-31T17:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 66,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/y5vlm81759234689.jpg",
                             "logo": "",
                             "homeTeam": "Charlotte Hornets",
                             "awayTeam": "Philadelphia 76ers",
@@ -79,7 +80,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601747-charlotte-hornets-vs-philadelphia-76ers"
                         },
                         {
                             "title": "New Orleans Pelicans vs Atlanta Hawks",
@@ -88,7 +90,7 @@
                             "time": "2026-10-31T18:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 70,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/q1ruej1759233365.jpg",
                             "logo": "",
                             "homeTeam": "New Orleans Pelicans",
                             "awayTeam": "Atlanta Hawks",
@@ -114,7 +116,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601748-new-orleans-pelicans-vs-atlanta-hawks"
                         },
                         {
                             "title": "San Antonio Spurs vs Minnesota Timberwolves",
@@ -123,7 +126,7 @@
                             "time": "2026-10-31T19:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 73,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/qh63801759233949.jpg",
                             "logo": "",
                             "homeTeam": "San Antonio Spurs",
                             "awayTeam": "Minnesota Timberwolves",
@@ -159,7 +162,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601749-san-antonio-spurs-vs-minnesota-timberwolves"
                         },
                         {
                             "title": "Milwaukee Bucks vs Cleveland Cavaliers",
@@ -168,7 +172,7 @@
                             "time": "2026-10-31T19:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 74,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/vs604p1759234578.jpg",
                             "logo": "",
                             "homeTeam": "Milwaukee Bucks",
                             "awayTeam": "Cleveland Cavaliers",
@@ -194,7 +198,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601751-milwaukee-bucks-vs-cleveland-cavaliers"
                         },
                         {
                             "title": "Memphis Grizzlies vs Sacramento Kings",
@@ -203,7 +208,7 @@
                             "time": "2026-10-31T19:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 75,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/9gyopk1759234335.jpg",
                             "logo": "",
                             "homeTeam": "Memphis Grizzlies",
                             "awayTeam": "Sacramento Kings",
@@ -229,7 +234,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601750-memphis-grizzlies-vs-sacramento-kings"
                         },
                         {
                             "title": "Houston Rockets vs Oklahoma City Thunder",
@@ -238,7 +244,7 @@
                             "time": "2026-10-31T19:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 78,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/u2goxk1759233922.jpg",
                             "logo": "",
                             "homeTeam": "Houston Rockets",
                             "awayTeam": "Oklahoma City Thunder",
@@ -264,7 +270,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601752-houston-rockets-vs-oklahoma-city-thunder"
                         }
                     ],
                     "flagCode": "",
@@ -455,7 +462,7 @@
                             "time": "2026-10-31T14:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 48,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/rizp7t1781249142.jpg",
                             "logo": "",
                             "homeTeam": "Troyes",
                             "awayTeam": "Le Mans",
@@ -481,7 +488,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489540-troyes-vs-le-mans"
                         }
                     ],
                     "flagCode": "",
@@ -501,7 +509,7 @@
                             "time": "2026-10-31T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 50,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/bmpula1784904548.jpg",
                             "logo": "",
                             "homeTeam": "Barcelona",
                             "awayTeam": "Deportivo Alavés",
@@ -656,7 +664,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506269-barcelona-vs-deportivo-alav%c3%a9s"
                         }
                     ],
                     "flagCode": "",
@@ -1127,7 +1136,7 @@
                             "time": "2026-10-31T18:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 72,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/qhbx8u1784405093.jpg",
                             "logo": "",
                             "homeTeam": "Pachuca",
                             "awayTeam": "Tigres UANL",
@@ -1163,7 +1172,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487581-pachuca-vs-tigres-uanl"
                         },
                         {
                             "title": "Monterrey vs Tijuana",
@@ -1172,7 +1182,7 @@
                             "time": "2026-10-31T20:05:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 80,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/tzi5ab1784405094.jpg",
                             "logo": "",
                             "homeTeam": "Monterrey",
                             "awayTeam": "Tijuana",
@@ -1252,7 +1262,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487583-monterrey-vs-tijuana"
                         },
                         {
                             "title": "Guadalajara vs Atlante",
@@ -1261,7 +1272,7 @@
                             "time": "2026-10-31T20:07:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 81,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/aawkgo1784405093.jpg",
                             "logo": "",
                             "homeTeam": "Guadalajara",
                             "awayTeam": "Atlante",
@@ -1307,7 +1318,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487582-cd-guadalajara-vs-atlante"
                         },
                         {
                             "title": "América vs Toluca",
@@ -1316,7 +1328,7 @@
                             "time": "2026-10-31T22:10:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 83,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ekx7i61784405095.jpg",
                             "logo": "",
                             "homeTeam": "América",
                             "awayTeam": "Toluca",
@@ -1396,7 +1408,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487584-am%c3%a9rica-vs-toluca"
                         }
                     ],
                     "flagCode": "",
@@ -1416,7 +1429,7 @@
                             "time": "2026-10-31T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 53,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/tqkhbf1787740859.jpg",
                             "logo": "",
                             "homeTeam": "Aston Villa",
                             "awayTeam": "Fulham",
@@ -1442,7 +1455,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494088-aston-villa-vs-fulham"
                         }
                     ],
                     "flagCode": "",
@@ -1462,7 +1476,7 @@
                             "time": "2026-10-31T14:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 47,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/jdbcr91760771733.jpg",
                             "logo": "",
                             "homeTeam": "Peñarol",
                             "awayTeam": "Wanderers",
@@ -1488,7 +1502,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2620049-pe%c3%b1arol-vs-montevideo-wanderers"
                         }
                     ],
                     "flagCode": "",
@@ -1939,7 +1954,7 @@
                             "time": "2026-10-31T14:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 44,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/eqefeh1706713303.jpg",
                             "logo": "",
                             "homeTeam": "Sporting KC",
                             "awayTeam": "Dallas",
@@ -1965,7 +1980,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407197-sporting-kansas-city-vs-fc-dallas"
                         },
                         {
                             "title": "St. Louis City vs San Diego",
@@ -1974,7 +1990,7 @@
                             "time": "2026-10-31T14:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 45,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/vwf7lz1771753461.jpg",
                             "logo": "",
                             "homeTeam": "St. Louis City",
                             "awayTeam": "San Diego",
@@ -2000,7 +2016,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407198-st.-louis-city-sc-vs-san-diego-fc"
                         },
                         {
                             "title": "LA Galaxy vs Austin",
@@ -2009,7 +2026,7 @@
                             "time": "2026-10-31T16:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 59,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/82ic331771753459.jpg",
                             "logo": "",
                             "homeTeam": "LA Galaxy",
                             "awayTeam": "Austin",
@@ -2035,7 +2052,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407195-la-galaxy-vs-austin-fc"
                         },
                         {
                             "title": "SJ Earthquakes vs Real Salt Lake",
@@ -2044,7 +2062,7 @@
                             "time": "2026-10-31T16:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 60,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/d2g3d11706713420.jpg",
                             "logo": "",
                             "homeTeam": "SJ Earthquakes",
                             "awayTeam": "Real Salt Lake",
@@ -2070,7 +2088,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407199-san-jose-earthquakes-vs-real-salt-lake"
                         },
                         {
                             "title": "Colorado Rapids vs Chicago Fire",
@@ -2079,7 +2098,7 @@
                             "time": "2026-10-31T20:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 82,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/avxxmn1771753460.jpg",
                             "logo": "",
                             "homeTeam": "Colorado Rapids",
                             "awayTeam": "Chicago Fire",
@@ -2105,7 +2124,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407196-colorado-rapids-vs-chicago-fire"
                         }
                     ],
                     "flagCode": "",
@@ -2132,7 +2152,7 @@
                             "time": "2026-10-31T16:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 61,
-                            "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/gl8bnd1787424630.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -2263,7 +2283,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408205-mexico-city-grand-prix-qualifying"
                         },
                         {
                             "title": "GP México - On Board Colapinto",
@@ -2272,7 +2293,7 @@
                             "time": "2026-10-31T16:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 62,
-                            "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/fes6lr1787424638.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -2298,7 +2319,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix"
                         },
                         {
                             "title": "GP México - On Board Antonelli",
@@ -2307,7 +2329,7 @@
                             "time": "2026-10-31T16:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 63,
-                            "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/fes6lr1787424638.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -2333,7 +2355,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix"
                         }
                     ],
                     "flagCode": "",
@@ -2437,7 +2460,7 @@
                             "time": "2026-10-31 19:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 77,
-                            "image": "",
+                            "image": "https://www.thesportsdb.com/images/media/event/thumb/oomwrs1793447408.jpg",
                             "logo": "",
                             "homeTeam": "Renato Moicano",
                             "awayTeam": "Tom Nolan",
@@ -2489,7 +2512,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601526-ufc-fight-night-292-moicano-vs-nolan"
                         },
                         {
                             "title": "Preliminares",
