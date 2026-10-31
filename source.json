@@ -19,12 +19,36 @@
         "url": "https://www.thesportsdb.com/league/4350-mexican-primera-league",
         "aliases": ["Mexican Primera League"]
     },
-    "UFC": {
+    "Super Lig": {
         "url": "https://www.thesportsdb.com/league/4339-turkish-super-lig",
         "aliases": ["Turkish Super Lig"]
     },
-    "UFC": {
-        "url": "https://www.thesportsdb.com/league/4339-turkish-super-lig",
+    "Bundesliga": {
+        "url": "https://www.thesportsdb.com/league/4331-german-bundesliga",
         "aliases": ["German Bundesliga"]
-    }
+    },
+    "Bundesliga 2": {
+        "url": "https://www.thesportsdb.com/league/4399-german-2.-bundesliga",
+        "aliases": ["German 2. Bundesliga"]
+    },
+    "NBA": {
+        "url": "https://www.thesportsdb.com/league/4387-nba",
+        "aliases": ["NBA"]
+    },
+    "MLS": {
+        "url": "https://www.thesportsdb.com/league/4346-american-major-league-soccer",
+        "aliases": ["American Major League Soccer"]
+    },
+    "Primera División": {
+        "url": "https://www.thesportsdb.com/league/4432-uruguayan-primera-division",
+        "aliases": ["Uruguayan Primera Division"]
+    },
+    "Ligue 1": {
+        "url": "https://www.thesportsdb.com/league/4334-french-ligue-1",
+        "aliases": ["French Ligue 1"]
+    },
+    "Serie A": {
+        "url": "https://www.thesportsdb.com/league/4332-italian-serie-a",
+        "aliases": ["Italian Serie A"]
+    },
 }
