@@ -164,34 +164,27 @@ def traducir_sesion(titulo):
     if "carrera" in t or "race" in t or "gp" in t or "grand prix" in t: return "gp"
     return ""
 
-def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict, fecha_evento=""):
-    """Busca coincidencia del evento web priorizando la fecha exacta y la sesión"""
+def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
+    """Busca coincidencia del evento web usando los slugs de eventos normalizados"""
     if not web_events_dict:
         return ""
     
     ln_upper = league_name.upper()
     if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
         sesion_buscada = traducir_sesion(original_title)
+        
+        # Normalizamos el título completo del evento para buscar coincidencias de palabras clave del GP
         titulo_norm = unicodedata.normalize('NFD', original_title).encode('ascii', 'ignore').decode('utf-8').lower()
         
         mejor_coincidencia = ""
-        max_coincidencias = -1
+        max_coincidencias = 0
 
         for web_slug, web_url in web_events_dict.items():
-            coincidencias = 0
+            # Verificamos si comparte la sesión o si hay coincidencia directa en el texto del slug
+            coincidencias = sum(1 for palabra in titulo_norm.split() if len(palabra) > 3 and palabra in web_slug)
             
-            # Prioridad máxima si la fecha coincide exactamente en el slug (ej. 2026-10-31)
-            if fecha_evento and fecha_evento in web_slug:
-                coincidencias += 5
-
-            # Coincidencia por palabras clave del título del Gran Premio
-            for palabra in titulo_norm.split():
-                if len(palabra) > 3 and palabra in web_slug:
-                    coincidencias += 2
-
-            # Coincidencia por tipo de sesión
             if sesion_buscada and sesion_buscada in web_slug:
-                coincidencias += 3
+                coincidencias += 2  # Mayor peso si coincide la sesión exacta
 
             if coincidencias > max_coincidencias:
                 max_coincidencias = coincidencias
@@ -295,6 +288,7 @@ def procesar_agenda():
                     away_raw = event.get("awayTeam", "")
                     original_title = event.get("title", "")
                     
+                    # Capturamos el logo original del evento antes de modificar propiedades
                     event_logo_original = event.get("logo", "")
                     
                     is_motor = league_name.upper() in ["F1", "MOTOGP"] or "GP " in home_raw or "Práctica" in away_raw or "Clasificación" in away_raw
@@ -322,8 +316,7 @@ def procesar_agenda():
                     # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB (SEGÚN SOURCE.JSON) ---
                     imagen_web = ""
                     if web_events:
-                        fecha_evento = event.get("date", datetime.now().strftime("%Y-%m-%d"))
-                        encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events, fecha_evento)
+                        encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events)
                         if encontrado_url:
                             event["sourceEventUrl"] = encontrado_url
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
@@ -341,6 +334,7 @@ def procesar_agenda():
                         event["image"] = ""
                         event["imageMode"] = "banner"
 
+                    # Asignamos estrictamente el logo original en el campo 'logo'
                     event["logo"] = event_logo_original
 
                     # Procesar servidores
