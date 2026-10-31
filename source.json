@@ -1,5 +1,14 @@
 {
-    "F1": "https://www.thesportsdb.com/league/4370-formula-1",
-    "Premier League": "https://www.thesportsdb.com/league/4328-english-premier-league",
-    "LaLiga": "https://www.thesportsdb.com/league/4335-spanish-laliga"
+    "F1": {
+        "url": "https://www.thesportsdb.com/league/4370-formula-1",
+        "aliases": ["f1", "formula 1", "formula one"]
+    },
+    "Premier League": {
+        "url": "https://www.thesportsdb.com/league/4328-english-premier-league",
+        "aliases": ["premier league", "inglaterra - premier league", "premier league (uk)"]
+    },
+    "LaLiga": {
+        "url": "https://www.thesportsdb.com/league/4335-spanish-laliga",
+        "aliases": ["Spanish La Liga", "españa - laliga", "laliga ea sports", "liga española", "spanish primera division"]
+    }
 }

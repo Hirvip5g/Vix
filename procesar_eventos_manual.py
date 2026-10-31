@@ -185,7 +185,6 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
         
         for web_title, web_url in web_events_dict.items():
             web_title_lower = web_title.lower()
-            # Verificamos si al menos el equipo local o visitante aparecen en el título del evento web de TheSportsDB
             match_home = home_norm and any(word in web_title_lower for word in home_norm.split() if len(word) > 3)
             match_away = away_norm and any(word in web_title_lower for word in away_norm.split() if len(word) > 3)
             
@@ -219,7 +218,7 @@ def procesar_agenda():
         print(f"Error: {e}")
         return
 
-    # Cargar fuentes de ligas desde source.json
+    # Cargar fuentes y alias de ligas desde source.json
     sources_ligas = {}
     if os.path.exists(SOURCE_JSON):
         try:
@@ -229,13 +228,32 @@ def procesar_agenda():
             print(f"Error al leer {SOURCE_JSON}: {e}")
     else:
         print(f"Advertencia: No se encontró {SOURCE_JSON}. Usando respaldo por defecto para F1.")
-        sources_ligas = {"F1": "4370-formula-1"}
+        sources_ligas = {
+            "F1": {
+                "url": "https://www.thesportsdb.com/league/4370-formula-1",
+                "aliases": ["f1", "formula 1"]
+            }
+        }
 
-    # Precargar eventos web de TheSportsDB para cada liga configurada en source.json
+    # Precargar eventos web de TheSportsDB mapeando cada alias configurado
     web_events_por_liga = {}
-    for league_key, league_val in sources_ligas.items():
-        print(f"Obteniendo eventos web de TheSportsDB para la liga '{league_key}'...")
-        web_events_por_liga[league_key.lower()] = obtener_eventos_thesportsdb(league_val)
+    for league_key, data in sources_ligas.items():
+        # Soporta tanto si el source.json tiene un objeto con "url" y "aliases" como si tiene solo el string de la URL
+        if isinstance(data, dict):
+            league_url = data.get("url", "")
+            aliases = data.get("aliases", [league_key.lower()])
+        else:
+            league_url = data
+            aliases = [league_key.lower()]
+
+        if league_url:
+            print(f"Obteniendo eventos web de TheSportsDB para la liga '{league_key}'...")
+            eventos_remotos = obtener_eventos_thesportsdb(league_url)
+            
+            # Registrar la clave principal y cada alias para que el buscador los reconozca
+            for alias in aliases:
+                web_events_por_liga[alias.lower().strip()] = eventos_remotos
+            web_events_por_liga[league_key.lower().strip()] = eventos_remotos
 
     if "sports" in agenda_data:
         for sport in agenda_data["sports"]:
@@ -247,16 +265,17 @@ def procesar_agenda():
                 if not league.get("background") and league_id:
                     league["background"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.jpg"
 
-                # Comprobar si la liga actual coincide con alguna configurada en source.json
-                # Comprobar si la liga actual coincide de forma flexible con source.json
+                # Comprobar si la liga actual coincide con algún alias definido en source.json
                 web_events = {}
-                league_name_lower = league_name.lower()
-                for l_key, w_events in web_events_por_liga.items():
-                    # Comprobamos palabras clave principales (ej: "premier", "laliga", "f1")
-                    keywords = [k for k in l_key.lower().split() if len(k) > 2]
-                    if l_key in league_name_lower or league_name_lower in l_key or any(kw in league_name_lower for kw in keywords):
-                        web_events = w_events
-                        break
+                league_name_lower = league_name.lower().strip()
+                
+                if league_name_lower in web_events_por_liga:
+                    web_events = web_events_por_liga[league_name_lower]
+                else:
+                    for alias_key, w_events in web_events_por_liga.items():
+                        if alias_key in league_name_lower or league_name_lower in alias_key:
+                            web_events = w_events
+                            break
 
                 for event in league.get("events", []):
                     home_raw = event.get("homeTeam", "")
