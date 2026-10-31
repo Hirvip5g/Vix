@@ -10,5 +10,21 @@
     "LaLiga": {
         "url": "https://www.thesportsdb.com/league/4335-spanish-laliga",
         "aliases": ["Spanish La Liga", "españa - laliga", "laliga ea sports", "liga española", "spanish primera division"]
+    },
+    "UFC": {
+        "url": "https://www.thesportsdb.com/league/4443-ufc",
+        "aliases": ["ufc", "UFC"]
+    },
+    "Liga MX": {
+        "url": "https://www.thesportsdb.com/league/4350-mexican-primera-league",
+        "aliases": ["Mexican Primera League"]
+    },
+    "UFC": {
+        "url": "https://www.thesportsdb.com/league/4339-turkish-super-lig",
+        "aliases": ["Turkish Super Lig"]
+    },
+    "UFC": {
+        "url": "https://www.thesportsdb.com/league/4339-turkish-super-lig",
+        "aliases": ["German Bundesliga"]
     }
 }
