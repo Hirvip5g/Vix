@@ -40,11 +40,3 @@ jobs:
           
           # Envía los cambios a la rama main de forma explícita
           git push origin main
-```[cite: 1]
-
-### ¿Qué ha cambiado?
-1. **`schedule` y `cron: '0 */6 * * *'`**: Esta línea le indica a GitHub Actions que ejecute este flujo de trabajo al minuto `0` de cada hora que sea múltiplo de 6 (es decir, a las 00:00, 06:00, 12:00 y 18:00 UTC).
-2. **`workflow_dispatch`**: Se mantiene conservado para que sigas teniendo la opción de lanzarlo de manera manual cuando lo necesites[cite: 1].
-3. **Mensaje de commit**: Se ajustó ligeramente para reflejar que la actualización ahora también es automática, aunque puedes cambiarlo a tu gusto.
-
-*Nota:* Las ejecuciones programadas (`schedule`) en GitHub Actions utilizan el horario **UTC** y pueden tener un pequeño retraso de unos minutos dependiendo de la carga de los servidores de GitHub en ese momento.
