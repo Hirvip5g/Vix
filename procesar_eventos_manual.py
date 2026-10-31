@@ -119,7 +119,7 @@ def buscar_imagen(equipo_val):
     return ""
 
 def obtener_eventos_thesportsdb(league_input):
-    """Extrae los eventos y sus URLs desde la página HTML de la liga en TheSportsDB (acepta URL completa o ID)"""
+    """Extrae los eventos y sus URLs desde la página HTML de la liga en TheSportsDB"""
     if league_input.startswith("http"):
         url = league_input
     else:
@@ -161,16 +161,23 @@ def traducir_sesion(titulo):
     if "sprint" in t: return "sprint"
     return "grand prix"
 
+def normalizar_texto(texto):
+    if not texto:
+        return ""
+    t = unicodedata.normalize('NFD', texto)
+    t = t.encode('ascii', 'ignore').decode('utf-8')
+    return t.strip().lower()
+
 def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
-    """Busca coincidencia del evento web dependiendo si es motor o partidos de equipos"""
+    """Busca coincidencia inteligente de eventos para Motor y Partidos de Fútbol/Ligas"""
     if not web_events_dict:
         return ""
     
     ln_upper = league_name.upper()
     if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
         sesion_buscada = traducir_sesion(original_title)
-        lugar_local = re.sub(r'gp|práctica|practica|clasificación|clasificacion|on board.*|-', '', original_title, flags=I if 'I' in globals() else re.I).strip()
-        lugar_local_norm = unicodedata.normalize('NFD', lugar_local).encode('ascii', 'ignore').decode('utf-8').lower()
+        lugar_local = re.sub(r'gp|práctica|practica|clasificación|clasificacion|on board.*|-', '', original_title, flags=re.I).strip()
+        lugar_local_norm = normalizar_texto(lugar_local)
         
         for web_title, web_url in web_events_dict.items():
             web_title_lower = web_title.lower()
@@ -179,17 +186,26 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
                 if any(p in web_title_lower for p in palabras_lugar):
                     return web_url
     else:
-        home_norm = unicodedata.normalize('NFD', home_team).encode('ascii', 'ignore').decode('utf-8').lower() if home_team else ""
-        away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_team else ""
-        title_norm = unicodedata.normalize('NFD', original_title).encode('ascii', 'ignore').decode('utf-8').lower() if original_title else ""
+        # Coincidencia flexible optimizada para partidos de fútbol
+        home_norm = normalizar_texto(home_team)
+        away_norm = normalizar_texto(away_team)
+        
+        # Ignorar palabras de relleno comunes en nombres de clubes para mejorar el acierto
+        palabras_ignorar = {"fc", "cf", "sc", "united", "city", "real", "club", "deportivo", "athletic"}
+        
+        home_palabras = [w for w in home_norm.split() if w not in palabras_ignorar and len(w) > 2]
+        away_palabras = [w for w in away_norm.split() if w not in palabras_ignorar and len(w) > 2]
         
         for web_title, web_url in web_events_dict.items():
             web_title_lower = web_title.lower()
-            if home_norm and away_norm:
-                if home_norm in web_title_lower and away_norm in web_title_lower:
-                    return web_url
-            if title_norm and title_norm in web_title_lower:
+            
+            # Verificar si las palabras clave principales de ambos equipos aparecen en el título del evento web
+            coincide_home = any(p in web_title_lower for p in home_palabras) if home_palabras else False
+            coincide_away = any(p in web_title_lower for p in away_palabras) if away_palabras else False
+            
+            if coincide_home and coincide_away:
                 return web_url
+                
     return ""
 
 def procesar_agenda():
@@ -227,7 +243,6 @@ def procesar_agenda():
         except Exception as e:
             print(f"Error al leer {SOURCE_JSON}: {e}")
     else:
-        print(f"Advertencia: No se encontró {SOURCE_JSON}. Usando respaldo por defecto para F1.")
         sources_ligas = {"F1": "4370-formula-1"}
 
     # Precargar eventos web de TheSportsDB para cada liga configurada en source.json
@@ -246,7 +261,7 @@ def procesar_agenda():
                 if not league.get("background") and league_id:
                     league["background"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.jpg"
 
-                # Coincidencia flexible mejorada para source.json
+                # Coincidencia flexible para asociar la liga con source.json
                 web_events = {}
                 ln_lower = league_name.lower()
                 for l_key, w_events in web_events_por_liga.items():
