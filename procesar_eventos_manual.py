@@ -156,12 +156,13 @@ def obtener_thumb_de_evento_web(event_url):
 
 def traducir_sesion(titulo):
     t = titulo.lower()
-    if "práctica 1" in t or "practica 1" in t: return "practice 1"
-    if "práctica 2" in t or "practica 2" in t: return "practice 2"
-    if "práctica 3" in t or "practica 3" in t: return "practice 3"
-    if "clasificación" in t or "clasificacion" in t: return "qualifying"
+    if "práctica 1" in t or "practica 1" in t or "fp1" in t: return "practice-1"
+    if "práctica 2" in t or "practica 2" in t or "fp2" in t: return "practice-2"
+    if "práctica 3" in t or "practica 3" in t or "fp3" in t: return "practice-3"
+    if "clasificación" in t or "clasificacion" in t or "quali" in t or "q1" in t or "q2" in t: return "qualifying"
     if "sprint" in t: return "sprint"
-    return "grand prix"
+    if "carrera" in t or "race" in t or "gp" in t or "grand prix" in t: return "gp"
+    return ""
 
 def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
     """Busca coincidencia del evento web usando los slugs de eventos normalizados"""
@@ -171,16 +172,27 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
     ln_upper = league_name.upper()
     if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
         sesion_buscada = traducir_sesion(original_title)
-        lugar_local = re.sub(r'gp|práctica|practica|clasificación|clasificacion|on board.*|-', '', original_title, flags=re.I).strip()
-        lugar_local_norm = unicodedata.normalize('NFD', lugar_local).encode('ascii', 'ignore').decode('utf-8').lower()
         
+        # Normalizamos el título completo del evento para buscar coincidencias de palabras clave del GP
+        titulo_norm = unicodedata.normalize('NFD', original_title).encode('ascii', 'ignore').decode('utf-8').lower()
+        
+        mejor_coincidencia = ""
+        max_coincidencias = 0
+
         for web_slug, web_url in web_events_dict.items():
-            if sesion_buscada in web_slug:
-                palabras_lugar = [p for p in lugar_local_norm.split() if len(p) > 2]
-                if any(p in web_slug for p in palabras_lugar):
-                    return web_url
+            # Verificamos si comparte la sesión o si hay coincidencia directa en el texto del slug
+            coincidencias = sum(1 for palabra in titulo_norm.split() if len(palabra) > 3 and palabra in web_slug)
+            
+            if sesion_buscada and sesion_buscada in web_slug:
+                coincidencias += 2  # Mayor peso si coincide la sesión exacta
+
+            if coincidencias > max_coincidencias:
+                max_coincidencias = coincidencias
+                mejor_coincidencia = web_url
+
+        if mejor_coincidencia and max_coincidencias > 0:
+            return mejor_coincidencia
     else:
-        # Corrección: validamos contra las variables originales (home_team / away_team)
         home_norm = unicodedata.normalize('NFD', home_team).encode('ascii', 'ignore').decode('utf-8').lower() if home_team else ""
         away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_team else ""
         
