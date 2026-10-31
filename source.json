@@ -29,7 +29,7 @@
     },
     "Bundesliga 2": {
         "url": "https://www.thesportsdb.com/league/4399-german-2.-bundesliga",
-        "aliases": ["German 2. Bundesliga"]
+        "aliases": ["German Bundesliga"]
     },
     "NBA": {
         "url": "https://www.thesportsdb.com/league/4387-nba",
@@ -50,5 +50,9 @@
     "Serie A": {
         "url": "https://www.thesportsdb.com/league/4332-italian-serie-a",
         "aliases": ["Italian Serie A"]
+    },
+    "MotoGP": {
+        "url": "https://www.thesportsdb.com/league/4407-motogp",
+        "aliases": ["MotoGP"]
     }
 }
