@@ -7,7 +7,7 @@
             "leagues": [
                 {
                     "name": "NBA",
-                    "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
@@ -19,7 +19,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 67,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/npx0vl1759233211.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png",
+                            "logo": "",
                             "homeTeam": "Orlando Magic",
                             "awayTeam": "Boston Celtics",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
@@ -45,8 +45,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601753-orlando-magic-vs-boston-celtics",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601753-orlando-magic-vs-boston-celtics"
                         },
                         {
                             "title": "Indiana Pacers vs Brooklyn Nets",
@@ -56,7 +55,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 81,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/uco6jo1759233160.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png",
+                            "logo": "",
                             "homeTeam": "Indiana Pacers",
                             "awayTeam": "Brooklyn Nets",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
@@ -82,8 +81,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601754-indiana-pacers-vs-brooklyn-nets",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601754-indiana-pacers-vs-brooklyn-nets"
                         },
                         {
                             "title": "Golden State Warriors vs LA Clippers",
@@ -93,7 +91,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 91,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/jyacn61759234422.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png",
+                            "logo": "",
                             "homeTeam": "Golden State Warriors",
                             "awayTeam": "LA Clippers",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
@@ -129,8 +127,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601755-golden-state-warriors-vs-los-angeles-clippers",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601755-golden-state-warriors-vs-los-angeles-clippers"
                         },
                         {
                             "title": "Los Angeles Lakers vs Toronto Raptors",
@@ -140,7 +137,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 93,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/fcs5971759233963.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png",
+                            "logo": "",
                             "homeTeam": "Los Angeles Lakers",
                             "awayTeam": "Toronto Raptors",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
@@ -166,8 +163,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601756-los-angeles-lakers-vs-toronto-raptors",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601756-los-angeles-lakers-vs-toronto-raptors"
                         }
                     ],
                     "flagCode": "",
@@ -183,7 +179,7 @@
             "leagues": [
                 {
                     "name": "Liga Profesional",
-                    "logo": "https://upload.wikimedia.org/wikipedia/en/6/64/Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaprofesional.jpg",
                     "events": [
@@ -195,7 +191,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 44,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/is42rt1787987283.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png",
+                            "logo": "",
                             "homeTeam": "Boca Juniors",
                             "awayTeam": "River Plate",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
@@ -401,8 +397,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398163-boca-juniors-vs-river-plate",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398163-boca-juniors-vs-river-plate"
                         },
                         {
                             "title": "Newell's Old Boys vs Unión Santa Fe",
@@ -412,7 +407,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 76,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/ue9ljs1769678275.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png",
+                            "logo": "",
                             "homeTeam": "Newell's Old Boys",
                             "awayTeam": "Unión Santa Fe",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
@@ -489,8 +484,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398171-newells-old-boys-vs-uni%c3%b3n",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398171-newells-old-boys-vs-uni%c3%b3n"
                         },
                         {
                             "title": "Belgrano vs Barracas Central",
@@ -500,7 +494,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 77,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/ri4ojv1769678225.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png",
+                            "logo": "",
                             "homeTeam": "Belgrano",
                             "awayTeam": "Barracas Central",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
@@ -567,8 +561,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398162-belgrano-vs-barracas-central",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398162-belgrano-vs-barracas-central"
                         },
                         {
                             "title": "Lanús vs Gimnasia Mendoza",
@@ -578,7 +571,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 86,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/znby311769678271.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png",
+                            "logo": "",
                             "homeTeam": "Lanús",
                             "awayTeam": "Gimnasia Mendoza",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
@@ -645,8 +638,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398170-lan%c3%bas-vs-gimnasia-y-esgrima-de-mendoza",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398170-lan%c3%bas-vs-gimnasia-y-esgrima-de-mendoza"
                         }
                     ],
                     "flagCode": "",
@@ -655,7 +647,7 @@
                 },
                 {
                     "name": "Liga MX",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/mav5rx1686157960.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg",
                     "events": [
@@ -667,7 +659,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 82,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/m5x66h1784405096.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/mav5rx1686157960.png",
+                            "logo": "",
                             "homeTeam": "Santos Laguna",
                             "awayTeam": "Necaxa",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/225.png",
@@ -703,8 +695,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487585-santos-laguna-vs-necaxa",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/mav5rx1686157960.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487585-santos-laguna-vs-necaxa"
                         },
                         {
                             "title": "Cruz Azul vs León",
@@ -714,7 +705,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 88,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/lis2sf1784405097.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/mav5rx1686157960.png",
+                            "logo": "",
                             "homeTeam": "Cruz Azul",
                             "awayTeam": "León",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
@@ -794,8 +785,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487586-cruz-azul-vs-le%c3%b3n",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/mav5rx1686157960.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487586-cruz-azul-vs-le%c3%b3n"
                         }
                     ],
                     "flagCode": "",
@@ -804,7 +794,7 @@
                 },
                 {
                     "name": "MLS",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg",
                     "events": [
@@ -816,7 +806,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 68,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/c0oxmw1771753458.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png",
+                            "logo": "",
                             "homeTeam": "Vancouver Whitecaps",
                             "awayTeam": "Seattle Sounders FC",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9727.png",
@@ -842,8 +832,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407194-vancouver-whitecaps-vs-seattle-sounders",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407194-vancouver-whitecaps-vs-seattle-sounders"
                         },
                         {
                             "title": "Nashville SC vs New York RB",
@@ -853,7 +842,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 78,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/becnwu1706713090.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png",
+                            "logo": "",
                             "homeTeam": "Nashville SC",
                             "awayTeam": "New York RB",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png",
@@ -879,8 +868,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407188-nashville-sc-vs-new-york-red-bulls",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407188-nashville-sc-vs-new-york-red-bulls"
                         },
                         {
                             "title": "Atlanta United vs Toronto FC",
@@ -890,7 +878,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 79,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/jhrfqo1706713279.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png",
+                            "logo": "",
                             "homeTeam": "Atlanta United",
                             "awayTeam": "Toronto FC",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png",
@@ -916,8 +904,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407189-atlanta-united-vs-toronto-fc",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407189-atlanta-united-vs-toronto-fc"
                         },
                         {
                             "title": "New England vs Inter Miami",
@@ -927,7 +914,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 87,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/l1t5se1771753462.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png",
+                            "logo": "",
                             "homeTeam": "New England",
                             "awayTeam": "Inter Miami",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png",
@@ -963,8 +950,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407200-new-england-revolution-vs-inter-miami",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407200-new-england-revolution-vs-inter-miami"
                         },
                         {
                             "title": "Los Angeles FC vs Minnesota United",
@@ -974,7 +960,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 92,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/2mnudy1706713237.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png",
+                            "logo": "",
                             "homeTeam": "Los Angeles FC",
                             "awayTeam": "Minnesota United",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png",
@@ -1000,8 +986,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407193-los-angeles-fc-vs-minnesota-united",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407193-los-angeles-fc-vs-minnesota-united"
                         },
                         {
                             "title": "Portland Timbers vs Houston Dynamo",
@@ -1011,7 +996,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 94,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/d2605u1706713245.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png",
+                            "logo": "",
                             "homeTeam": "Portland Timbers",
                             "awayTeam": "Houston Dynamo",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
@@ -1064,8 +1049,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407201-portland-timbers-vs-houston-dynamo",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/dqo6r91549878326.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407201-portland-timbers-vs-houston-dynamo"
                         }
                     ],
                     "flagCode": "",
@@ -1074,7 +1058,7 @@
                 },
                 {
                     "name": "Serie A",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/seriea.jpg",
                     "events": [
@@ -1086,7 +1070,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 23,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/kkfys81688659500.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
+                            "logo": "",
                             "homeTeam": "Frosinone",
                             "awayTeam": "Torino",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
@@ -1112,8 +1096,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2482235-frosinone-vs-torino",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2482235-frosinone-vs-torino"
                         },
                         {
                             "title": "Lazio vs Cagliari",
@@ -1123,7 +1106,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 24,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/4oi4jv1755934072.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
+                            "logo": "",
                             "homeTeam": "Lazio",
                             "awayTeam": "Cagliari",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
@@ -1159,8 +1142,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2482228-lazio-vs-cagliari",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2482228-lazio-vs-cagliari"
                         },
                         {
                             "title": "Lecce vs Genoa",
@@ -1170,7 +1152,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 40,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/nxahf71755935189.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
+                            "logo": "",
                             "homeTeam": "Lecce",
                             "awayTeam": "Genoa",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
@@ -1196,8 +1178,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2482236-lecce-vs-genoa",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2482236-lecce-vs-genoa"
                         },
                         {
                             "title": "Juventus vs Napoli",
@@ -1207,7 +1188,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 56,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/4ohzvw1755934566.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
+                            "logo": "",
                             "homeTeam": "Juventus",
                             "awayTeam": "Napoli",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
@@ -1277,8 +1258,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2482232-juventus-vs-napoli",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2482232-juventus-vs-napoli"
                         }
                     ],
                     "flagCode": "",
@@ -1287,7 +1267,7 @@
                 },
                 {
                     "name": "Primera División",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/3p98xv1740672448.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -1299,7 +1279,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 31,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/epmfdi1661522075.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/3p98xv1740672448.png",
+                            "logo": "",
                             "homeTeam": "Boston River",
                             "awayTeam": "Torque",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9999.png",
@@ -1325,8 +1305,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2620051-boston-river-vs-montevideo-city-torque",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/3p98xv1740672448.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2620051-boston-river-vs-montevideo-city-torque"
                         },
                         {
                             "title": "Danubio vs Nacional",
@@ -1336,7 +1315,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 55,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/7ao1q71657916033.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/3p98xv1740672448.png",
+                            "logo": "",
                             "homeTeam": "Danubio",
                             "awayTeam": "Nacional",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4817.png",
@@ -1362,8 +1341,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2620052-danubio-vs-nacional-montevideo",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/3p98xv1740672448.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2620052-danubio-vs-nacional-montevideo"
                         },
                         {
                             "title": "Liverpool vs Juventud",
@@ -1373,7 +1351,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 83,
                             "image": "https://www.thesportsdb.com/images/ico/android-icon-192x192.png",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/3p98xv1740672448.png",
+                            "logo": "",
                             "homeTeam": "Liverpool",
                             "awayTeam": "Juventud",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5492.png",
@@ -1399,8 +1377,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2620054-liverpool-montevideo-vs-juventud-las-piedras",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/3p98xv1740672448.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2620054-liverpool-montevideo-vs-juventud-las-piedras"
                         }
                     ],
                     "flagCode": "",
@@ -1409,7 +1386,7 @@
                 },
                 {
                     "name": "LaLiga",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/laliga.jpg",
                     "events": [
@@ -1421,7 +1398,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 29,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/tkqnv01784904561.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+                            "logo": "",
                             "homeTeam": "Racing Santander",
                             "awayTeam": "Real Madrid",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
@@ -1552,8 +1529,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506278-racing-de-santander-vs-real-madrid",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506278-racing-de-santander-vs-real-madrid"
                         },
                         {
                             "title": "Elche vs Valencia",
@@ -1563,7 +1539,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 42,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/b79vw81784904560.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+                            "logo": "",
                             "homeTeam": "Elche",
                             "awayTeam": "Valencia",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
@@ -1667,8 +1643,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506277-elche-vs-valencia",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506277-elche-vs-valencia"
                         },
                         {
                             "title": "Athletic Club vs Real Sociedad",
@@ -1678,7 +1653,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 58,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/z75dit1784904549.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+                            "logo": "",
                             "homeTeam": "Athletic Club",
                             "awayTeam": "Real Sociedad",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
@@ -1799,8 +1774,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506270-athletic-bilbao-vs-real-sociedad",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2506270-athletic-bilbao-vs-real-sociedad"
                         }
                     ],
                     "flagCode": "",
@@ -1809,7 +1783,7 @@
                 },
                 {
                     "name": "Super Lig",
-                    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/Turkish_S%C3%BCper_Lig_logo_%282024%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/dikktz1785779891.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/superlig.jpg",
                     "events": [
@@ -1821,7 +1795,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 32,
                             "image": "",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/dikktz1785779891.png",
+                            "logo": "",
                             "homeTeam": "Kasimpasa",
                             "awayTeam": "Besiktas",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png",
@@ -1846,8 +1820,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/dikktz1785779891.png"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1856,7 +1829,7 @@
                 },
                 {
                     "name": "LaLiga SmartBank",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/smartbank.jpg",
                     "events": [
@@ -1868,7 +1841,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 30,
                             "image": "",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+                            "logo": "",
                             "homeTeam": "Ceuta",
                             "awayTeam": "Sporting Gijón",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5404.png",
@@ -1893,8 +1866,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Burgos vs CD Castellón",
@@ -1904,7 +1876,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 43,
                             "image": "",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+                            "logo": "",
                             "homeTeam": "Burgos",
                             "awayTeam": "CD Castellón",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12597.png",
@@ -1929,8 +1901,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Tenerife vs FC Andorra",
@@ -1940,7 +1911,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 59,
                             "image": "",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+                            "logo": "",
                             "homeTeam": "Tenerife",
                             "awayTeam": "FC Andorra",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/245.png",
@@ -1965,8 +1936,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1975,7 +1945,7 @@
                 },
                 {
                     "name": "Ligue 1",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_Ligue_1_McDonald%27s_2024.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligue1.jpg",
                     "events": [
@@ -1987,7 +1957,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 25,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/8nl6571754727089.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png",
+                            "logo": "",
                             "homeTeam": "Strasbourg",
                             "awayTeam": "Auxerre",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
@@ -2013,8 +1983,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489538-strasbourg-vs-auxerre",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489538-strasbourg-vs-auxerre"
                         },
                         {
                             "title": "Olympique Lyonnais vs Angers SCO",
@@ -2024,7 +1993,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 36,
                             "image": "",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png",
+                            "logo": "",
                             "homeTeam": "Olympique Lyonnais",
                             "awayTeam": "Angers SCO",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
@@ -2049,8 +2018,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Paris vs Monaco",
@@ -2060,7 +2028,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 37,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/vl1h3i1754808884.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png",
+                            "logo": "",
                             "homeTeam": "Paris",
                             "awayTeam": "Monaco",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
@@ -2086,8 +2054,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489542-paris-fc-vs-monaco",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489542-paris-fc-vs-monaco"
                         },
                         {
                             "title": "Olympique Marseille vs Toulouse",
@@ -2097,7 +2064,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 57,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/xjm1pf1781249489.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png",
+                            "logo": "",
                             "homeTeam": "Olympique Marseille",
                             "awayTeam": "Toulouse",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
@@ -2123,8 +2090,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489536-marseille-vs-toulouse",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489536-marseille-vs-toulouse"
                         }
                     ],
                     "flagCode": "",
@@ -2133,7 +2099,7 @@
                 },
                 {
                     "name": "Bundesliga",
-                    "logo": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/bundesliga.jpg",
                     "events": [
@@ -2145,7 +2111,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 26,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/dmsfjm1783076762.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
+                            "logo": "",
                             "homeTeam": "Union Berlin",
                             "awayTeam": "Köln",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
@@ -2215,8 +2181,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2508403-union-berlin-vs-k%c3%b6ln",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2508403-union-berlin-vs-k%c3%b6ln"
                         },
                         {
                             "title": "Eintracht Frankfurt vs Hamburger SV",
@@ -2226,7 +2191,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 38,
                             "image": "",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
+                            "logo": "",
                             "homeTeam": "Eintracht Frankfurt",
                             "awayTeam": "Hamburger SV",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
@@ -2251,8 +2216,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -2261,7 +2225,7 @@
                 },
                 {
                     "name": "Liga Chile",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/x9m78e1768232019.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligachile.jpg",
                     "events": [
@@ -2273,7 +2237,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 27,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/sigbpq1779080902.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/x9m78e1768232019.png",
+                            "logo": "",
                             "homeTeam": "Huachipato",
                             "awayTeam": "La Serena",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4134.png",
@@ -2299,8 +2263,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413114-huachipato-vs-deportes-la-serena",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/x9m78e1768232019.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413114-huachipato-vs-deportes-la-serena"
                         },
                         {
                             "title": "Cobresal vs Everton",
@@ -2310,7 +2273,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 41,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/veg6fx1770701651.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/x9m78e1768232019.png",
+                            "logo": "",
                             "homeTeam": "Cobresal",
                             "awayTeam": "Everton",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4133.png",
@@ -2336,8 +2299,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413110-cobresal-vs-everton-de-vi%c3%b1a-del-mar",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/x9m78e1768232019.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413110-cobresal-vs-everton-de-vi%c3%b1a-del-mar"
                         },
                         {
                             "title": "Universidad Católica vs Universidad de Chile",
@@ -2347,7 +2309,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 66,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/pvaqk81779599786.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/x9m78e1768232019.png",
+                            "logo": "",
                             "homeTeam": "Universidad Católica",
                             "awayTeam": "Universidad de Chile",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/885.png",
@@ -2373,8 +2335,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413122-universidad-cat%c3%b3lica-vs-deportes-limache",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/x9m78e1768232019.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413122-universidad-cat%c3%b3lica-vs-deportes-limache"
                         }
                     ],
                     "flagCode": "",
@@ -2464,8 +2425,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": ""
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "China vs Brasil",
@@ -2544,8 +2504,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": ""
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Nigeria vs Venezuela",
@@ -2580,8 +2539,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": ""
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -2590,7 +2548,7 @@
                 },
                 {
                     "name": "Liga Ecuador",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/ofjuay1615839163.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaecuador.jpg",
                     "events": [
@@ -2602,7 +2560,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 34,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/xkmks21784449664.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/ofjuay1615839163.png",
+                            "logo": "",
                             "homeTeam": "Universidad Católica",
                             "awayTeam": "Aucas",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9283.png",
@@ -2628,8 +2586,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2605741-universidad-cat%c3%b3lica-del-ecuador-vs-aucas",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ofjuay1615839163.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2605741-universidad-cat%c3%b3lica-del-ecuador-vs-aucas"
                         },
                         {
                             "title": "Independiente del Valle vs LDU Quito",
@@ -2639,7 +2596,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 52,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/fpjqd91638220367.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/ofjuay1615839163.png",
+                            "logo": "",
                             "homeTeam": "Independiente del Valle",
                             "awayTeam": "LDU Quito",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17086.png",
@@ -2665,8 +2622,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2605739-independiente-del-valle-vs-ldu-quito",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ofjuay1615839163.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2605739-independiente-del-valle-vs-ldu-quito"
                         },
                         {
                             "title": "Guayaquil City vs Libertad",
@@ -2676,7 +2632,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 71,
                             "image": "https://www.thesportsdb.com/images/ico/android-icon-192x192.png",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/ofjuay1615839163.png",
+                            "logo": "",
                             "homeTeam": "Guayaquil City",
                             "awayTeam": "Libertad",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11124.png",
@@ -2702,8 +2658,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2605742-guayaquil-city-vs-libertad-fc",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/ofjuay1615839163.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2605742-guayaquil-city-vs-libertad-fc"
                         }
                     ],
                     "flagCode": "",
@@ -2712,7 +2667,7 @@
                 },
                 {
                     "name": "Liga 1",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=original",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/1ujpwc1580040216.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/Liga1.jpg",
                     "events": [
@@ -2724,7 +2679,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 35,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/2mctgn1784358788.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/1ujpwc1580040216.png",
+                            "logo": "",
                             "homeTeam": "Deportivo Moquegua",
                             "awayTeam": "Los Chankas",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131654.png",
@@ -2764,8 +2719,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481747-deportivo-moquegua-vs-los-chankas",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/1ujpwc1580040216.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481747-deportivo-moquegua-vs-los-chankas"
                         },
                         {
                             "title": "Cusco vs Sport Boys",
@@ -2775,7 +2729,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 51,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/3c819y1784358787.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/1ujpwc1580040216.png",
+                            "logo": "",
                             "homeTeam": "Cusco",
                             "awayTeam": "Sport Boys",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11995.png",
@@ -2815,8 +2769,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481746-cusco-vs-sport-boys",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/1ujpwc1580040216.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481746-cusco-vs-sport-boys"
                         },
                         {
                             "title": "Atlético Grau vs Universitario",
@@ -2826,7 +2779,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 69,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/xntey71644521251.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/1ujpwc1580040216.png",
+                            "logo": "",
                             "homeTeam": "Atlético Grau",
                             "awayTeam": "Universitario",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20293.png",
@@ -2866,8 +2819,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481745-atl%c3%a9tico-grau-vs-universitario",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/1ujpwc1580040216.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481745-atl%c3%a9tico-grau-vs-universitario"
                         }
                     ],
                     "flagCode": "",
@@ -2876,7 +2828,7 @@
                 },
                 {
                     "name": "Premier League",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/premier.jpg",
                     "events": [
@@ -2888,7 +2840,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 39,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/5qdwpe1784549350.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",
+                            "logo": "",
                             "homeTeam": "Liverpool",
                             "awayTeam": "Arsenal",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
@@ -3002,8 +2954,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494082-liverpool-vs-arsenal",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2494082-liverpool-vs-arsenal"
                         }
                     ],
                     "flagCode": "",
@@ -3012,7 +2963,7 @@
                 },
                 {
                     "name": "Primera B",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/team/badge/x6mzk41615832215.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -3024,7 +2975,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 53,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/3lqe5y1769692700.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/team/badge/x6mzk41615832215.png",
+                            "logo": "",
                             "homeTeam": "Real Soacha",
                             "awayTeam": "Tigres FC",
                             "homeLogo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Real_Cundinamarca_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -3074,8 +3025,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2624063-real-cundinamarca-vs-tigres-fc",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/team/badge/x6mzk41615832215.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2624063-real-cundinamarca-vs-tigres-fc"
                         }
                     ],
                     "flagCode": "",
@@ -3165,8 +3115,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": ""
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Grêmio vs Atlético Mineiro",
@@ -3272,8 +3221,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": ""
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -3282,7 +3230,7 @@
                 },
                 {
                     "name": "Liga Paraguay",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/k1sbmx1652126723.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaparaguay.jpg",
                     "events": [
@@ -3294,7 +3242,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 60,
                             "image": "",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/k1sbmx1652126723.png",
+                            "logo": "",
                             "homeTeam": "Cerro Porteño",
                             "awayTeam": "Olimpia",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2671.png",
@@ -3319,8 +3267,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/k1sbmx1652126723.png"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -3390,8 +3337,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": ""
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Medellín vs Alianza",
@@ -3450,8 +3396,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": ""
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -3460,7 +3405,7 @@
                 },
                 {
                     "name": "Copa Colombia",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/sdz1351580833297.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -3472,7 +3417,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 89,
                             "image": "",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/sdz1351580833297.png",
+                            "logo": "",
                             "homeTeam": "Santa Fe",
                             "awayTeam": "Once Caldas",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5488.png",
@@ -3511,8 +3456,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/sdz1351580833297.png"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -3528,7 +3472,7 @@
             "leagues": [
                 {
                     "name": "F1",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -3540,7 +3484,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 61,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/fes6lr1787424638.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png",
+                            "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
                             "homeLogo": "",
@@ -3698,8 +3642,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix"
                         },
                         {
                             "title": "GP México - Race Hub",
@@ -3709,7 +3652,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 62,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/fes6lr1787424638.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png",
+                            "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
                             "homeLogo": "",
@@ -3735,8 +3678,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix"
                         },
                         {
                             "title": "GP México - On Board Colapinto",
@@ -3746,7 +3688,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 63,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/fes6lr1787424638.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png",
+                            "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
                             "homeLogo": "",
@@ -3772,8 +3714,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix"
                         },
                         {
                             "title": "GP México - On Board Antonelli",
@@ -3783,7 +3724,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 64,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/fes6lr1787424638.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png",
+                            "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
                             "homeLogo": "",
@@ -3809,8 +3750,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix"
                         },
                         {
                             "title": "GP México - Cámara On Board",
@@ -3820,7 +3760,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 65,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/fes6lr1787424638.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png",
+                            "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
                             "homeLogo": "",
@@ -3846,8 +3786,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408206-mexico-city-grand-prix"
                         }
                     ],
                     "flagCode": "",
@@ -3931,8 +3870,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": ""
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -3948,7 +3886,7 @@
             "leagues": [
                 {
                     "name": "NFL",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nfl.jpg",
                     "events": [
@@ -3960,7 +3898,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 47,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/a7c80g1784759873.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
+                            "logo": "",
                             "homeTeam": "Pittsburgh Steelers",
                             "awayTeam": "Cleveland Browns",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
@@ -4020,8 +3958,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475487-pittsburgh-steelers-vs-cleveland-browns",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475487-pittsburgh-steelers-vs-cleveland-browns"
                         },
                         {
                             "title": "Buffalo Bills vs Baltimore Ravens",
@@ -4031,7 +3968,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 48,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/d3fl821784759866.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
+                            "logo": "",
                             "homeTeam": "Buffalo Bills",
                             "awayTeam": "Baltimore Ravens",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
@@ -4101,8 +4038,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475482-buffalo-bills-vs-baltimore-ravens",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475482-buffalo-bills-vs-baltimore-ravens"
                         },
                         {
                             "title": "Dallas Cowboys vs Arizona Cardinals",
@@ -4112,7 +4048,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 49,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/aij3jh1784759869.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
+                            "logo": "",
                             "homeTeam": "Dallas Cowboys",
                             "awayTeam": "Arizona Cardinals",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
@@ -4138,8 +4074,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475484-dallas-cowboys-vs-arizona-cardinals",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475484-dallas-cowboys-vs-arizona-cardinals"
                         },
                         {
                             "title": "Los Angeles Rams vs Los Angeles Chargers",
@@ -4149,7 +4084,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 73,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/2bkmca1784759878.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
+                            "logo": "",
                             "homeTeam": "Los Angeles Rams",
                             "awayTeam": "Los Angeles Chargers",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
@@ -4175,8 +4110,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475490-los-angeles-rams-vs-los-angeles-chargers",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475490-los-angeles-rams-vs-los-angeles-chargers"
                         },
                         {
                             "title": "Denver Broncos vs Kansas City Chiefs",
@@ -4186,7 +4120,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 74,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/ywlj2h1784759879.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
+                            "logo": "",
                             "homeTeam": "Denver Broncos",
                             "awayTeam": "Kansas City Chiefs",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
@@ -4256,8 +4190,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475491-denver-broncos-vs-kansas-city-chiefs",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475491-denver-broncos-vs-kansas-city-chiefs"
                         },
                         {
                             "title": "Miami Dolphins vs New England Patriots",
@@ -4267,7 +4200,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 75,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/96iozh1784759849.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
+                            "logo": "",
                             "homeTeam": "Miami Dolphins",
                             "awayTeam": "New England Patriots",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
@@ -4368,8 +4301,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475472-new-york-jets-vs-miami-dolphins",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475472-new-york-jets-vs-miami-dolphins"
                         },
                         {
                             "title": "Washington Commanders vs Philadelphia Eagles",
@@ -4379,7 +4311,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 90,
                             "image": "",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png",
+                            "logo": "",
                             "homeTeam": "Washington Commanders",
                             "awayTeam": "Philadelphia Eagles",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
@@ -4435,8 +4367,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -4452,7 +4383,7 @@
             "leagues": [
                 {
                     "name": "NHL",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nhl.jpg",
                     "events": [
@@ -4464,7 +4395,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 70,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/j3az3y1760899460.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png",
+                            "logo": "",
                             "homeTeam": "Minnesota Wild",
                             "awayTeam": "Washington Capitals",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/min.png",
@@ -4490,8 +4421,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591712-washington-capitals-vs-minnesota-wild",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591712-washington-capitals-vs-minnesota-wild"
                         },
                         {
                             "title": "Winnipeg Jets vs Carolina Hurricanes",
@@ -4501,7 +4431,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 50,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/bf5l6m1760899886.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png",
+                            "logo": "",
                             "homeTeam": "Winnipeg Jets",
                             "awayTeam": "Carolina Hurricanes",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png",
@@ -4527,8 +4457,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591711-carolina-hurricanes-vs-winnipeg-jets",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591711-carolina-hurricanes-vs-winnipeg-jets"
                         },
                         {
                             "title": "Edmonton Oilers vs New York Rangers",
@@ -4538,7 +4467,7 @@
                             "timezone": "America/Lima",
                             "agendaOrder": 84,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/bdr3yp1760899433.jpg",
-                            "logo": "https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png",
+                            "logo": "",
                             "homeTeam": "Edmonton Oilers",
                             "awayTeam": "New York Rangers",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png",
@@ -4564,8 +4493,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591714-new-york-rangers-vs-edmonton-oilers",
-                            "leagueLogo": "https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591714-new-york-rangers-vs-edmonton-oilers"
                         }
                     ],
                     "flagCode": "",
