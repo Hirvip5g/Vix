@@ -3972,13 +3972,13 @@
                             "time": "2026-11-01T13:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 48,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/d3fl821784759866.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Buffalo Bills",
                             "awayTeam": "Baltimore Ravens",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -4042,8 +4042,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475482-buffalo-bills-vs-baltimore-ravens"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Dallas Cowboys vs Arizona Cardinals",
@@ -4088,7 +4087,7 @@
                             "time": "2026-11-01T16:05:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 73,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/2bkmca1784759878.jpg",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/twu0il1784759897.jpg",
                             "logo": "",
                             "homeTeam": "Los Angeles Rams",
                             "awayTeam": "Los Angeles Chargers",
@@ -4115,7 +4114,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475490-los-angeles-rams-vs-los-angeles-chargers"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475502-washington-commanders-vs-los-angeles-rams"
                         },
                         {
                             "title": "Denver Broncos vs Kansas City Chiefs",
