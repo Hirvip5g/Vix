@@ -296,12 +296,17 @@ def procesar_agenda():
                             league_logo_web = logos_liga_por_liga.get(alias_key, "")
                             break
 
+                # --- ASIGNAR LOGO A NIVEL DE LIGA ---
+                if league_logo_web:
+                    league["logo"] = league_logo_web
+                elif not league.get("logo") and league_id:
+                    # Si no se obtuvo de la web pero existe ID, puedes dejarlo o asignarlo según convenga
+                    pass
+
                 for event in league.get("events", []):
                     home_raw = event.get("homeTeam", "")
                     away_raw = event.get("awayTeam", "")
                     original_title = event.get("title", "")
-                    
-                    event_logo_original = event.get("logo", "")
                     
                     is_motor = league_name.upper() in ["F1", "MOTOGP"] or "GP " in home_raw or "Práctica" in away_raw or "Clasificación" in away_raw
                     is_match = bool(home_raw and away_raw) and not is_motor
@@ -333,7 +338,7 @@ def procesar_agenda():
                             event["sourceEventUrl"] = encontrado_url
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
 
-                    # --- GESTIÓN DE IMÁGENES Y LOGOS ---
+                    # --- GESTIÓN DE IMÁGENES DE EVENTOS ---
                     event_thumb = event.get("image", "")
                     
                     if imagen_web:
@@ -345,12 +350,6 @@ def procesar_agenda():
                     else:
                         event["image"] = ""
                         event["imageMode"] = "banner"
-
-                    # Asignamos el logo de la liga obtenido de la web (o mantenemos el original si no se encuentra)
-                    event["logo"] = league_logo_web if league_logo_web else event_logo_original
-                    
-                    # Opcionalmente, puedes añadir una propiedad específica para el logo de la liga si lo prefieres separado:
-                    event["leagueLogo"] = league_logo_web
 
                     # Procesar servidores
                     nuevos_servidores = []
