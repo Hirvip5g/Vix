@@ -331,6 +331,7 @@ def procesar_agenda():
                         event["awayLogo"] = ""
 
                     # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB (SEGÚN SOURCE.JSON) ---
+                    # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB ---
                     imagen_web = ""
                     if web_events:
                         encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events)
@@ -339,17 +340,13 @@ def procesar_agenda():
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
 
                     # --- GESTIÓN DE IMÁGENES DE EVENTOS ---
-                    event_thumb = event.get("image", "")
-                    
+                    # Si se encontró una miniatura web válida, se asigna; de lo contrario, se deja vacío.
                     if imagen_web:
                         event["image"] = imagen_web
                         event["imageMode"] = "banner"
-                    elif event_thumb:
-                        event["image"] = event_thumb
-                        event["imageMode"] = "banner"
                     else:
                         event["image"] = ""
-                        event["imageMode"] = "banner"
+                        event["imageMode"] = ""
 
                     # Procesar servidores
                     nuevos_servidores = []
