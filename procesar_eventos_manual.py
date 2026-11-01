@@ -330,19 +330,22 @@ def procesar_agenda():
                         event["homeLogo"] = ""
                         event["awayLogo"] = ""
 
-                    # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB (SEGÚN SOURCE.JSON) ---
-                    # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB ---
-                    imagen_web = ""
+                    # --- GESTIÓN DE IMÁGENES DE EVENTOS (ESTRICTA) ---
+                    event_thumb = ""
+                    
+                    # 1. Intentar obtener la imagen real desde la web
                     if web_events:
                         encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events)
                         if encontrado_url:
                             event["sourceEventUrl"] = encontrado_url
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
+                            # Validar que no sea un icono genérico de la web
+                            if imagen_web and "android-icon" not in imagen_web and "/ico/" not in imagen_web:
+                                event_thumb = imagen_web
 
-                    # --- GESTIÓN DE IMÁGENES DE EVENTOS ---
-                    # Si se encontró una miniatura web válida, se asigna; de lo contrario, se deja vacío.
-                    if imagen_web:
-                        event["image"] = imagen_web
+                    # 2. Si se encontró un banner válido, se asigna; de lo contrario, se limpia por completo
+                    if event_thumb:
+                        event["image"] = event_thumb
                         event["imageMode"] = "banner"
                     else:
                         event["image"] = ""
