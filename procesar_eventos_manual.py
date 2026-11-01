@@ -119,7 +119,6 @@ def buscar_imagen(equipo_val):
     return ""
 
 def obtener_eventos_thesportsdb(league_input):
-    """Extrae los eventos y sus URLs utilizando los slugs completos de la URL del evento en TheSportsDB"""
     if league_input.startswith("http"):
         url = league_input
     else:
@@ -142,7 +141,6 @@ def obtener_eventos_thesportsdb(league_input):
     return eventos_dict
 
 def obtener_thumb_de_evento_web(event_url):
-    """Entra a la página web del evento individual en TheSportsDB y extrae su imagen principal (og:image)"""
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(event_url, headers=headers, timeout=5)
@@ -155,15 +153,10 @@ def obtener_thumb_de_evento_web(event_url):
     return ""
 
 def obtener_logo_de_evento_web(event_url):
-    """Extrae el logo o imagen secundaria del evento desde la página web (por ejemplo, insignia o distintivo específico)"""
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(event_url, headers=headers, timeout=5)
         if response.status_code == 200:
-            # Buscamos patrones alternativos o etiquetas que contengan insignias/logos del evento en la página
-            match = re.search(r'<meta property="og:image:alt"[^>]+content="([^"]+)"', response.text)
-            # Como alternativa, podemos buscar imágenes de insignias/badge dentro del contenido si estuvieran estructuradas, 
-            # o extraer otro meta tag representativo. Usaremos un patrón común de logo secundario si existe en el HTML:
             match_badge = re.search(r'src="(https://[^"]+badge[^"]+\.png)"', response.text)
             if match_badge:
                 return match_badge.group(1)
@@ -182,14 +175,12 @@ def traducir_sesion(titulo):
     return ""
 
 def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
-    """Busca coincidencia del evento web usando los slugs de eventos normalizados"""
     if not web_events_dict:
         return ""
     
     ln_upper = league_name.upper()
     if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
         sesion_buscada = traducir_sesion(original_title)
-        
         titulo_norm = unicodedata.normalize('NFD', original_title).encode('ascii', 'ignore').decode('utf-8').lower()
         
         mejor_coincidencia = ""
@@ -197,7 +188,6 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
 
         for web_slug, web_url in web_events_dict.items():
             coincidencias = sum(1 for palabra in titulo_norm.split() if len(palabra) > 3 and palabra in web_slug)
-            
             if sesion_buscada and sesion_buscada in web_slug:
                 coincidencias += 2
 
@@ -252,13 +242,6 @@ def procesar_agenda():
                 sources_ligas = json.load(f)
         except Exception as e:
             print(f"Error al leer {SOURCE_JSON}: {e}")
-    else:
-        sources_ligas = {
-            "F1": {
-                "url": "https://www.thesportsdb.com/league/4370-formula-1",
-                "aliases": ["f1", "formula 1"]
-            }
-        }
 
     web_events_por_liga = {}
     for league_key, data in sources_ligas.items():
@@ -272,7 +255,6 @@ def procesar_agenda():
         if league_url:
             print(f"Obteniendo eventos web de TheSportsDB para la liga '{league_key}'...")
             eventos_remotos = obtener_eventos_thesportsdb(league_url)
-            
             for alias in aliases:
                 web_events_por_liga[alias.lower().strip()] = eventos_remotos
             web_events_por_liga[league_key.lower().strip()] = eventos_remotos
@@ -284,8 +266,13 @@ def procesar_agenda():
                 league_id = MAPEO_LIGAS.get(league_name, "")
                 league["leagueId"] = league_id
 
-                if not league.get("background") and league_id:
-                    league["background"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.jpg"
+                # --- ASIGNACIÓN DE BACKGROUND Y LOGO DE LA LIGA ---
+                if league_id:
+                    if not league.get("background"):
+                        league["background"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.jpg"
+                    # Asignamos el logo de la liga automáticamente usando el mismo patrón
+                    if not league.get("logo"):
+                        league["logo"] = f"{BASE_LEAGUE_IMG_URL}/{league_id}.png"
 
                 web_events = {}
                 league_name_lower = league_name.lower().strip()
@@ -327,7 +314,6 @@ def procesar_agenda():
                         event["homeLogo"] = ""
                         event["awayLogo"] = ""
 
-                    # --- EXTRACCIÓN DE IMAGEN Y LOGO WEB DESDE THESPORTSDB ---
                     imagen_web = ""
                     logo_web = ""
                     if web_events:
@@ -337,7 +323,6 @@ def procesar_agenda():
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
                             logo_web = obtener_logo_de_evento_web(encontrado_url)
 
-                    # --- GESTIÓN DE IMÁGENES Y LOGOS (LOGO POR ENCIMA DE THUMB) ---
                     event_thumb = event.get("image", "")
                     
                     if imagen_web:
@@ -350,14 +335,12 @@ def procesar_agenda():
                         event["image"] = ""
                         event["imageMode"] = "banner"
 
-                    # El logo extraído web o el original se priorizan y se colocan explícitamente por encima
                     final_logo = logo_web or event_logo_original
                     if final_logo:
                         event["logo"] = final_logo
                     else:
                         event["logo"] = ""
 
-                    # Procesar servidores
                     nuevos_servidores = []
                     for server in event.get("servers", []):
                         server_url = server.get("url", "")
