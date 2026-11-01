@@ -3037,7 +3037,7 @@
                     "name": "Copa de Brasil",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/h38dax1582151151.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copadebrasil.jpg",
                     "events": [
                         {
                             "title": "Palmeiras vs Vasco da Gama",
@@ -3224,12 +3224,12 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2599711-gr%c3%aamio-vs-atl%c3%a9tico-mineiro"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2599712-atl%c3%a9tico-mineiro-vs-gr%c3%aamio"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copadebrasil"
                 },
                 {
                     "name": "Liga Paraguay",
@@ -3412,7 +3412,7 @@
                     "name": "Copa Colombia",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/sdz1351580833297.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copacolombia.jpg",
                     "events": [
                         {
                             "title": "Santa Fe vs Once Caldas",
@@ -3466,7 +3466,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copacolombia"
                 }
             ]
         },
