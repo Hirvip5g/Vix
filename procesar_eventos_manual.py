@@ -154,6 +154,23 @@ def obtener_thumb_de_evento_web(event_url):
         print(f"Error al extraer la imagen del evento web {event_url}: {e}")
     return ""
 
+def obtener_logo_de_evento_web(event_url):
+    """Extrae el logo o imagen secundaria del evento desde la página web (por ejemplo, insignia o distintivo específico)"""
+    try:
+        headers = {"User-Agent": "Mozilla/5.0"}
+        response = requests.get(event_url, headers=headers, timeout=5)
+        if response.status_code == 200:
+            # Buscamos patrones alternativos o etiquetas que contengan insignias/logos del evento en la página
+            match = re.search(r'<meta property="og:image:alt"[^>]+content="([^"]+)"', response.text)
+            # Como alternativa, podemos buscar imágenes de insignias/badge dentro del contenido si estuvieran estructuradas, 
+            # o extraer otro meta tag representativo. Usaremos un patrón común de logo secundario si existe en el HTML:
+            match_badge = re.search(r'src="(https://[^"]+badge[^"]+\.png)"', response.text)
+            if match_badge:
+                return match_badge.group(1)
+    except Exception as e:
+        print(f"Error al extraer el logo web del evento {event_url}: {e}")
+    return ""
+
 def traducir_sesion(titulo):
     t = titulo.lower()
     if "práctica 1" in t or "practica 1" in t or "fp1" in t: return "practice-1"
@@ -173,18 +190,16 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
     if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
         sesion_buscada = traducir_sesion(original_title)
         
-        # Normalizamos el título completo del evento para buscar coincidencias de palabras clave del GP
         titulo_norm = unicodedata.normalize('NFD', original_title).encode('ascii', 'ignore').decode('utf-8').lower()
         
         mejor_coincidencia = ""
         max_coincidencias = 0
 
         for web_slug, web_url in web_events_dict.items():
-            # Verificamos si comparte la sesión o si hay coincidencia directa en el texto del slug
             coincidencias = sum(1 for palabra in titulo_norm.split() if len(palabra) > 3 and palabra in web_slug)
             
             if sesion_buscada and sesion_buscada in web_slug:
-                coincidencias += 2  # Mayor peso si coincide la sesión exacta
+                coincidencias += 2
 
             if coincidencias > max_coincidencias:
                 max_coincidencias = coincidencias
@@ -288,7 +303,6 @@ def procesar_agenda():
                     away_raw = event.get("awayTeam", "")
                     original_title = event.get("title", "")
                     
-                    # Capturamos el logo original del evento antes de modificar propiedades
                     event_logo_original = event.get("logo", "")
                     
                     is_motor = league_name.upper() in ["F1", "MOTOGP"] or "GP " in home_raw or "Práctica" in away_raw or "Clasificación" in away_raw
@@ -313,15 +327,17 @@ def procesar_agenda():
                         event["homeLogo"] = ""
                         event["awayLogo"] = ""
 
-                    # --- EXTRACCIÓN DE IMAGEN WEB DESDE THESPORTSDB (SEGÚN SOURCE.JSON) ---
+                    # --- EXTRACCIÓN DE IMAGEN Y LOGO WEB DESDE THESPORTSDB ---
                     imagen_web = ""
+                    logo_web = ""
                     if web_events:
                         encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events)
                         if encontrado_url:
                             event["sourceEventUrl"] = encontrado_url
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
+                            logo_web = obtener_logo_de_evento_web(encontrado_url)
 
-                    # --- GESTIÓN DE IMÁGENES Y LOGOS SEPARADOS ---
+                    # --- GESTIÓN DE IMÁGENES Y LOGOS (LOGO POR ENCIMA DE THUMB) ---
                     event_thumb = event.get("image", "")
                     
                     if imagen_web:
@@ -334,8 +350,12 @@ def procesar_agenda():
                         event["image"] = ""
                         event["imageMode"] = "banner"
 
-                    # Asignamos estrictamente el logo original en el campo 'logo'
-                    event["logo"] = event_logo_original
+                    # El logo extraído web o el original se priorizan y se colocan explícitamente por encima
+                    final_logo = logo_web or event_logo_original
+                    if final_logo:
+                        event["logo"] = final_logo
+                    else:
+                        event["logo"] = ""
 
                     # Procesar servidores
                     nuevos_servidores = []
@@ -364,7 +384,7 @@ def procesar_agenda():
                                     "active": True,
                                     "languages": server.get("languages", []),
                                     "customLanguages": server.get("customLanguages", ""),
-                                    "channelLogo": canal_info.get("logo", server.get("channelLogo", "")),
+                                    "channelLogo": canal_info.get("channelLogo", canal_info.get("logo", server.get("channelLogo", ""))),
                                     "clearkey": canal_info.get("clearkey", None),
                                     "referer": canal_info.get("referer", ""),
                                     "origin": canal_info.get("origin", ""),
