@@ -12,46 +12,10 @@
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
-                            "title": "Houston Rockets vs Oklahoma City Thunder",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-10-31 19:30",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 7,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/u2goxk1759233922.jpg",
-                            "logo": "",
-                            "homeTeam": "Houston Rockets",
-                            "awayTeam": "Oklahoma City Thunder",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba7",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601752-houston-rockets-vs-oklahoma-city-thunder"
-                        },
-                        {
                             "title": "Orlando Magic vs Boston Celtics",
                             "league": "NBA",
                             "code": "NBA",
-                            "time": "2026-11-01T15:30:00-05:00",
+                            "time": "2026-11-01 15:30",
                             "timezone": "America/Lima",
                             "agendaOrder": 67,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/npx0vl1759233211.jpg",
@@ -684,96 +648,6 @@
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligamx.jpg",
                     "events": [
                         {
-                            "title": "América vs Toluca",
-                            "league": "Liga MX",
-                            "code": "LIGAMX",
-                            "time": "2026-10-31T22:10:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 12,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ekx7i61784405095.jpg",
-                            "logo": "",
-                            "homeTeam": "América",
-                            "awayTeam": "Toluca",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "TUDN MX",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudnmx",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "TUDN MX MUTICALIDAD",
-                                    "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "763ce1ebcaf23502c8cf357c6ef423e1",
-                                        "key": "0c5e6c0820a1ea28753721db00272411"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                                },
-                                {
-                                    "name": "Canal 5 MX",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dcanal5mx",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "CANAL 5 MX MUTICALIDAD",
-                                    "url": "https://live1-ott.izzigo.tv/7/out/u/dash/CANAL-5-HD-H265/default.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "2764ddb50fbcdfa640e19874116dd529",
-                                        "key": "ab1e5cc276f81696e41131392290585d"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                                },
-                                {
-                                    "name": "TUDN USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudn_usa",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487584-am%c3%a9rica-vs-toluca"
-                        },
-                        {
                             "title": "Santos Laguna vs Necaxa",
                             "league": "Liga MX",
                             "code": "LIGAMX",
@@ -920,42 +794,6 @@
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/mls.jpg",
                     "events": [
-                        {
-                            "title": "Colorado Rapids vs Chicago Fire",
-                            "league": "MLS",
-                            "code": "MLS",
-                            "time": "2026-10-31T20:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 11,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/avxxmn1771753460.jpg",
-                            "logo": "",
-                            "homeTeam": "Colorado Rapids",
-                            "awayTeam": "Chicago Fire",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Apple TV Español",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dappletv9",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2407196-colorado-rapids-vs-chicago-fire"
-                        },
                         {
                             "title": "Vancouver Whitecaps vs Seattle Sounders FC",
                             "league": "MLS",
@@ -4110,151 +3948,6 @@
             "icon": "🏎️",
             "leagues": [
                 {
-                    "name": "MotoGP",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/gg3c201768486075.png/medium",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/motogp.jpg",
-                    "events": [
-                        {
-                            "title": "GP Malasia - Carrera Moto3, Moto2 y MotoGP",
-                            "league": "MotoGP",
-                            "code": "MOTOGP",
-                            "time": "2026-10-31T22:45:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 13,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/if0ifc1759848260.jpg",
-                            "logo": "",
-                            "homeTeam": "",
-                            "awayTeam": "",
-                            "homeLogo": "",
-                            "awayLogo": "",
-                            "imageMode": "banner",
-                            "duration": 150,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "b3e4e74ae2080b137e68bbd0ef8a7e05",
-                                        "key": "cb004fb100bd92f23793562891e3236b"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN CO HD",
-                                    "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2368501-malaysia-gp"
-                        },
-                        {
-                            "title": "GP Malasia - Carrera Moto2 y MotoGP",
-                            "league": "MotoGP",
-                            "code": "MOTOGP",
-                            "time": "2026-11-01T00:15:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 14,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/if0ifc1759848260.jpg",
-                            "logo": "",
-                            "homeTeam": "",
-                            "awayTeam": "",
-                            "homeLogo": "",
-                            "awayLogo": "",
-                            "imageMode": "banner",
-                            "duration": 150,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "b3e4e74ae2080b137e68bbd0ef8a7e05",
-                                        "key": "cb004fb100bd92f23793562891e3236b"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN CO HD",
-                                    "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2368501-malaysia-gp"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "motogp"
-                },
-                {
                     "name": "F1",
                     "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                     "image": "",
@@ -5278,5 +4971,5 @@
             ]
         }
     ],
-    "updated": "2026-10-31 22:21:48"
+    "updated": "2026-11-01 06:02:11"
 }
