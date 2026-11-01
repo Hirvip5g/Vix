@@ -90,5 +90,20 @@
     "Copa Colombia": {
         "url": "https://www.thesportsdb.com/league/4497-colombian-liga-dimayor",
         "aliases": ["Colombian Liga DIMAYOR"]
+    },
+    "Copa Mundial Femenina Sub-17": {
+        "url": "https://www.thesportsdb.com/league/5712-fifa-womens-u17-world-cup",
+        "aliases": ["FIFA Womens U17 World Cup"]
+    },
+    "Copa de Brasil": {
+        "url": "https://www.thesportsdb.com/league/4725-copa-do-brasil",
+        "aliases": ["Copa do Brasil"]
+    }"Liga Colombia": {
+        "url": "https://www.thesportsdb.com/league/4497-colombia-categoría-primera-a",
+        "aliases": ["Colombian Liga DIMAYOR"]
+    },
+    "ATP": {
+        "url": "https://www.thesportsdb.com/league/4464-atp-world-tour",
+        "aliases": ["ATP World Tour"]
     }
 }
