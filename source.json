@@ -54,5 +54,41 @@
     "MotoGP": {
         "url": "https://www.thesportsdb.com/league/4407-motogp",
         "aliases": ["MotoGP"]
+    },
+    "NHL": {
+        "url": "https://www.thesportsdb.com/league/4380-nhl",
+        "aliases": ["NHL"]
+    },
+    "NFL": {
+        "url": "https://www.thesportsdb.com/league/4391-nfl",
+        "aliases": ["NFL"]
+    },
+    "Liga Profesional": {
+        "url": "https://www.thesportsdb.com/league/4406-argentinian-primera-division",
+        "aliases": ["Argentinian Primera Division"]
+    },
+    "Liga Ecuador": {
+        "url": "https://www.thesportsdb.com/league/4686-ecuadorian-serie-a",
+        "aliases": ["Ecuadorian Serie A"]
+    },
+    "Liga 1": {
+        "url": "https://www.thesportsdb.com/league/4688-peruvian-primera-division",
+        "aliases": ["Peruvian Primera Division"]
+    },
+    "Liga Chile": {
+        "url": "https://www.thesportsdb.com/league/4627-chile-primera-division",
+        "aliases": ["Chile Primera Division"]
+    },
+    "Primera B": {
+        "url": "https://www.thesportsdb.com/team/141071-tigres-fc",
+        "aliases": ["Colombian Categoría Primera B"]
+    },
+    "Liga Paraguay": {
+        "url": "https://www.thesportsdb.com/league/4687-paraguayan-primera-division",
+        "aliases": ["Paraguayan Primera Division"]
+    },
+    "Copa Colombia": {
+        "url": "https://www.thesportsdb.com/league/4497-colombian-liga-dimayor",
+        "aliases": ["Colombian Liga DIMAYOR"]
     }
 }
