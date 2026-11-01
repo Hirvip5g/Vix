@@ -190,7 +190,7 @@
                             "time": "2026-11-01T13:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 44,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/is42rt1787987283.jpg",
                             "logo": "",
                             "homeTeam": "Boca Juniors",
                             "awayTeam": "River Plate",
@@ -396,7 +396,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398163-boca-juniors-vs-river-plate"
                         },
                         {
                             "title": "Newell's Old Boys vs Unión Santa Fe",
@@ -405,7 +406,7 @@
                             "time": "2026-11-01T16:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 76,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ue9ljs1769678275.jpg",
                             "logo": "",
                             "homeTeam": "Newell's Old Boys",
                             "awayTeam": "Unión Santa Fe",
@@ -482,7 +483,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398171-newells-old-boys-vs-uni%c3%b3n"
                         },
                         {
                             "title": "Belgrano vs Barracas Central",
@@ -491,7 +493,7 @@
                             "time": "2026-11-01T16:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 77,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ri4ojv1769678225.jpg",
                             "logo": "",
                             "homeTeam": "Belgrano",
                             "awayTeam": "Barracas Central",
@@ -558,7 +560,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398162-belgrano-vs-barracas-central"
                         },
                         {
                             "title": "Lanús vs Gimnasia Mendoza",
@@ -567,7 +570,7 @@
                             "time": "2026-11-01T18:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 86,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/znby311769678271.jpg",
                             "logo": "",
                             "homeTeam": "Lanús",
                             "awayTeam": "Gimnasia Mendoza",
@@ -634,7 +637,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398170-lan%c3%bas-vs-gimnasia-y-esgrima-de-mendoza"
                         }
                     ],
                     "flagCode": "",
@@ -2723,7 +2727,7 @@
                             "time": "2026-11-01T10:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 27,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/sigbpq1779080902.jpg",
                             "logo": "",
                             "homeTeam": "Huachipato",
                             "awayTeam": "La Serena",
@@ -2749,7 +2753,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413114-huachipato-vs-deportes-la-serena"
                         },
                         {
                             "title": "Cobresal vs Everton",
@@ -2758,7 +2763,7 @@
                             "time": "2026-11-01T12:15:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 41,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/veg6fx1770701651.jpg",
                             "logo": "",
                             "homeTeam": "Cobresal",
                             "awayTeam": "Everton",
@@ -2784,7 +2789,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413110-cobresal-vs-everton-de-vi%c3%b1a-del-mar"
                         },
                         {
                             "title": "Universidad Católica vs Universidad de Chile",
@@ -2793,7 +2799,7 @@
                             "time": "2026-11-01T15:15:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 66,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/dm7zgl1779688059.jpg",
                             "logo": "",
                             "homeTeam": "Universidad Católica",
                             "awayTeam": "Universidad de Chile",
@@ -2819,7 +2825,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413117-universidad-cat%c3%b3lica-vs-universidad-de-chile"
                         }
                     ],
                     "flagCode": "",
@@ -3043,7 +3050,7 @@
                             "time": "2026-11-01T11:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 34,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xkmks21784449664.jpg",
                             "logo": "",
                             "homeTeam": "Universidad Católica",
                             "awayTeam": "Aucas",
@@ -3069,7 +3076,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2605741-universidad-cat%c3%b3lica-del-ecuador-vs-aucas"
                         },
                         {
                             "title": "Independiente del Valle vs LDU Quito",
@@ -3078,7 +3086,7 @@
                             "time": "2026-11-01T13:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 52,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/fpjqd91638220367.jpg",
                             "logo": "",
                             "homeTeam": "Independiente del Valle",
                             "awayTeam": "LDU Quito",
@@ -3104,7 +3112,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2605739-independiente-del-valle-vs-ldu-quito"
                         },
                         {
                             "title": "Guayaquil City vs Libertad",
@@ -3113,7 +3122,7 @@
                             "time": "2026-11-01T16:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 71,
-                            "image": "",
+                            "image": "https://www.thesportsdb.com/images/ico/android-icon-192x192.png",
                             "logo": "",
                             "homeTeam": "Guayaquil City",
                             "awayTeam": "Libertad",
@@ -3139,7 +3148,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2605742-guayaquil-city-vs-libertad-fc"
                         }
                     ],
                     "flagCode": "",
@@ -3159,7 +3169,7 @@
                             "time": "2026-11-01T11:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 35,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/2mctgn1784358788.jpg",
                             "logo": "",
                             "homeTeam": "Deportivo Moquegua",
                             "awayTeam": "Los Chankas",
@@ -3199,7 +3209,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481747-deportivo-moquegua-vs-los-chankas"
                         },
                         {
                             "title": "Cusco vs Sport Boys",
@@ -3208,7 +3219,7 @@
                             "time": "2026-11-01T13:15:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 51,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/3c819y1784358787.jpg",
                             "logo": "",
                             "homeTeam": "Cusco",
                             "awayTeam": "Sport Boys",
@@ -3248,7 +3259,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481746-cusco-vs-sport-boys"
                         },
                         {
                             "title": "Atlético Grau vs Universitario",
@@ -3257,7 +3269,7 @@
                             "time": "2026-11-01T15:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 69,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xntey71644521251.jpg",
                             "logo": "",
                             "homeTeam": "Atlético Grau",
                             "awayTeam": "Universitario",
@@ -3297,7 +3309,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481745-atl%c3%a9tico-grau-vs-universitario"
                         }
                     ],
                     "flagCode": "",
@@ -3452,7 +3465,7 @@
                             "time": "2026-11-01T14:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 53,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/3lqe5y1769692700.jpg",
                             "logo": "",
                             "homeTeam": "Real Soacha",
                             "awayTeam": "Tigres FC",
@@ -3502,7 +3515,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2624063-real-cundinamarca-vs-tigres-fc"
                         }
                     ],
                     "flagCode": "",
@@ -4374,7 +4388,7 @@
                             "time": "2026-11-01T13:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 47,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/a7c80g1784759873.jpg",
                             "logo": "",
                             "homeTeam": "Pittsburgh Steelers",
                             "awayTeam": "Cleveland Browns",
@@ -4434,7 +4448,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475487-pittsburgh-steelers-vs-cleveland-browns"
                         },
                         {
                             "title": "Buffalo Bills vs Baltimore Ravens",
@@ -4443,7 +4458,7 @@
                             "time": "2026-11-01T13:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 48,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/d3fl821784759866.jpg",
                             "logo": "",
                             "homeTeam": "Buffalo Bills",
                             "awayTeam": "Baltimore Ravens",
@@ -4513,7 +4528,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475482-buffalo-bills-vs-baltimore-ravens"
                         },
                         {
                             "title": "Dallas Cowboys vs Arizona Cardinals",
@@ -4522,7 +4538,7 @@
                             "time": "2026-11-01T13:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 49,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/aij3jh1784759869.jpg",
                             "logo": "",
                             "homeTeam": "Dallas Cowboys",
                             "awayTeam": "Arizona Cardinals",
@@ -4548,7 +4564,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475484-dallas-cowboys-vs-arizona-cardinals"
                         },
                         {
                             "title": "Los Angeles Rams vs Los Angeles Chargers",
@@ -4557,7 +4574,7 @@
                             "time": "2026-11-01T16:05:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 73,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/2bkmca1784759878.jpg",
                             "logo": "",
                             "homeTeam": "Los Angeles Rams",
                             "awayTeam": "Los Angeles Chargers",
@@ -4583,7 +4600,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475490-los-angeles-rams-vs-los-angeles-chargers"
                         },
                         {
                             "title": "Denver Broncos vs Kansas City Chiefs",
@@ -4592,7 +4610,7 @@
                             "time": "2026-11-01T16:25:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 74,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ywlj2h1784759879.jpg",
                             "logo": "",
                             "homeTeam": "Denver Broncos",
                             "awayTeam": "Kansas City Chiefs",
@@ -4662,7 +4680,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475491-denver-broncos-vs-kansas-city-chiefs"
                         },
                         {
                             "title": "Miami Dolphins vs New England Patriots",
@@ -4671,7 +4690,7 @@
                             "time": "2026-11-01T16:25:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 75,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/96iozh1784759849.jpg",
                             "logo": "",
                             "homeTeam": "Miami Dolphins",
                             "awayTeam": "New England Patriots",
@@ -4772,7 +4791,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475472-new-york-jets-vs-miami-dolphins"
                         },
                         {
                             "title": "Washington Commanders vs Philadelphia Eagles",
@@ -4865,7 +4885,7 @@
                             "time": "2026-11-01 15:30",
                             "timezone": "America/Lima",
                             "agendaOrder": 70,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/j3az3y1760899460.jpg",
                             "logo": "",
                             "homeTeam": "Minnesota Wild",
                             "awayTeam": "Washington Capitals",
@@ -4891,7 +4911,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591712-washington-capitals-vs-minnesota-wild"
                         },
                         {
                             "title": "Winnipeg Jets vs Carolina Hurricanes",
@@ -4900,7 +4921,7 @@
                             "time": "2026-11-01T13:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 50,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/bf5l6m1760899886.jpg",
                             "logo": "",
                             "homeTeam": "Winnipeg Jets",
                             "awayTeam": "Carolina Hurricanes",
@@ -4926,7 +4947,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591711-carolina-hurricanes-vs-winnipeg-jets"
                         },
                         {
                             "title": "Edmonton Oilers vs New York Rangers",
@@ -4935,7 +4957,7 @@
                             "time": "2026-11-01T18:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 84,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/bdr3yp1760899433.jpg",
                             "logo": "",
                             "homeTeam": "Edmonton Oilers",
                             "awayTeam": "New York Rangers",
@@ -4961,7 +4983,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591714-new-york-rangers-vs-edmonton-oilers"
                         }
                     ],
                     "flagCode": "",
