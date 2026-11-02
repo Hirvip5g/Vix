@@ -106,5 +106,17 @@
     "ATP": {
         "url": "https://www.thesportsdb.com/league/4464-atp-world-tour",
         "aliases": ["ATP World Tour"]
+    },
+    "AFC Champions League Elite": {
+        "url": "https://www.thesportsdb.com/league/4719-afc-champions-league-elite",
+        "aliases": ["AFC Champions League Elite"]
+    },
+    "Torneo BetPlay": {
+        "url": "https://www.thesportsdb.com/league/4951-colombian-torneo-dimayor",
+        "aliases": ["Colombian Torneo DIMAYOR"]
+    },
+    "Primeira Liga": {
+        "url": "https://www.thesportsdb.com/league/4344-portuguese-primeira-liga",
+        "aliases": ["Portuguese Primeira Liga"]
     }
 }
