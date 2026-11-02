@@ -2293,7 +2293,7 @@
                 },
                 {
                     "name": "AFC Champions League Elite",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -2304,13 +2304,13 @@
                             "time": "2026-11-02T08:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 73,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/hw0zn91787232010.jpg",
                             "logo": "",
                             "homeTeam": "Pakhtakor",
                             "awayTeam": "Al Nassr",
                             "homeLogo": "https://upload.wikimedia.org/wikipedia/en/7/78/Pakhtakor_FC_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -2374,7 +2374,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2579951-pakhtakor-vs-al-nassr"
                         },
                         {
                             "title": "Al Gharafa vs Al Qadisiyah",
@@ -2418,7 +2419,7 @@
                 },
                 {
                     "name": "Torneo BetPlay",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/l2h1ao1615832028.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -2429,13 +2430,13 @@
                             "time": "2026-11-02T14:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 80,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/kvdbmn1784787971.jpg",
                             "logo": "",
                             "homeTeam": "Independiente Yumbo",
                             "awayTeam": "Boca Juniors Cali",
                             "homeLogo": "",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17372.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -2469,7 +2470,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2624373-independiente-yumbo-vs-boca-juniors-de-cali"
                         },
                         {
                             "title": "Unión Magdalena vs Envigado",
@@ -2528,7 +2530,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2624374-uni%c3%b3n-magdalena-vs-envigado"
                         }
                     ],
                     "flagCode": "",
@@ -2537,7 +2540,7 @@
                 },
                 {
                     "name": "Primeira Liga",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/3tgdke1782689102.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/primeiraligap.jpg",
                     "events": [
@@ -2548,13 +2551,13 @@
                             "time": "2026-11-02T15:15:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 86,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/f9m98b1786719023.jpg",
                             "logo": "",
                             "homeTeam": "Benfica",
                             "awayTeam": "Alverca",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -2591,7 +2594,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2514015-benfica-vs-alverca"
                         }
                     ],
                     "flagCode": "",
