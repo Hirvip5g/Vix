@@ -1027,52 +1027,6 @@
                     "leagueId": "ucl"
                 },
                 {
-                    "name": "Copa del Rey",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Copa_del_Rey_logo_%282021%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copadelrey.jpg",
-                    "events": [
-                        {
-                            "title": "Anaitasuna FT vs Deportivo Alavés",
-                            "league": "Copa del Rey",
-                            "code": "ES",
-                            "time": "2026-11-03T13:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 20,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Anaitasuna FT",
-                            "awayTeam": "Deportivo Alavés",
-                            "homeLogo": "",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despnplus1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "copadelrey"
-                },
-                {
                     "name": "AFC Champions League Elite",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png",
                     "image": "",
@@ -1521,5 +1475,5 @@
             ]
         }
     ],
-    "updated": "2026-11-03 07:24:17"
+    "updated": "2026-11-03 13:16:56"
 }
