@@ -122,5 +122,13 @@
     "UEFA Champions League": {
         "url": "https://www.thesportsdb.com/league/4480-uefa-champions-league",
         "aliases": ["UEFA Champions League"]
+    },
+    "Brasileirão": {
+        "url": "https://www.thesportsdb.com/league/4351-brazilian-serie-a",
+        "aliases": ["Brazilian Serie A"]
+    },
+    "Championship": {
+        "url": "https://www.thesportsdb.com/league/4480-uefa-champions-league",
+        "aliases": ["English League Championship"]
     }
 }
