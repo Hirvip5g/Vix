@@ -372,7 +372,7 @@
                 },
                 {
                     "name": "UEFA Champions League",
-                    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ucl.jpg",
                     "events": [
@@ -383,13 +383,13 @@
                             "time": "2026-11-03T12:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 18,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/mg9jyy1787915666.jpg",
                             "logo": "",
                             "homeTeam": "Shakhtar Donetsk",
                             "awayTeam": "Sporting CP",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -450,7 +450,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594635-shakhtar-donetsk-vs-sporting-cp"
                         },
                         {
                             "title": "Galatasaray vs Stuttgart",
@@ -459,13 +460,13 @@
                             "time": "2026-11-03T12:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 19,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ml9ezr1787915683.jpg",
                             "logo": "",
                             "homeTeam": "Galatasaray",
                             "awayTeam": "Stuttgart",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -556,7 +557,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594656-galatasaray-vs-stuttgart"
                         },
                         {
                             "title": "Atlético Madrid vs Bayern München",
@@ -565,13 +567,13 @@
                             "time": "2026-11-03T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 22,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/l26tls1787915653.jpg",
                             "logo": "",
                             "homeTeam": "Atlético Madrid",
                             "awayTeam": "Bayern München",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -669,7 +671,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594620-atl%c3%a9tico-madrid-vs-bayern-munich"
                         },
                         {
                             "title": "Barcelona vs Aston Villa",
@@ -678,13 +681,13 @@
                             "time": "2026-11-03T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 23,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/skzjbg1787915650.jpg",
                             "logo": "",
                             "homeTeam": "Barcelona",
                             "awayTeam": "Aston Villa",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -782,7 +785,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594616-barcelona-vs-aston-villa"
                         },
                         {
                             "title": "Bodø / Glimt vs Lille",
@@ -791,13 +795,13 @@
                             "time": "2026-11-03T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 24,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/rki41t1787915632.jpg",
                             "logo": "",
                             "homeTeam": "Bodø / Glimt",
                             "awayTeam": "Lille",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -861,7 +865,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594599-bod%c3%b8glimt-vs-lille"
                         },
                         {
                             "title": "Feyenoord vs Inter",
@@ -870,13 +875,13 @@
                             "time": "2026-11-03T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 25,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/i1e4cf1787915624.jpg",
                             "logo": "",
                             "homeTeam": "Feyenoord",
                             "awayTeam": "Inter",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -981,7 +986,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594589-feyenoord-vs-inter-milan"
                         },
                         {
                             "title": "LASK Linz vs Slovan Bratislava",
@@ -990,13 +996,13 @@
                             "time": "2026-11-03T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 26,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/daus0n1787915698.jpg",
                             "logo": "",
                             "homeTeam": "LASK Linz",
                             "awayTeam": "Slovan Bratislava",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1060,7 +1066,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594674-lask-vs-slovan-bratislava"
                         },
                         {
                             "title": "Manchester United vs Roma",
@@ -1069,13 +1076,13 @@
                             "time": "2026-11-03T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 27,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/v0wrd51787915571.jpg",
                             "logo": "",
                             "homeTeam": "Manchester United",
                             "awayTeam": "Roma",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1176,7 +1183,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594537-manchester-united-vs-roma"
                         },
                         {
                             "title": "Villarreal vs PSG",
