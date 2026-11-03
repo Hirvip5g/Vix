@@ -3,7 +3,7 @@ name: Actualizar Agenda Automática
 on:
   workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
   schedule:
-    - cron: '0 */6 * * *' # Se ejecuta automáticamente cada 6 horas
+    - cron: '*/30 * * * *' # Se ejecuta automáticamente cada 30 minutos
 
 permissions:
   contents: write
