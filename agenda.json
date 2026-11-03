@@ -352,13 +352,13 @@
                             "time": "2026-11-02T20:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 110,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/biw8zi1759233976.jpg",
                             "logo": "",
                             "homeTeam": "San Antonio Spurs",
                             "awayTeam": "Utah Jazz",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -378,7 +378,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601767-san-antonio-spurs-vs-utah-jazz"
                         },
                         {
                             "title": "Houston Rockets vs Boston Celtics",
