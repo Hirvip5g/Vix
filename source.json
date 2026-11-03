@@ -118,5 +118,9 @@
     "Primeira Liga": {
         "url": "https://www.thesportsdb.com/league/4344-portuguese-primeira-liga",
         "aliases": ["Portuguese Primeira Liga"]
+    },
+    "UEFA Champions League": {
+        "url": "https://www.thesportsdb.com/league/4480-uefa-champions-league",
+        "aliases": ["UEFA Champions League"]
     }
 }
