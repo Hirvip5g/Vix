@@ -1748,7 +1748,7 @@
                 },
                 {
                     "name": "Liga de Expansión MX",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/2h0yz01615330546.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/expamx.jpg",
                     "events": [
@@ -1785,7 +1785,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2625664-atl%c3%a9tico-morelia-vs-venados"
                         },
                         {
                             "title": "Tlaxcala vs Atlético La Paz",
@@ -1820,7 +1821,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2625661-tlaxcala-vs-atl%c3%a9tico-la-paz"
                         }
                     ],
                     "flagCode": "",
