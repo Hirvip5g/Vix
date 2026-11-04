@@ -11,8 +11,8 @@ AGENDA_URL = "https://streamxhd.sbs/eventos.json?"
 LOCAL_CHANNELS_JSON = "04.json"
 SOURCE_JSON = "source.json"
 OUTPUT_JSON = "agenda.json"
-BASE_IMG_URL = "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/equipos_fm"
-BASE_LEAGUE_IMG_URL = "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm"
+BASE_IMG_URL = "https://raw.githubusercontent.com/Hirvip5g/Vix/refs/heads/main/assets/equipos_fm"
+BASE_LEAGUE_IMG_URL = "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm"
 
 class CaseInsensitiveDict(dict):
     def __init__(self, data=None, **kwargs):
