@@ -162,7 +162,7 @@ def obtener_thumb_de_evento_web(event_url):
     return ""
 
 def obtener_logos_evento_web(event_url):
-    """Extrae las URLs de homeLogo y awayLogo desde la página del evento web"""
+    """Extrae las URLs de homeLogo y awayLogo desde la página del evento web de TheSportsDB"""
     home_logo = ""
     away_logo = ""
     try:
@@ -321,11 +321,9 @@ def procesar_agenda():
                             league_logo_web = logos_liga_por_liga.get(alias_key, "")
                             break
 
-                # --- ASIGNAR LOGO A NIVEL DE LIGA ---
+                # --- ASIGNAR LOGO A NIVEL DE LIGA (TheSportsDB primero) ---
                 if league_logo_web:
                     league["logo"] = league_logo_web
-                elif not league.get("logo") and league_id:
-                    pass
 
                 for event in league.get("events", []):
                     home_raw = event.get("homeTeam", "")
@@ -335,6 +333,10 @@ def procesar_agenda():
                     is_motor = league_name.upper() in ["F1", "MOTOGP"] or "GP " in home_raw or "Práctica" in away_raw or "Clasificación" in away_raw
                     is_match = bool(home_raw and away_raw) and not is_motor
 
+                    # Guardar el logo original del JSON por si TheSportsDB no tiene nada
+                    orig_home_logo = event.get("homeLogo", "")
+                    orig_away_logo = event.get("awayLogo", "")
+
                     if is_match:
                         home_team = limpiar_nombre_equipo(home_raw, league_name)
                         away_team = limpiar_nombre_equipo(away_raw, league_name)
@@ -342,9 +344,9 @@ def procesar_agenda():
                         event["awayTeam"] = away_team
                         event["title"] = f"{home_team} vs {away_team}"
                         
-                        # Intentar primero con el mapeo interno
-                        event["homeLogo"] = event.get("homeLogo") or buscar_imagen(home_team)
-                        event["awayLogo"] = event.get("awayLogo") or buscar_imagen(away_team)
+                        # Búsqueda local en TheSportsDB (MAPEO_EQUIPOS)
+                        h_logo_tsdb = buscar_imagen(home_team)
+                        a_logo_tsdb = buscar_imagen(away_team)
                     else:
                         home_team = ""
                         away_team = ""
@@ -353,29 +355,40 @@ def procesar_agenda():
                         event["title"] = original_title
                         event["homeTeam"] = ""
                         event["awayTeam"] = ""
-                        event["homeLogo"] = ""
-                        event["awayLogo"] = ""
+                        h_logo_tsdb = ""
+                        a_logo_tsdb = ""
 
-                    # --- GESTIÓN DE IMÁGENES Y LOGOS WEB DE EVENTOS ---
+                    # --- GESTIÓN DE IMÁGENES Y LOGOS WEB DE EVENTOS (TheSportsDB Prioritario) ---
                     event_thumb = ""
+                    home_logo_web = ""
+                    away_logo_web = ""
                     
                     if web_events:
                         encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events)
                         if encontrado_url:
                             event["sourceEventUrl"] = encontrado_url
                             
-                            # Extraer banner principal del evento
+                            # Extraer banner principal del evento desde TheSportsDB
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
                             if imagen_web and "android-icon" not in imagen_web and "/ico/" not in imagen_web:
                                 event_thumb = imagen_web
 
-                            # Extraer logos de equipos de la página web si faltan
-                            if is_match and (not event.get("homeLogo") or not event.get("awayLogo")):
-                                home_logo_web, away_logo_web = obtener_logos_evento_web(encontrado_url)
-                                if not event.get("homeLogo") and home_logo_web:
-                                    event["homeLogo"] = home_logo_web
-                                if not event.get("awayLogo") and away_logo_web:
-                                    event["awayLogo"] = away_logo_web
+                            # Extraer logos de equipos directamente de la página web del evento en TheSportsDB
+                            if is_match:
+                                h_web, a_web = obtener_logos_evento_web(encontrado_url)
+                                if h_web:
+                                    home_logo_web = h_web
+                                if a_web:
+                                    away_logo_web = a_web
+
+                    # --- ASIGNACIÓN FINAL CON PRIORIDAD A THESPORTSDB ---
+                    if is_match:
+                        # Prioridad: 1. Web de TheSportsDB -> 2. Mapeo local de TheSportsDB -> 3. JSON original de StreamXHD
+                        event["homeLogo"] = home_logo_web or h_logo_tsdb or orig_home_logo
+                        event["awayLogo"] = away_logo_web or a_logo_tsdb or orig_away_logo
+                    else:
+                        event["homeLogo"] = ""
+                        event["awayLogo"] = ""
 
                     # Asignar banner si se encontró, o limpiar
                     if event_thumb:
