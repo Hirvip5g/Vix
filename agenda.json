@@ -1502,7 +1502,7 @@
                 },
                 {
                     "name": "Copa Mundial Femenina Sub-17",
-                    "logo": "https://www.thesportsdb.com/images/media/league/badge/s1xbke1792944972.png",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/s1xbke1792944972.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -1617,7 +1617,7 @@
                 },
                 {
                     "name": "UEFA Europa League",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -1628,13 +1628,13 @@
                             "time": "2026-11-04T10:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 23,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/3ek3k01787937501.jpg",
                             "logo": "",
                             "homeTeam": "Rennes",
                             "awayTeam": "Olympiacos",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1654,7 +1654,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594828-rennes-vs-olympiacos"
                         }
                     ],
                     "flagCode": "",
@@ -1663,7 +1664,7 @@
                 },
                 {
                     "name": "AFC Champions League Two",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/sfg2dl1719686962.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -1674,13 +1675,13 @@
                             "time": "2026-11-04 11:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 24,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/o8yviz1787253547.jpg",
                             "logo": "",
                             "homeTeam": "Al Wahda",
                             "awayTeam": "Khalidiya",
                             "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/99xc7w1578858847.png/medium",
                             "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/h9pyg11720076059.png/medium",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1700,7 +1701,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2580297-al-wahda-vs-khalidiya"
                         }
                     ],
                     "flagCode": "",
@@ -1836,7 +1838,7 @@
                 },
                 {
                     "name": "Copa Uruguay",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/bn34hc1734111428.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -1873,7 +1875,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2620618-ferro-carril-de-salto-vs-nacional-montevideo"
                         }
                     ],
                     "flagCode": "",
