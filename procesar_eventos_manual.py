@@ -161,6 +161,31 @@ def obtener_thumb_de_evento_web(event_url):
         print(f"Error al extraer la imagen del evento web {event_url}: {e}")
     return ""
 
+def obtener_logos_evento_web(event_url):
+    """Extrae las URLs de homeLogo y awayLogo desde la página del evento web"""
+    home_logo = ""
+    away_logo = ""
+    try:
+        headers = {"User-Agent": "Mozilla/5.0"}
+        response = requests.get(event_url, headers=headers, timeout=5)
+        if response.status_code == 200:
+            html = response.text
+            
+            # Buscar el logo local (home team badge)
+            match_home = re.search(r"<img\s+src='([^']+)'[^>]*alt='home team badge'", html, re.IGNORECASE)
+            if match_home:
+                home_logo = match_home.group(1)
+
+            # Buscar el logo visitante (away team icon)
+            match_away = re.search(r"<img\s+src='([^']+)'[^>]*alt='away team icon'", html, re.IGNORECASE)
+            if match_away:
+                away_logo = match_away.group(1)
+
+    except Exception as e:
+        print(f"Error al extraer los logos del evento {event_url}: {e}")
+        
+    return home_logo, away_logo
+
 def traducir_sesion(titulo):
     t = titulo.lower()
     if "práctica 1" in t or "practica 1" in t or "fp1" in t: return "practice-1"
@@ -300,7 +325,6 @@ def procesar_agenda():
                 if league_logo_web:
                     league["logo"] = league_logo_web
                 elif not league.get("logo") and league_id:
-                    # Si no se obtuvo de la web pero existe ID, puedes dejarlo o asignarlo según convenga
                     pass
 
                 for event in league.get("events", []):
@@ -317,6 +341,8 @@ def procesar_agenda():
                         event["homeTeam"] = home_team
                         event["awayTeam"] = away_team
                         event["title"] = f"{home_team} vs {away_team}"
+                        
+                        # Intentar primero con el mapeo interno
                         event["homeLogo"] = event.get("homeLogo") or buscar_imagen(home_team)
                         event["awayLogo"] = event.get("awayLogo") or buscar_imagen(away_team)
                     else:
@@ -330,20 +356,28 @@ def procesar_agenda():
                         event["homeLogo"] = ""
                         event["awayLogo"] = ""
 
-                    # --- GESTIÓN DE IMÁGENES DE EVENTOS (ESTRICTA) ---
+                    # --- GESTIÓN DE IMÁGENES Y LOGOS WEB DE EVENTOS ---
                     event_thumb = ""
                     
-                    # 1. Intentar obtener la imagen real desde la web
                     if web_events:
                         encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events)
                         if encontrado_url:
                             event["sourceEventUrl"] = encontrado_url
+                            
+                            # Extraer banner principal del evento
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
-                            # Validar que no sea un icono genérico de la web
                             if imagen_web and "android-icon" not in imagen_web and "/ico/" not in imagen_web:
                                 event_thumb = imagen_web
 
-                    # 2. Si se encontró un banner válido, se asigna; de lo contrario, se limpia por completo
+                            # Extraer logos de equipos de la página web si faltan
+                            if is_match and (not event.get("homeLogo") or not event.get("awayLogo")):
+                                home_logo_web, away_logo_web = obtener_logos_evento_web(encontrado_url)
+                                if not event.get("homeLogo") and home_logo_web:
+                                    event["homeLogo"] = home_logo_web
+                                if not event.get("awayLogo") and away_logo_web:
+                                    event["awayLogo"] = away_logo_web
+
+                    # Asignar banner si se encontró, o limpiar
                     if event_thumb:
                         event["image"] = event_thumb
                         event["imageMode"] = "banner"
