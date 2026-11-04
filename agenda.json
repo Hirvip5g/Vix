@@ -1314,13 +1314,13 @@
                             "time": "2026-11-04T17:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 37,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/cmb91c1769684120.jpg",
                             "logo": "",
                             "homeTeam": "Athletico-PR",
                             "awayTeam": "Vasco da Gama",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1367,7 +1367,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398521-athletico-paranaense-vs-vasco-da-gama"
                         },
                         {
                             "title": "Flamengo vs Grêmio",
