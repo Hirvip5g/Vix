@@ -178,7 +178,7 @@ def traducir_sesion(titulo):
     return ""
 
 def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
-    """Busca coincidencia del evento web sin importar signos, acentos o tildes"""
+    """Busca coincidencia del evento web permitiendo mayor flexibilidad en los nombres"""
     if not web_events_dict:
         return ""
     
@@ -203,16 +203,23 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
         if mejor_coincidencia and max_coincidencias > 0:
             return mejor_coincidencia
     else:
-        # Limpieza absoluta de caracteres especiales y acentos para los equipos
+        # Limpieza básica
         home_clean = limpiar_para_comparar(home_team)
         away_clean = limpiar_para_comparar(away_team)
         
+        # Corrección especial para sufijos comunes como '-pr' en Brasil
+        home_keywords = [home_clean]
+        if "athleticopr" in home_clean:
+            home_keywords.append("athleticoparanaense")
+            
+        away_keywords = [away_clean]
+
         for web_slug, web_url in web_events_dict.items():
             web_slug_clean = limpiar_para_comparar(web_slug)
             
-            # Compara coincidencia de ambos nombres limpios contra el slug web limpio
-            match_home = home_clean and home_clean in web_slug_clean
-            match_away = away_clean and away_clean in web_slug_clean
+            # Comprobar si alguna de las palabras clave del local y visitante coincide en el slug
+            match_home = any(kw and kw in web_slug_clean for kw in home_keywords)
+            match_away = any(kw and kw in web_slug_clean for kw in away_keywords)
             
             if match_home and match_away:
                 return web_url
