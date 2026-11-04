@@ -1267,7 +1267,7 @@
                 },
                 {
                     "name": "Championship",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championship.jpg",
                     "events": [
@@ -1359,7 +1359,7 @@
                 },
                 {
                     "name": "Brasileirão",
-                    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Campeonato_Brasileiro_S%C3%A9rie_A_logo_%282024%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/lywv7t1766787179.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/brasileirão.jpg",
                     "events": [
@@ -1370,13 +1370,13 @@
                             "time": "2026-11-03 19:30",
                             "timezone": "America/Lima",
                             "agendaOrder": 37,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/srv0hq1769684141.jpg",
                             "logo": "",
                             "homeTeam": "Internacional",
                             "awayTeam": "Coritiba",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1413,7 +1413,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398527-internacional-vs-coritiba"
                         },
                         {
                             "title": "Chapecoense vs Mirassol",
@@ -1422,13 +1423,13 @@
                             "time": "2026-11-03T17:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 35,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/iuqyq11769684130.jpg",
                             "logo": "",
                             "homeTeam": "Chapecoense",
                             "awayTeam": "Mirassol",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1465,7 +1466,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398524-chapecoense-vs-mirassol"
                         }
                     ],
                     "flagCode": "",
