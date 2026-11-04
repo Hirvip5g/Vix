@@ -9,7 +9,7 @@
                     "name": "Liga Colombia",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/sdz1351580833297.png",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ligaco.jpg",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg",
                     "events": [
                         {
                             "title": "Cúcuta Deportivo vs Santa Fe",
@@ -130,7 +130,7 @@
                     "name": "UEFA Champions League",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/ucl.jpg",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ucl.jpg",
                     "events": [
                         {
                             "title": "Fenerbahçe vs Liverpool",
@@ -1048,7 +1048,7 @@
                     "name": "AFC Champions League Elite",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/gsbq4k1719686780.png",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/championsarabe.jpg",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/championsarabe.jpg",
                     "events": [
                         {
                             "title": "Buriram United vs Kashima Antlers",
@@ -1095,7 +1095,7 @@
                     "name": "Primera División",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/3p98xv1740672448.png",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/primeradivisión.jpg",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/primeradivisión.jpg",
                     "events": [
                         {
                             "title": "Olimpia vs Deportivo Recoleta",
@@ -1211,7 +1211,7 @@
                     "name": "Liga 1",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/1ujpwc1580040216.png",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/Liga1.jpg",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/Liga1.jpg",
                     "events": [
                         {
                             "title": "Universitario vs Sport Boys",
@@ -1272,7 +1272,7 @@
                     "name": "Brasileirão",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/lywv7t1766787179.png",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/brasileirão.jpg",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/brasileirão.jpg",
                     "events": [
                         {
                             "title": "Athletico-PR vs Vasco da Gama",
@@ -1713,7 +1713,7 @@
                     "name": "Liga de Expansión MX",
                     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/expamx.jpg",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/expamx.jpg",
                     "events": [
                         {
                             "title": "Venados vs Atlético Morelia",
@@ -1794,7 +1794,7 @@
                     "name": "Copa Ecuador",
                     "logo": "",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/copaecuador.jpg",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/copaecuador.jpg",
                     "events": [
                         {
                             "title": "LDU Quito vs Universidad Católica",
@@ -1894,7 +1894,7 @@
                     "name": "NBA",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png",
                     "image": "",
-                    "background": "https://raw.githubusercontent.com/Configuracao/Vix/main/assets/ligas_fm/nba.jpg",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
                             "title": "Los Angeles Clippers vs Miami Heat",
