@@ -28,6 +28,20 @@
     "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?"
   },
   {
+    "canal": "ESPN HD",
+    "channel": "espn",
+    "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+    "grupo": "Deportes",
+    "tipo": "clearkey",
+    "clearkey": {
+      "keyId": "e95fe84b9f73e6655fde711d5c896056",
+      "key": "267a0e514deb984803bec43cc607c4cb"
+    },
+    "referer": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzOTgwNjc0Iiwic2lwIjoiMTkwLjE3Ny4xNzkuODAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvQ3JvbmljYVRWL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiYzdiNTMxNjNiZDk0NDhiMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzNTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.UMwiBuKodqQQvbNZ-4RjlnRxnNaMEod-2brOk8NfuYSm0mJMXknHJ3DIAp5m0mWRQhAlrXNZ0sw7_iNEOI87jA==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd"
+  },
+  {
     "canal": "ESPN 2 FHD",
     "channel": "espn2",
     "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
@@ -118,14 +132,6 @@
     "grupo": "Deportes",
     "tipo": "m3u8",
   "url": "http://209.61.12.132:9000/play/a06z/index.m3u8"
-  },
-  {
-  "canal": "ESPN HD",
-  "channel": "espn",
-  "logo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-    "grupo": "Deportes",
-    "tipo": "m3u8",
-  "url": "http://207.230.11.63:50000/play/a00e/index.m3u8"
   },
 {
   "canal": "ESPN 2 CO HD",
