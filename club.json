@@ -18,5 +18,17 @@
     "Bayern München": {
         "search_name": "Bayern Munich",
         "aliases": ["bayern munchen", "bayern munich", "bayern de munich"]
+    },
+    "Brasil": {
+        "search_name": "Brazil U17 Women",
+        "aliases": ["Brazil"]
+    },
+    "Nigeria": {
+        "search_name": "Nigeria U17 Women",
+        "aliases": ["Nigeria U17"]
+    },
+    "Japón": {
+        "search_name": "Japan U17 Women",
+        "aliases": ["Japan U17"]
     }
 }
