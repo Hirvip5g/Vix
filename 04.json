@@ -500,7 +500,7 @@
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
     "grupo": "Deportes",
     "tipo": "m3u8",
-  "url": "https://zapster.trapemn.tv:1936/CD-LATAM/TNT_SPORTS/playlist.m3u8"
+  "url": "http://190.7.19.206:8098/play/a0pu/index.m3u8"
   },
   {
     "canal": "TNT Sports Premium FHD MUTICALIDAD",
@@ -537,7 +537,7 @@
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
     "grupo": "Deportes",
     "tipo": "m3u8",
-  "url": "http://45.189.108.146:1935/xmp_trans/Espn_premium.stream/playlist.m3u8"
+  "url": "http://190.7.19.206:8098/play/a0nx/index.m3u8"
   },
   {
     "canal": "TyC Sports FHD MUTICALIDAD",
