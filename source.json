@@ -130,5 +130,17 @@
     "Championship": {
         "url": "https://www.thesportsdb.com/league/4480-uefa-champions-league",
         "aliases": ["English League Championship"]
+    },
+    "UEFA Europa League": {
+        "url": "https://www.thesportsdb.com/league/4481-uefa-europa-league",
+        "aliases": ["UEFA Europa League"]
+    },
+    "AFC Champions League Two": {
+        "url": "https://www.thesportsdb.com/league/4804-afc-champions-league-two",
+        "aliases": ["AFC Champions League Two"]
+    },
+    "Copa Uruguay": {
+        "url": "https://www.thesportsdb.com/league/5526-copa-auf-uruguay",
+        "aliases": ["Copa AUF Uruguay"]
     }
 }
