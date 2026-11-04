@@ -92,8 +92,8 @@
         "aliases": ["Colombian Liga DIMAYOR"]
     },
     "Copa Mundial Femenina Sub-17": {
-        "url": "https://www.thesportsdb.com/league/5712-fifa-womens-u17-world-cup",
-        "aliases": ["FIFA Womens U17 World Cup"]
+    "url": "https://www.thesportsdb.com/league/5712-fifa-womens-u17-world-cup",
+    "aliases": ["FIFA Womens U17 World Cup", "Copa Mundial Femenina Sub-17", "Mundial Femenino Sub-17"]
     },
     "Copa de Brasil": {
         "url": "https://www.thesportsdb.com/league/4725-copa-do-brasil",
