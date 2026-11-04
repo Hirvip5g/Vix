@@ -142,5 +142,9 @@
     "Copa Uruguay": {
         "url": "https://www.thesportsdb.com/league/5526-copa-auf-uruguay",
         "aliases": ["Copa AUF Uruguay"]
+    },
+    "Liga de Expansión MX": {
+        "url": "https://www.thesportsdb.com/league/4654-mexican-liga-de-expansión-mx",
+        "aliases": ["Mexican Liga de Expansión MX"]
     }
 }
