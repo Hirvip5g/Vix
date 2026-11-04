@@ -106,6 +106,13 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "Copa del Rey": "copadelrey", "Copa Ecuador": "copaecuador", "Copa de Brasil": "copadebrasil", "Messi Cup U16": "nessicupu16", "Copa Colombia": "copacolombia", "AFC Champions League Elite": "championsarabe", "Primera División": "primeradivisión",
 })
 
+def limpiar_para_comparar(texto):
+    """Elimina acentos, tildes y caracteres especiales dejando solo alfanuméricos en minúsculas."""
+    if not texto:
+        return ""
+    texto_norm = unicodedata.normalize('NFD', texto).encode('ascii', 'ignore').decode('utf-8').lower()
+    return re.sub(r'[^a-z0-9]', '', texto_norm)
+
 def limpiar_nombre_equipo(nombre, liga_nombre=""):
     if not nombre:
         return ""
@@ -141,9 +148,8 @@ def obtener_datos_liga_thesportsdb(league_input):
             matches = re.findall(r"<a href='(/event/(\d+)-([^']+))'>", html_content)
             for full_path, event_id, event_slug in matches:
                 event_url = f"https://www.thesportsdb.com{full_path}"
-                clean_title = urllib.parse.unquote(event_slug).replace('-', ' ')
-                clean_title_norm = unicodedata.normalize('NFD', clean_title).encode('ascii', 'ignore').decode('utf-8').lower()
-                eventos_dict[clean_title_norm] = event_url
+                clean_slug = urllib.parse.unquote(event_slug)
+                eventos_dict[clean_slug] = event_url
     except Exception as e:
         print(f"Error al obtener datos web de TheSportsDB para {url}: {e}")
     return eventos_dict, league_logo
@@ -172,21 +178,22 @@ def traducir_sesion(titulo):
     return ""
 
 def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
-    """Busca coincidencia del evento web usando los slugs de eventos normalizados"""
+    """Busca coincidencia del evento web sin importar signos, acentos o tildes"""
     if not web_events_dict:
         return ""
     
     ln_upper = league_name.upper()
     if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
         sesion_buscada = traducir_sesion(original_title)
-        titulo_norm = unicodedata.normalize('NFD', original_title).encode('ascii', 'ignore').decode('utf-8').lower()
+        titulo_norm = limpiar_para_comparar(original_title)
         
         mejor_coincidencia = ""
         max_coincidencias = 0
 
         for web_slug, web_url in web_events_dict.items():
-            coincidencias = sum(1 for palabra in titulo_norm.split() if len(palabra) > 3 and palabra in web_slug)
-            if sesion_buscada and sesion_buscada in web_slug:
+            web_slug_clean = limpiar_para_comparar(web_slug)
+            coincidencias = sum(1 for palabra in titulo_norm.split() if len(palabra) > 3 and palabra in web_slug_clean)
+            if sesion_buscada and sesion_buscada in web_slug_clean:
                 coincidencias += 2
 
             if coincidencias > max_coincidencias:
@@ -196,15 +203,20 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
         if mejor_coincidencia and max_coincidencias > 0:
             return mejor_coincidencia
     else:
-        home_norm = unicodedata.normalize('NFD', home_team).encode('ascii', 'ignore').decode('utf-8').lower() if home_team else ""
-        away_norm = unicodedata.normalize('NFD', away_team).encode('ascii', 'ignore').decode('utf-8').lower() if away_team else ""
+        # Limpieza absoluta de caracteres especiales y acentos para los equipos
+        home_clean = limpiar_para_comparar(home_team)
+        away_clean = limpiar_para_comparar(away_team)
         
         for web_slug, web_url in web_events_dict.items():
-            match_home = home_norm and (home_norm in web_slug or any(word in web_slug for word in home_norm.split() if len(word) > 2))
-            match_away = away_norm and (away_norm in web_slug or any(word in web_slug for word in away_norm.split() if len(word) > 2))
+            web_slug_clean = limpiar_para_comparar(web_slug)
+            
+            # Compara coincidencia de ambos nombres limpios contra el slug web limpio
+            match_home = home_clean and home_clean in web_slug_clean
+            match_away = away_clean and away_clean in web_slug_clean
             
             if match_home and match_away:
                 return web_url
+                
     return ""
 
 def procesar_agenda():
@@ -300,7 +312,6 @@ def procesar_agenda():
                 if league_logo_web:
                     league["logo"] = league_logo_web
                 elif not league.get("logo") and league_id:
-                    # Si no se obtuvo de la web pero existe ID, puedes dejarlo o asignarlo según convenga
                     pass
 
                 for event in league.get("events", []):
