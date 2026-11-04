@@ -10,6 +10,7 @@ from datetime import datetime
 AGENDA_URL = "https://streamxhd.sbs/eventos.json?"
 LOCAL_CHANNELS_JSON = "04.json"
 SOURCE_JSON = "source.json"
+CLUB_JSON = "club.json"  # <-- Nuevo archivo para mapeo y alias de equipos
 OUTPUT_JSON = "agenda.json"
 BASE_IMG_URL = "https://raw.githubusercontent.com/Hirvip5g/Vix/refs/heads/main/assets/equipos_fm"
 BASE_LEAGUE_IMG_URL = "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm"
@@ -126,7 +127,6 @@ def buscar_imagen(equipo_val):
     return ""
 
 def obtener_datos_liga_thesportsdb(league_input):
-    """Extrae los eventos, sus URLs y el logo principal (og:image) de la liga desde TheSportsDB"""
     if league_input.startswith("http"):
         url = league_input
     else:
@@ -140,7 +140,6 @@ def obtener_datos_liga_thesportsdb(league_input):
         if response.status_code == 200:
             html_content = response.text
             
-            # Extraer el logo principal de la liga (og:image)
             match_logo = re.search(r'<meta property="og:image" content="([^"]+)"', html_content)
             if match_logo:
                 league_logo = match_logo.group(1)
@@ -155,7 +154,6 @@ def obtener_datos_liga_thesportsdb(league_input):
     return eventos_dict, league_logo
 
 def obtener_thumb_de_evento_web(event_url):
-    """Entra a la página web del evento individual en TheSportsDB y extrae su imagen principal (og:image)"""
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(event_url, headers=headers, timeout=5)
@@ -177,8 +175,33 @@ def traducir_sesion(titulo):
     if "carrera" in t or "race" in t or "gp" in t or "grand prix" in t: return "gp"
     return ""
 
-def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict):
-    """Busca coincidencia del evento web permitiendo mayor flexibilidad en los nombres"""
+def obtener_alias_equipo(equipo_nombre, clubs_dict):
+    """Retorna una lista de palabras clave limpias para el equipo basándose en club.json"""
+    palabras_clave = [limpiar_para_comparar(equipo_nombre)]
+    if not clubs_dict:
+        return palabras_clave
+    
+    nombre_clean = limpiar_para_comparar(equipo_nombre)
+    for club_key, info in clubs_dict.items():
+        key_clean = limpiar_para_comparar(club_key)
+        
+        # Obtener alias del JSON
+        aliases = info.get("aliases", []) if isinstance(info, dict) else []
+        search_name = info.get("search_name", "") if isinstance(info, dict) else ""
+        
+        aliases_clean = [limpiar_para_comparar(a) for a in aliases]
+        if search_name:
+            aliases_clean.append(limpiar_para_comparar(search_name))
+            
+        if nombre_clean == key_clean or nombre_clean in aliases_clean:
+            palabras_clave.append(key_clean)
+            palabras_clave.extend(aliases_clean)
+            break
+            
+    return list(set(filter(None, palabras_clave)))
+
+def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict, clubs_dict):
+    """Busca coincidencia del evento web usando club.json"""
     if not web_events_dict:
         return ""
     
@@ -203,21 +226,13 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
         if mejor_coincidencia and max_coincidencias > 0:
             return mejor_coincidencia
     else:
-        # Limpieza básica
-        home_clean = limpiar_para_comparar(home_team)
-        away_clean = limpiar_para_comparar(away_team)
-        
-        # Corrección especial para sufijos comunes como '-pr' en Brasil
-        home_keywords = [home_clean]
-        if "athleticopr" in home_clean:
-            home_keywords.append("athleticoparanaense")
-            
-        away_keywords = [away_clean]
+        # Obtener palabras clave de cada equipo desde club.json
+        home_keywords = obtener_alias_equipo(home_team, clubs_dict)
+        away_keywords = obtener_alias_equipo(away_team, clubs_dict)
 
         for web_slug, web_url in web_events_dict.items():
             web_slug_clean = limpiar_para_comparar(web_slug)
             
-            # Comprobar si alguna de las palabras clave del local y visitante coincide en el slug
             match_home = any(kw and kw in web_slug_clean for kw in home_keywords)
             match_away = any(kw and kw in web_slug_clean for kw in away_keywords)
             
@@ -242,6 +257,16 @@ def procesar_agenda():
         except Exception as e:
             print(f"Error al leer {LOCAL_CHANNELS_JSON}: {e}")
 
+    # Cargar club.json si existe
+    clubs_dict = {}
+    if os.path.exists(CLUB_JSON):
+        try:
+            with open(CLUB_JSON, "r", encoding="utf-8") as f:
+                clubs_dict = json.load(f)
+            print(f"Cargado {CLUB_JSON} correctamente.")
+        except Exception as e:
+            print(f"Error al leer {CLUB_JSON}: {e}")
+
     print(f"Descargando JSON manual desde {AGENDA_URL}...")
     try:
         response = requests.get(AGENDA_URL, timeout=10)
@@ -259,13 +284,6 @@ def procesar_agenda():
                 sources_ligas = json.load(f)
         except Exception as e:
             print(f"Error al leer {SOURCE_JSON}: {e}")
-    else:
-        sources_ligas = {
-            "F1": {
-                "url": "https://www.thesportsdb.com/league/4370-formula-1",
-                "aliases": ["f1", "formula 1"]
-            }
-        }
 
     web_events_por_liga = {}
     logos_liga_por_liga = {}
@@ -315,11 +333,8 @@ def procesar_agenda():
                             league_logo_web = logos_liga_por_liga.get(alias_key, "")
                             break
 
-                # --- ASIGNAR LOGO A NIVEL DE LIGA ---
                 if league_logo_web:
                     league["logo"] = league_logo_web
-                elif not league.get("logo") and league_id:
-                    pass
 
                 for event in league.get("events", []):
                     home_raw = event.get("homeTeam", "")
@@ -348,20 +363,16 @@ def procesar_agenda():
                         event["homeLogo"] = ""
                         event["awayLogo"] = ""
 
-                    # --- GESTIÓN DE IMÁGENES DE EVENTOS (ESTRICTA) ---
                     event_thumb = ""
                     
-                    # 1. Intentar obtener la imagen real desde la web
                     if web_events:
-                        encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events)
+                        encontrado_url = buscar_evento_web(league_name, original_title, home_team, away_team, web_events, clubs_dict)
                         if encontrado_url:
                             event["sourceEventUrl"] = encontrado_url
                             imagen_web = obtener_thumb_de_evento_web(encontrado_url)
-                            # Validar que no sea un icono genérico de la web
                             if imagen_web and "android-icon" not in imagen_web and "/ico/" not in imagen_web:
                                 event_thumb = imagen_web
 
-                    # 2. Si se encontró un banner válido, se asigna; de lo contrario, se limpia por completo
                     if event_thumb:
                         event["image"] = event_thumb
                         event["imageMode"] = "banner"
@@ -369,7 +380,6 @@ def procesar_agenda():
                         event["image"] = ""
                         event["imageMode"] = ""
 
-                    # Procesar servidores
                     nuevos_servidores = []
                     for server in event.get("servers", []):
                         server_url = server.get("url", "")

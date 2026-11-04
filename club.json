@@ -1,0 +1,22 @@
+{
+    "Athletico-PR": {
+        "search_name": "Athletico Paranaense",
+        "aliases": ["athletico-pr", "athletico pr", "athletico paranaense"]
+    },
+    "Slavia Praha": {
+        "search_name": "Slavia Prague",
+        "aliases": ["slavia praha", "slavia prague", "slavia praga"]
+    },
+    "Sporting CP": {
+        "search_name": "Sporting Lisbon",
+        "aliases": ["sporting cp", "sporting lisbon", "sporting de lisboa"]
+    },
+    "Inter": {
+        "search_name": "Inter Milan",
+        "aliases": ["inter", "inter de milan", "inter milan"]
+    },
+    "Bayern München": {
+        "search_name": "Bayern Munich",
+        "aliases": ["bayern munchen", "bayern munich", "bayern de munich"]
+    }
+}
