@@ -30,5 +30,9 @@
     "Japón": {
         "search_name": "Japan U17 Women",
         "aliases": ["Japan U17"]
+    },
+    "Corea del Norte": {
+        "search_name": "North Korea U17 Women",
+        "aliases": ["North Korea U17"]
     }
 }
