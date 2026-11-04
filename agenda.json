@@ -317,6 +317,20 @@
                                     "userAgent": ""
                                 },
                                 {
+                                    "name": "ESPN HD",
+                                    "url": "http://181.78.14.26:4000/play/a009/index.m3u8",
+                                    "type": "m3u8",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": "",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "FOX Sports 1 AR",
                                     "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox1ar",
                                     "type": "iframe",
@@ -727,6 +741,20 @@
                                 {
                                     "name": "ESPN CO HD",
                                     "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
+                                    "type": "m3u8",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": "",
+                                    "userAgent": ""
+                                },
+                                {
+                                    "name": "ESPN HD",
+                                    "url": "http://181.78.14.26:4000/play/a009/index.m3u8",
                                     "type": "m3u8",
                                     "quality": "",
                                     "active": true,
