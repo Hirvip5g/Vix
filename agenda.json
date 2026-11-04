@@ -602,13 +602,13 @@
                             "time": "2026-11-04T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 30,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/u9xxkn1787915669.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Slavia Praha",
                             "awayTeam": "Arsenal",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -682,8 +682,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2594639-slavia-prague-vs-arsenal"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "RB Leipzig vs Manchester City",
@@ -1937,13 +1936,13 @@
                             "time": "2026-11-04 22:30",
                             "timezone": "America/Lima",
                             "agendaOrder": 62,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xh0g241759233132.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Los Angeles Clippers",
                             "awayTeam": "Miami Heat",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -1963,8 +1962,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601769-los-angeles-lakers-vs-miami-heat"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Washington Wizards vs Atlanta Hawks",
