@@ -304,7 +304,7 @@
                     "name": "UEFA Europa League",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ueafeuropaleague.jpg",
                     "events": [
                         {
                             "title": "Sparta Praha vs AFC Bournemouth",
@@ -1566,13 +1566,13 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "ueafeuropaleague"
                 },
                 {
                     "name": "UEFA Conference League",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ueafaconferenceleague.jpg",
                     "events": [
                         {
                             "title": "Sint-Truiden vs Brann",
@@ -2207,7 +2207,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "ueafaconferenceleague"
                 },
                 {
                     "name": "Liga Profesional",
