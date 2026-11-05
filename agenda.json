@@ -7,7 +7,7 @@
             "leagues": [
                 {
                     "name": "Primera División",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/3p98xv1740672448.png",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo_Campeonato_Uruguayo_Primera_Divisi%C3%B3n_Amateur.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=original",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/primeradivisión.jpg",
                     "events": [
@@ -53,7 +53,7 @@
                 },
                 {
                     "name": "Brasileirão",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/lywv7t1766787179.png",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Campeonato_Brasileiro_S%C3%A9rie_A_logo_%282024%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/brasileirão.jpg",
                     "events": [
@@ -64,13 +64,13 @@
                             "time": "2026-11-05T17:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 63,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/t6ydar1784872093.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Palmeiras",
                             "awayTeam": "Remo",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -117,8 +117,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398528-palmeiras-vs-remo"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Cruzeiro vs Bahia",
@@ -127,13 +126,13 @@
                             "time": "2026-11-05T19:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 67,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/69of8a1769684134.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Cruzeiro",
                             "awayTeam": "Bahia",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -163,8 +162,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398525-cruzeiro-vs-bahia"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -173,7 +171,7 @@
                 },
                 {
                     "name": "Liga de Expansión MX",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/2h0yz01615330546.png",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/expamx.jpg",
                     "events": [
@@ -210,8 +208,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2625660-canc%c3%ban-vs-piratas"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Durango vs Leones Negros UdeG",
@@ -246,8 +243,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2625662-alacranes-de-durango-vs-leones-negros-udeg"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -302,7 +298,7 @@
                 },
                 {
                     "name": "Liga Profesional",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png",
+                    "logo": "",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaprofesional.jpg",
                     "events": [
@@ -424,55 +420,8 @@
                     "leagueId": ""
                 },
                 {
-                    "name": "Liga Chile",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/x9m78e1768232019.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligachile.jpg",
-                    "events": [
-                        {
-                            "title": "Universidad de Concepción vs O'Higgins",
-                            "league": "Liga Chile",
-                            "code": "CH",
-                            "time": "2026-11-05T18:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 64,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/0pk97m1779686297.jpg",
-                            "logo": "",
-                            "homeTeam": "Universidad de Concepción",
-                            "awayTeam": "O'Higgins",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5362.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6072.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "TNT Sports Chile",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtntsportschile",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2413124-universidad-de-concepci%c3%b3n-vs-ohiggins"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "ligachile"
-                },
-                {
                     "name": "Torneo BetPlay",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/l2h1ao1615832028.png",
+                    "logo": "",
                     "image": "",
                     "background": "",
                     "events": [
@@ -483,13 +432,13 @@
                             "time": "2026-11-05 19:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 66,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/1fsjm11784787963.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Unión Magdalena",
                             "awayTeam": "Independiente Yumbo",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17374.png",
                             "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ezsfmz1769183202.png/medium",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -523,8 +472,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2625809-uni%c3%b3n-magdalena-vs-independiente-yumbo"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -540,7 +488,7 @@
             "leagues": [
                 {
                     "name": "NBA",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
@@ -551,13 +499,13 @@
                             "time": "2026-11-05T21:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 70,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/6p74k41759234305.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Phoenix Suns",
                             "awayTeam": "Orlando Magic",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -577,8 +525,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601786-phoenix-suns-vs-orlando-magic"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Golden State Warriors vs Miami Heat",
@@ -587,13 +534,13 @@
                             "time": "2026-11-05T22:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 71,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/5t8qwf1759233977.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Golden State Warriors",
                             "awayTeam": "Miami Heat",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -613,8 +560,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601787-golden-state-warriors-vs-miami-heat"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -630,7 +576,7 @@
             "leagues": [
                 {
                     "name": "NFL",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/0z0j131793688031.png",
+                    "logo": "",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nfl.jpg",
                     "events": [
@@ -641,13 +587,13 @@
                             "time": "2026-11-05T20:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 69,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/c4oh0h1784759886.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Baltimore Ravens",
                             "awayTeam": "Jacksonville Jaguars",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -742,8 +688,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475495-baltimore-ravens-vs-jacksonville-jaguars"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -753,5 +698,5 @@
             ]
         }
     ],
-    "updated": "2026-11-05 17:16:32"
+    "updated": "2026-11-05 17:18:08"
 }
