@@ -150,5 +150,57 @@
     "UEFA Conference League": {
         "url": "https://www.thesportsdb.com/league/5071-uefa-conference-league",
         "aliases": ["UEFA Conference League"]
-    }
+    },
+    "Copa Chile": {
+        "url": "Copa Chile",
+        "aliases": ["Copa Chile"]
+    },
+    "Copa Ecuador": {
+        "url": "Copa Ecuador",
+        "aliases": ["Copa Ecuador"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
+    },
 }
