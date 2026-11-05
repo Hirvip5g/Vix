@@ -146,5 +146,9 @@
     "Liga de Expansión MX": {
         "url": "https://www.thesportsdb.com/league/4654-mexican-liga-de-expansión-mx",
         "aliases": ["Mexican Liga de Expansión MX"]
+    },
+    "UEFA Conference League": {
+        "url": "https://www.thesportsdb.com/league/5071-uefa-conference-league",
+        "aliases": ["UEFA Conference League"]
     }
 }

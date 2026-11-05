@@ -34,5 +34,73 @@
     "Corea del Norte": {
         "search_name": "North Korea U17 Women",
         "aliases": ["North Korea U17"]
+    },
+    "Bayer Leverkusen": {
+        "search_name": "Bayer Leverkusen",
+        "aliases": ["Bayer Leverkusen"]
+    },
+    "Olympique Marseille": {
+        "search_name": "Marseille",
+        "aliases": ["Marseille"]
+    },
+    "Celta de Vigo": {
+        "search_name": "Celta Vigo",
+        "aliases": ["Celta Vigo"]
+    },
+    "Union Saint-Gilloise": {
+        "search_name": "Union Saint-Gilloise",
+        "aliases": ["DEMO2"]
+    },
+    "Sparta Praha": {
+        "search_name": "Sparta Prague",
+        "aliases": ["Sparta Prague"]
+    },
+    "AFC Bournemouth": {
+        "search_name": "Bournemouth",
+        "aliases": ["Bournemouth"]
+    },
+    "Olympique Lyonnais": {
+        "search_name": "Lyon",
+        "aliases": ["Lyon"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
+    },
+    "DEMO": {
+        "search_name": "DEMO",
+        "aliases": ["DEMO2"]
     }
 }
