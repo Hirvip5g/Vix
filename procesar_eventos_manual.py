@@ -208,30 +208,22 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
     ln_upper = league_name.upper()
     if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
         sesion_buscada = traducir_sesion(original_title)
-        titulo_norm = limpiar_para_comparar(original_title)
         
-        mejor_coincidencia = ""
-        max_puntuacion = 0
-
+        # Si es F1, buscamos directamente el slug web que contenga la sesión correspondiente
+        if sesion_buscada:
+            for web_slug, web_url in web_events_dict.items():
+                web_slug_clean = limpiar_para_comparar(web_slug)
+                # Coincidencia directa con la sesión (practice-1, qualifying, gp, etc.)
+                if sesion_buscada in web_slug_clean:
+                    return web_url
+        
+        # Búsqueda secundaria por aproximación de texto si la sesión no hace match directo
+        titulo_norm = limpiar_para_comparar(original_title)
         for web_slug, web_url in web_events_dict.items():
             web_slug_clean = limpiar_para_comparar(web_slug)
-            puntuacion = 0
-            
-            # Coincidencia por tipo de sesión (Práctica, Clasificación, GP, etc.)
-            if sesion_buscada and sesion_buscada in web_slug_clean:
-                puntuacion += 5
-            
-            # Coincidencia por palabras clave del Gran Premio (ej. brasil, monza, etc.)
-            palabras_titulo = [p for p in titulo_norm.split() if len(p) > 3]
-            coincidencias_palabras = sum(1 for palabra in palabras_titulo if palabra in web_slug_clean)
-            puntuacion += coincidencias_palabras
-
-            if puntuacion > max_puntuacion:
-                max_puntuacion = puntuacion
-                mejor_coincidencia = web_url
-
-        if mejor_coincidencia and max_puntuacion > 0:
-            return mejor_coincidencia
+            if any(palabra in web_slug_clean for palabra in titulo_norm.split() if len(palabra) > 3):
+                return web_url
+                
     else:
         # Lógica habitual para partidos de fútbol y otros deportes con club.json
         home_keywords = obtener_alias_equipo(home_team, clubs_dict)
