@@ -201,7 +201,7 @@ def obtener_alias_equipo(equipo_nombre, clubs_dict):
     return list(set(filter(None, palabras_clave)))
 
 def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict, clubs_dict):
-    """Busca coincidencia del evento web usando club.json"""
+    """Busca coincidencia del evento web usando club.json o por sesión en motor"""
     if not web_events_dict:
         return ""
     
@@ -211,22 +211,29 @@ def buscar_evento_web(league_name, original_title, home_team, away_team, web_eve
         titulo_norm = limpiar_para_comparar(original_title)
         
         mejor_coincidencia = ""
-        max_coincidencias = 0
+        max_puntuacion = 0
 
         for web_slug, web_url in web_events_dict.items():
             web_slug_clean = limpiar_para_comparar(web_slug)
-            coincidencias = sum(1 for palabra in titulo_norm.split() if len(palabra) > 3 and palabra in web_slug_clean)
+            puntuacion = 0
+            
+            # Coincidencia por tipo de sesión (Práctica, Clasificación, GP, etc.)
             if sesion_buscada and sesion_buscada in web_slug_clean:
-                coincidencias += 2
+                puntuacion += 5
+            
+            # Coincidencia por palabras clave del Gran Premio (ej. brasil, monza, etc.)
+            palabras_titulo = [p for p in titulo_norm.split() if len(p) > 3]
+            coincidencias_palabras = sum(1 for palabra in palabras_titulo if palabra in web_slug_clean)
+            puntuacion += coincidencias_palabras
 
-            if coincidencias > max_coincidencias:
-                max_coincidencias = coincidencias
+            if puntuacion > max_puntuacion:
+                max_puntuacion = puntuacion
                 mejor_coincidencia = web_url
 
-        if mejor_coincidencia and max_coincidencias > 0:
+        if mejor_coincidencia and max_puntuacion > 0:
             return mejor_coincidencia
     else:
-        # Obtener palabras clave de cada equipo desde club.json
+        # Lógica habitual para partidos de fútbol y otros deportes con club.json
         home_keywords = obtener_alias_equipo(home_team, clubs_dict)
         away_keywords = obtener_alias_equipo(away_team, clubs_dict)
 

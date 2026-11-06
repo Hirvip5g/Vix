@@ -1,7 +1,7 @@
 {
     "F1": {
         "url": "https://www.thesportsdb.com/league/4370-formula-1",
-        "aliases": ["f1", "formula 1", "formula one"]
+        "aliases": ["f1", "formula 1", "formula one", "gp"]
     },
     "Premier League": {
         "url": "https://www.thesportsdb.com/league/4328-english-premier-league",
