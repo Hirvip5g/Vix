@@ -167,63 +167,55 @@ def obtener_thumb_de_evento_web(event_url):
 
 def traducir_sesion(titulo):
     t = titulo.lower()
-    if "práctica 1" in t or "practica 1" in t or "fp1" in t: return "practice-1"
-    if "práctica 2" in t or "practica 2" in t or "fp2" in t: return "practice-2"
-    if "práctica 3" in t or "practica 3" in t or "fp3" in t: return "practice-3"
+    # Quitamos los guiones para que coincidan perfectamente con limpiar_para_comparar
+    if "práctica 1" in t or "practica 1" in t or "fp1" in t: return "practice1"
+    if "práctica 2" in t or "practica 2" in t or "fp2" in t: return "practice2"
+    if "práctica 3" in t or "practica 3" in t or "fp3" in t: return "practice3"
     if "clasificación" in t or "clasificacion" in t or "quali" in t or "q1" in t or "q2" in t: return "qualifying"
     if "sprint" in t: return "sprint"
     if "carrera" in t or "race" in t or "gp" in t or "grand prix" in t: return "gp"
     return ""
 
-def obtener_alias_equipo(equipo_nombre, clubs_dict):
-    """Retorna una lista de palabras clave limpias para el equipo basándose en club.json"""
-    palabras_clave = [limpiar_para_comparar(equipo_nombre)]
-    if not clubs_dict:
-        return palabras_clave
-    
-    nombre_clean = limpiar_para_comparar(equipo_nombre)
-    for club_key, info in clubs_dict.items():
-        key_clean = limpiar_para_comparar(club_key)
-        
-        # Obtener alias del JSON
-        aliases = info.get("aliases", []) if isinstance(info, dict) else []
-        search_name = info.get("search_name", "") if isinstance(info, dict) else ""
-        
-        aliases_clean = [limpiar_para_comparar(a) for a in aliases]
-        if search_name:
-            aliases_clean.append(limpiar_para_comparar(search_name))
-            
-        if nombre_clean == key_clean or nombre_clean in aliases_clean:
-            palabras_clave.append(key_clean)
-            palabras_clave.extend(aliases_clean)
-            break
-            
-    return list(set(filter(None, palabras_clave)))
-
 def buscar_evento_web(league_name, original_title, home_team, away_team, web_events_dict, clubs_dict):
-    """Busca coincidencia del evento web usando club.json o por sesión en motor"""
+    """Busca coincidencia del evento web usando club.json o por sesión y palabras clave en motor"""
     if not web_events_dict:
         return ""
     
     ln_upper = league_name.upper()
     if "F1" in ln_upper or "FORMULA" in ln_upper or "MOTOGP" in ln_upper:
         sesion_buscada = traducir_sesion(original_title)
-        
-        # Si es F1, buscamos directamente el slug web que contenga la sesión correspondiente
-        if sesion_buscada:
-            for web_slug, web_url in web_events_dict.items():
-                web_slug_clean = limpiar_para_comparar(web_slug)
-                # Coincidencia directa con la sesión (practice-1, qualifying, gp, etc.)
-                if sesion_buscada in web_slug_clean:
-                    return web_url
-        
-        # Búsqueda secundaria por aproximación de texto si la sesión no hace match directo
+        keywords_extra = obtener_alias_equipo(original_title, clubs_dict)
         titulo_norm = limpiar_para_comparar(original_title)
+        
+        mejor_url = ""
+        max_puntuacion = -1
+
         for web_slug, web_url in web_events_dict.items():
             web_slug_clean = limpiar_para_comparar(web_slug)
-            if any(palabra in web_slug_clean for palabra in titulo_norm.split() if len(palabra) > 3):
-                return web_url
-                
+            puntuacion = 0
+            
+            # 1. Coincidencia de sesión (ej. practice1, qualifying, gp)
+            if sesion_buscada and sesion_buscada in web_slug_clean:
+                puntuacion += 10
+            
+            # 2. Coincidencia por alias de club.json (ej. "São Paulo Grand Prix")
+            for kw in keywords_extra:
+                if kw and kw in web_slug_clean and kw != sesion_buscada:
+                    puntuacion += 5
+                    
+            # 3. Coincidencia por palabras del título (ej. "brasil")
+            for palabra in titulo_norm.split():
+                if len(palabra) > 3 and palabra in web_slug_clean and palabra != sesion_buscada:
+                    puntuacion += 2
+
+            if puntuacion > max_puntuacion:
+                max_puntuacion = puntuacion
+                mejor_url = web_url
+
+        if mejor_url and max_puntuacion > 0:
+            return mejor_url
+            
+        return ""
     else:
         # Lógica habitual para partidos de fútbol y otros deportes con club.json
         home_keywords = obtener_alias_equipo(home_team, clubs_dict)
