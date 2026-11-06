@@ -97,89 +97,6 @@
                     "leagueId": "brasileirão"
                 },
                 {
-                    "name": "Liga de Expansión MX",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/2h0yz01615330546.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/expamx.jpg",
-                    "events": [
-                        {
-                            "title": "Cancún vs Piratas",
-                            "league": "Liga de Expansión MX",
-                            "code": "MEX",
-                            "time": "2026-11-05T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 1,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Cancún",
-                            "awayTeam": "Piratas",
-                            "homeLogo": "https://upload.wikimedia.org/wikipedia/en/a/a3/Logo_cancun.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-                            "awayLogo": "https://upload.wikimedia.org/wikipedia/en/2/25/Piratas_FC_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney7",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2625667-piratas-vs-canc%c3%ban"
-                        },
-                        {
-                            "title": "Durango vs Leones Negros UdeG",
-                            "league": "Liga de Expansión MX",
-                            "code": "MEX",
-                            "time": "2026-11-05T22:05:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 5,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Durango",
-                            "awayTeam": "Leones Negros UdeG",
-                            "homeLogo": "https://upload.wikimedia.org/wikipedia/en/7/7c/Alacranes_de_Durango_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10129.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney8",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2625665-leones-negros-udeg-vs-alacranes-de-durango"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "expamx"
-                },
-                {
                     "name": "Liga Profesional",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png",
                     "image": "",
@@ -1794,78 +1711,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
-                            "title": "Phoenix Suns vs Orlando Magic",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-05T21:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 3,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/6p74k41759234305.jpg",
-                            "logo": "",
-                            "homeTeam": "Phoenix Suns",
-                            "awayTeam": "Orlando Magic",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601786-phoenix-suns-vs-orlando-magic"
-                        },
-                        {
-                            "title": "Golden State Warriors vs Miami Heat",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-05T22:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 4,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/5t8qwf1759233977.jpg",
-                            "logo": "",
-                            "homeTeam": "Golden State Warriors",
-                            "awayTeam": "Miami Heat",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601787-golden-state-warriors-vs-miami-heat"
-                        },
-                        {
                             "title": "Charlotte Hornets vs Boston Celtics",
                             "league": "NBA",
                             "code": "NBA",
@@ -2217,135 +2062,6 @@
             ]
         },
         {
-            "id": "nfl",
-            "name": "American Football",
-            "icon": "🏈",
-            "leagues": [
-                {
-                    "name": "NFL",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/0z0j131793688031.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nfl.jpg",
-                    "events": [
-                        {
-                            "title": "Baltimore Ravens vs Jacksonville Jaguars",
-                            "league": "NFL",
-                            "code": "NFL",
-                            "time": "2026-11-05T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 2,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/c4oh0h1784759886.jpg",
-                            "logo": "",
-                            "homeTeam": "Baltimore Ravens",
-                            "awayTeam": "Jacksonville Jaguars",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN 5",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn5",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN 5 FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.ibb.co/6bvjxGP/espn-5B.png",
-                                    "clearkey": {
-                                        "keyId": "4e126297fc7af35c736bdffe98eecaaa",
-                                        "key": "fdb0091cf67d9c596dbfb07cf6f4c8f5"
-                                    },
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN 5 AR MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzOTgwNjc0Iiwic2lwIjoiMTkwLjE3Ny4xNzkuODAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvQ3JvbmljYVRWL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiYzdiNTMxNjNiZDk0NDhiMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzNTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.UMwiBuKodqQQvbNZ-4RjlnRxnNaMEod-2brOk8NfuYSm0mJMXknHJ3DIAp5m0mWRQhAlrXNZ0sw7_iNEOI87jA==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.imgur.com/eBYBgnn.png",
-                                    "clearkey": {
-                                        "keyId": "cf626de3cadd9bfaf0b85c06aafd2cd0",
-                                        "key": "bc2aa7d9e6354e4979ee62b0ec5595c5"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "Fox Sports 3 AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox3ar",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "FOX Sports 3 MUTICALIDAD",
-                                    "url": "https://edge-live22-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzOTgwNjc0Iiwic2lwIjoiMTkwLjE3Ny4xNzkuODAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvQ3JvbmljYVRWL1NBX0xpdmVfZGFzaF9lbmNfLyIsInNlc3Npb25fY2RuX2lkIjoiYzdiNTMxNjNiZDk0NDhiMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzNTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.UMwiBuKodqQQvbNZ-4RjlnRxnNaMEod-2brOk8NfuYSm0mJMXknHJ3DIAp5m0mWRQhAlrXNZ0sw7_iNEOI87jA==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png",
-                                    "clearkey": {
-                                        "keyId": "4629bd0ae30c0e72af111fb948fada1c",
-                                        "key": "7864154c679e769e7f164ba083c8fad3"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "FOX Sports 3 HD",
-                                    "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports3/playlist.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475495-baltimore-ravens-vs-jacksonville-jaguars"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "nfl"
-                }
-            ]
-        },
-        {
             "id": "motor",
             "name": "Motor",
             "icon": "🏎️",
@@ -2363,13 +2079,13 @@
                             "time": "2026-11-06T10:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 7,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xsti5b1787424646.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 150,
                             "extraTime": 0,
                             "status": "",
@@ -2487,7 +2203,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408207-s%c3%a3o-paulo-grand-prix-practice-1"
                         },
                         {
                             "title": "GP Brasil - On Board Colapinto",
@@ -2566,13 +2283,13 @@
                             "time": "2026-11-06T14:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 13,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/552rlp1787424654.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 150,
                             "extraTime": 0,
                             "status": "",
@@ -2690,7 +2407,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408208-s%c3%a3o-paulo-grand-prix-practice-2"
                         },
                         {
                             "title": "GP Brasil - On Board Colapinto",
@@ -2766,53 +2484,6 @@
                     "flagCode": "",
                     "flagUrl": "",
                     "leagueId": ""
-                },
-                {
-                    "name": "MotoGP",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/gg3c201768486075.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/motogp.jpg",
-                    "events": [
-                        {
-                            "title": "GP Qatar - Práctica Libre Moto3, Moto2 y MotoGP",
-                            "league": "MotoGP",
-                            "code": "MOTOGP",
-                            "time": "2026-11-06 09:10",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 6,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/8abzs41759504993.jpg",
-                            "logo": "",
-                            "homeTeam": "",
-                            "awayTeam": "",
-                            "homeLogo": "",
-                            "awayLogo": "",
-                            "imageMode": "banner",
-                            "duration": 150,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney4",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2366135-qatar-gp"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "motogp"
                 }
             ]
         },
@@ -2985,5 +2656,5 @@
             ]
         }
     ],
-    "updated": "2026-11-05 22:02:18"
+    "updated": "2026-11-06 12:34:36"
 }
