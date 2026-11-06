@@ -1303,7 +1303,7 @@
                     "name": "Fútbol Sala",
                     "logo": "",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/futbolsala.jpg",
                     "events": [
                         {
                             "title": "España vs Portugal",
@@ -1378,7 +1378,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "futbolsala"
                 },
                 {
                     "name": "Liga Colombia",
@@ -2500,7 +2500,7 @@
                     "name": "ATP",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/q7aej51769857150.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/atp.jpg",
                     "events": [
                         {
                             "title": "Taylor Fritz vs Carlos Alcaraz",
@@ -2571,7 +2571,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "atp"
                 }
             ]
         },
