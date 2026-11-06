@@ -128,7 +128,7 @@
         "aliases": ["Brazilian Serie A"]
     },
     "Championship": {
-        "url": "https://www.thesportsdb.com/league/4480-uefa-champions-league",
+        "url": "https://www.thesportsdb.com/league/4329-english-league-championship",
         "aliases": ["English League Championship"]
     },
     "UEFA Europa League": {
@@ -159,9 +159,9 @@
         "url": "Copa Ecuador",
         "aliases": ["Copa Ecuador"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "FA Cup": {
+        "url": "https://www.thesportsdb.com/league/4482-fa-cup",
+        "aliases": ["FA Cup"]
     },
     "demo": {
         "url": "demo",
