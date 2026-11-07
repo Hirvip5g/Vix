@@ -12,56 +12,10 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg",
                     "events": [
                         {
-                            "title": "Atlante vs Santos Laguna",
-                            "league": "Liga MX",
-                            "code": "LIGAMX",
-                            "time": "2026-11-06 22:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 6,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xmrn7j1784405099.jpg",
-                            "logo": "",
-                            "homeTeam": "Atlante",
-                            "awayTeam": "Santos Laguna",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/225.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney16",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "TUDN USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudn_usa",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487589-atlante-vs-santos-laguna"
-                        },
-                        {
                             "title": "Atlas vs Pachuca",
                             "league": "Liga MX",
                             "code": "LIGAMX",
-                            "time": "2026-11-07T18:00:00-05:00",
+                            "time": "2026-11-07 18:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 79,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/oqoyju1784405100.jpg",
@@ -2449,13 +2403,13 @@
                             "time": "2026-11-07T12:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 39,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/boel901793224788.jpg",
                             "logo": "",
                             "homeTeam": "Altrincham",
                             "awayTeam": "Notts County",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/633.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/340.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -2475,7 +2429,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2620134-altrincham-vs-notts-county"
                         },
                         {
                             "title": "Peterborough United vs Reading",
@@ -2484,13 +2439,13 @@
                             "time": "2026-11-07T15:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 56,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ohqf851793224764.jpg",
                             "logo": "",
                             "homeTeam": "Peterborough United",
                             "awayTeam": "Reading",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/342.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/338.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -2510,7 +2465,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2619568-peterborough-united-vs-reading"
                         }
                     ],
                     "flagCode": "",
@@ -4660,88 +4616,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
-                            "title": "Los Angeles Lakers vs Portland Trail Blazers",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-06T22:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 7,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/tkbzec1759233067.jpg",
-                            "logo": "",
-                            "homeTeam": "Los Angeles Lakers",
-                            "awayTeam": "Portland Trail Blazers",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Prime Video 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Damazon2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba8",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601795-los-angeles-lakers-vs-portland-trail-blazers"
-                        },
-                        {
-                            "title": "Sacramento Kings vs San Antonio Spurs",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-06T22:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 8,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/rxfohr1759234582.jpg",
-                            "logo": "",
-                            "homeTeam": "Sacramento Kings",
-                            "awayTeam": "San Antonio Spurs",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba9",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601796-sacramento-kings-vs-san-antonio-spurs"
-                        },
-                        {
                             "title": "Indiana Pacers vs Denver Nuggets",
                             "league": "NBA",
                             "code": "NBA",
@@ -5070,83 +4944,6 @@
             "icon": "🥊",
             "leagues": [
                 {
-                    "name": "ESPN KnockOut - BXSTRS",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/j14hx41784791003.png/medium",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/espnknockout.jpg",
-                    "events": [
-                        {
-                            "title": "Damián Arce vs Mario Gutiérrez",
-                            "league": "ESPN KnockOut - BXSTRS",
-                            "code": "BOX",
-                            "time": "2026-11-06 21:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 5,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Damián Arce",
-                            "awayTeam": "Mario Gutiérrez",
-                            "homeLogo": "",
-                            "awayLogo": "",
-                            "imageMode": "",
-                            "duration": 240,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN 2 FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
-                                        "key": "6d15568e1dab59e7202ae12e71505185"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN 2 CO HD",
-                                    "url": "http://190.60.48.151:8010/play/a09l/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "espnknockout"
-                },
-                {
                     "name": "ESPN KnockOut",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/j14hx41784791003.png/medium",
                     "image": "",
@@ -5270,7 +5067,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2568427-qatar-qualifying-1"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2568429-portugal-qualifying-1"
                         },
                         {
                             "title": "GP Qatar - Sprint",
@@ -5279,7 +5076,7 @@
                             "time": "2026-11-07 10:35",
                             "timezone": "America/Lima",
                             "agendaOrder": 30,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/vl1nlu1759504910.jpg",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/idmkx91759848377.jpg",
                             "logo": "",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -5337,7 +5134,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2366134-qatar-sprint-race"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2368503-portugal-sprint-race"
                         }
                     ],
                     "flagCode": "",
@@ -5357,7 +5154,7 @@
                             "time": "2026-11-07T09:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 21,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/34zxgs1787424663.jpg",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/x69d3z1787424704.jpg",
                             "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
                             "homeTeam": "",
                             "awayTeam": "",
@@ -5489,7 +5286,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408209-s%c3%a3o-paulo-grand-prix-practice-3"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2408214-las-vegas-grand-prix-practice-3"
                         },
                         {
                             "title": "GP Brasil - On Board Colapinto",
@@ -6168,5 +5965,5 @@
             ]
         }
     ],
-    "updated": "2026-11-06 23:17:44"
+    "updated": "2026-11-07 08:10:43"
 }
