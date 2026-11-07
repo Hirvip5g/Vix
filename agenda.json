@@ -109,13 +109,13 @@
                             "time": "2026-11-06T17:15:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 27,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/tdt4381769678361.jpg",
                             "logo": "",
                             "homeTeam": "Unión Santa Fe",
                             "awayTeam": "Vélez Sarsfield",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -162,7 +162,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398190-uni%c3%b3n-vs-v%c3%a9lez-sarsfield"
                         },
                         {
                             "title": "San Lorenzo vs Platense",
@@ -448,107 +449,11 @@
                     "leagueId": "ligaprofesional"
                 },
                 {
-                    "name": "Torneo BetPlay",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/l2h1ao1615832028.png",
-                    "image": "",
-                    "background": "",
-                    "events": [
-                        {
-                            "title": "Boca Juniors de Cali vs Envigado",
-                            "league": "Torneo BetPlay",
-                            "code": "COL",
-                            "time": "2026-11-06T16:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 25,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/cunjfe1784787939.jpg",
-                            "logo": "",
-                            "homeTeam": "Boca Juniors de Cali",
-                            "awayTeam": "Envigado",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17372.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5481.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinplus",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "WIN SPORTS + HD",
-                                    "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2625810-boca-juniors-de-cali-vs-envigado"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": ""
-                },
-                {
                     "name": "Fútbol Sala",
                     "logo": "",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/futbolsala.jpg",
                     "events": [
-                        {
-                            "title": "España vs Portugal",
-                            "league": "Fútbol Sala",
-                            "code": "FUT",
-                            "time": "2026-11-06 16:30",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 26,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "España",
-                            "awayTeam": "Portugal",
-                            "homeLogo": "https://upload.wikimedia.org/wikipedia/en/3/39/Spain_national_football_team_crest.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney12",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        },
                         {
                             "title": "Brasil vs Argentina",
                             "league": "Fútbol Sala",
@@ -721,13 +626,13 @@
                             "time": "2026-11-06T20:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 39,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/5k5l3z1784405098.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Atlético San Luis",
                             "awayTeam": "Juárez",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17851.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1359,5 +1264,5 @@
             ]
         }
     ],
-    "updated": "2026-11-06 17:53:06"
+    "updated": "2026-11-06 19:10:11"
 }
