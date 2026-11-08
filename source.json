@@ -163,17 +163,17 @@
         "url": "https://www.thesportsdb.com/league/4482-fa-cup",
         "aliases": ["FA Cup"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Liga MX Femenil": {
+        "url": "https://www.thesportsdb.com/league/5206-mexican-liga-femenil",
+        "aliases": ["Mexican Liga Femenil"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Superliga Grecia": {
+        "url": "https://www.thesportsdb.com/league/4336-greek-super-league-1",
+        "aliases": ["Greek Super League 1"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Eredivisie": {
+        "url": "https://www.thesportsdb.com/league/4337-dutch-eredivisie",
+        "aliases": ["Dutch Eredivisie"]
     },
     "demo": {
         "url": "demo",
