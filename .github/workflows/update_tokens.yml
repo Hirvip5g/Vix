@@ -39,6 +39,6 @@ jobs:
       - name: Hacer Commit y Push automático
         if: steps.run-script.outputs.changes == 'true'
         run: |
-          git add agenda\ \(3\).json 04.json
+          git add agenda.json 04.json
           git commit -m "🤖 Actualización automática de tokens por cambio en tok.html [skip ci]"
           git push
