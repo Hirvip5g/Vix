@@ -12,100 +12,10 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg",
                     "events": [
                         {
-                            "title": "Pumas UNAM vs América",
-                            "league": "Liga MX",
-                            "code": "LIGAMX",
-                            "time": "2026-11-07 22:10",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 42,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/p78lrl1784405102.jpg",
-                            "logo": "",
-                            "homeTeam": "Pumas UNAM",
-                            "awayTeam": "América",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "TUDN MX",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudnmx",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "TUDN MX MUTICALIDAD",
-                                    "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "763ce1ebcaf23502c8cf357c6ef423e1",
-                                        "key": "0c5e6c0820a1ea28753721db00272411"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                                },
-                                {
-                                    "name": "Canal 5 MX",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dcanal5mx",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "CANAL 5 MX MUTICALIDAD",
-                                    "url": "https://live1-ott.izzigo.tv/7/out/u/dash/CANAL-5-HD-H265/default.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "2764ddb50fbcdfa640e19874116dd529",
-                                        "key": "ab1e5cc276f81696e41131392290585d"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                                },
-                                {
-                                    "name": "TUDN USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudn_usa",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487593-pumas-unam-vs-am%c3%a9rica"
-                        },
-                        {
                             "title": "Querétaro vs Puebla",
                             "league": "Liga MX",
                             "code": "LIGAMX",
-                            "time": "2026-11-08T19:00:00-05:00",
+                            "time": "2026-11-08 19:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 107,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/tg2fml1784407584.jpg",
@@ -639,13 +549,13 @@
                             "time": "2026-11-08T17:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 103,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/0d1gn81769678329.jpg",
                             "logo": "",
                             "homeTeam": "Central Córdoba SdE",
                             "awayTeam": "Lanús",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11989.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -696,7 +606,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2398181-central-c%c3%b3rdoba-de-santiago-del-estero-vs-lan%c3%bas"
                         }
                     ],
                     "flagCode": "",
@@ -1048,41 +959,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/expamx.jpg",
                     "events": [
                         {
-                            "title": "CA La Paz vs Tlaxcala",
-                            "league": "Liga de Expansión MX",
-                            "code": "MEX",
-                            "time": "2026-11-07T22:05:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 41,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "CA La Paz",
-                            "awayTeam": "Tlaxcala",
-                            "homeLogo": "https://a.espncdn.com/guid/c6a0e36d-c3f5-3f04-93d8-1436cb1f6e9c/logos/default.png",
-                            "awayLogo": "https://a.espncdn.com/guid/ad1afdd8-e4fd-3c4b-9a80-4b80924bed85/logos/default.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney9",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        },
-                        {
                             "title": "Leones Negros UdeG vs Durango",
                             "league": "Liga de Expansión MX",
                             "code": "MEX",
@@ -1161,7 +1037,7 @@
                 },
                 {
                     "name": "Eredivisie",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/eredivisie.jpg",
                     "events": [
@@ -1172,13 +1048,13 @@
                             "time": "2026-11-08T06:15:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 43,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/wzje6c1782210033.jpg",
                             "logo": "",
                             "homeTeam": "Heerenveen",
                             "awayTeam": "Feyenoord",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1229,7 +1105,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489170-heerenveen-vs-feyenoord"
                         },
                         {
                             "title": "Twente vs Ajax",
@@ -1238,13 +1115,13 @@
                             "time": "2026-11-08T08:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 48,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ovwp491782210035.jpg",
                             "logo": "",
                             "homeTeam": "Twente",
                             "awayTeam": "Ajax",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1308,7 +1185,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489172-twente-vs-ajax"
                         },
                         {
                             "title": "AZ vs Groningen",
@@ -1317,13 +1195,13 @@
                             "time": "2026-11-08T10:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 62,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/vgqbj11782210036.jpg",
                             "logo": "",
                             "homeTeam": "AZ",
                             "awayTeam": "Groningen",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1343,7 +1221,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489173-az-alkmaar-vs-groningen"
                         },
                         {
                             "title": "Cambuur vs PSV",
@@ -1352,13 +1231,13 @@
                             "time": "2026-11-08T10:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 63,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ymvfnk1782210032.jpg",
                             "logo": "",
                             "homeTeam": "Cambuur",
                             "awayTeam": "PSV",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1378,7 +1257,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489168-cambuur-vs-psv-eindhoven"
                         }
                     ],
                     "flagCode": "",
@@ -2683,13 +2563,13 @@
                             "time": "2026-11-08T13:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 82,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/zqd5zy1786719036.jpg",
                             "logo": "",
                             "homeTeam": "Vitória Guimarães",
                             "awayTeam": "Porto",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -2726,7 +2606,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2514024-vit%c3%b3ria-de-guimar%c3%a3es-vs-porto"
                         },
                         {
                             "title": "Estrela vs Benfica",
@@ -2788,7 +2669,7 @@
                 },
                 {
                     "name": "Superliga Grecia",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/sni7f51782459204.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -2908,88 +2789,6 @@
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
-                        {
-                            "title": "Phoenix Suns vs Houston Rockets",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-07T21:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 38,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/j2nhs21759233397.jpg",
-                            "logo": "",
-                            "homeTeam": "Phoenix Suns",
-                            "awayTeam": "Houston Rockets",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba6",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601802-phoenix-suns-vs-houston-rockets"
-                        },
-                        {
-                            "title": "Portland Trail Blazers vs San Antonio Spurs",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-07T22:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 39,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/a9zplw1759233417.jpg",
-                            "logo": "",
-                            "homeTeam": "Portland Trail Blazers",
-                            "awayTeam": "San Antonio Spurs",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney7",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "NBA League Pass",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba7",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601803-portland-trail-blazers-vs-san-antonio-spurs"
-                        },
                         {
                             "title": "Chicago Bulls vs Philadelphia 76ers",
                             "league": "NBA",
@@ -3260,42 +3059,6 @@
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nhl.jpg",
                     "events": [
-                        {
-                            "title": "Vancouver Canucks vs Edmonton Oilers",
-                            "league": "NHL",
-                            "code": "NHL",
-                            "time": "2026-11-07T22:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 40,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/7n24by1760901783.jpg",
-                            "logo": "",
-                            "homeTeam": "Vancouver Canucks",
-                            "awayTeam": "Edmonton Oilers",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png",
-                            "imageMode": "banner",
-                            "duration": 160,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney8",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591760-edmonton-oilers-vs-vancouver-canucks"
-                        },
                         {
                             "title": "Florida Panthers vs Boston Bruins",
                             "league": "NHL",
@@ -4584,5 +4347,5 @@
             ]
         }
     ],
-    "updated": "2026-11-07 23:40:40"
+    "updated": "2026-11-08 08:26:02"
 }
