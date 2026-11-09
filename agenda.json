@@ -6,63 +6,6 @@
             "icon": "⚽",
             "leagues": [
                 {
-                    "name": "Liga MX",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/mav5rx1686157960.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg",
-                    "events": [
-                        {
-                            "title": "León vs Guadalajara",
-                            "league": "Liga MX",
-                            "code": "LIGAMX",
-                            "time": "2026-11-08 21:10",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 10,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/buf5vu1784405105.jpg",
-                            "logo": "",
-                            "homeTeam": "León",
-                            "awayTeam": "Guadalajara",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "FOX One",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfoxone",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "TUDN USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudn_usa",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2487595-le%c3%b3n-vs-cd-guadalajara"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "ligamx"
-                },
-                {
                     "name": "Liga Colombia",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/sdz1351580833297.png",
                     "image": "",
@@ -72,7 +15,7 @@
                             "title": "Junior vs Cúcuta Deportivo",
                             "league": "Liga Colombia",
                             "code": "COL",
-                            "time": "2026-11-09T19:00:00-05:00",
+                            "time": "2026-11-09 19:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 19,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/odaioz1784787896.jpg",
@@ -507,114 +450,6 @@
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
-                        {
-                            "title": "Milwaukee Bucks vs Boston Celtics",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-08T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 3,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/6pzblu1759234754.jpg",
-                            "logo": "",
-                            "homeTeam": "Milwaukee Bucks",
-                            "awayTeam": "Boston Celtics",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 5",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba5",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601808-milwaukee-bucks-vs-boston-celtics"
-                        },
-                        {
-                            "title": "Los Angeles Clippers vs New Orleans Pelicans",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-08T21:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 8,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/18k5ae1759234414.jpg",
-                            "logo": "",
-                            "homeTeam": "Los Angeles Clippers",
-                            "awayTeam": "New Orleans Pelicans",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 6",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba6",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601809-los-angeles-clippers-vs-new-orleans-pelicans"
-                        },
-                        {
-                            "title": "Sacramento Kings vs Miami Heat",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-08T21:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 9,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/a08ww21759233989.jpg",
-                            "logo": "",
-                            "homeTeam": "Sacramento Kings",
-                            "awayTeam": "Miami Heat",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 7",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba7",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601810-sacramento-kings-vs-miami-heat"
-                        },
                         {
                             "title": "Detroit Pistons vs Washington Wizards",
                             "league": "NBA",
@@ -1058,73 +893,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nfl.jpg",
                     "events": [
                         {
-                            "title": "Chicago Bears vs Tampa Bay Buccaneers",
-                            "league": "NFL",
-                            "code": "NFL",
-                            "time": "2026-11-08T20:20:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 6,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/msv0va1784759906.jpg",
-                            "logo": "",
-                            "homeTeam": "Chicago Bears",
-                            "awayTeam": "Tampa Bay Buccaneers",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN 2 FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
-                                        "key": "6d15568e1dab59e7202ae12e71505185"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN 2 CO HD",
-                                    "url": "http://190.60.48.151:8010/play/a09l/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475508-chicago-bears-vs-tampa-bay-buccaneers"
-                        },
-                        {
                             "title": "Minnesota Vikings vs Buffalo Bills",
                             "league": "NFL",
                             "code": "NFL",
@@ -1286,5 +1054,5 @@
             ]
         }
     ],
-    "updated": "2026-11-08 22:44:21"
+    "updated": "2026-11-09 08:40:46"
 }
