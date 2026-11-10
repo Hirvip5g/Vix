@@ -67,9 +67,9 @@
                 },
                 {
                     "name": "Champions League Femenina",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/nsi55h1761838458.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/championsleaguefemenina.jpg",
                     "events": [
                         {
                             "title": "Häcken vs Chelsea",
@@ -104,7 +104,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2599931-bk-h%c3%a4cken-women-vs-chelsea-women"
                         },
                         {
                             "title": "Real Madrid vs Paris FC",
@@ -194,7 +195,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2599923-real-madrid-femenino-vs-paris-fc-women"
                         },
                         {
                             "title": "Roma vs Servette Chênois",
@@ -229,7 +231,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2599912-roma-women-vs-servette-ch%c3%aanois"
                         },
                         {
                             "title": "Inter Milan vs Manchester City",
@@ -295,7 +298,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2599917-inter-milano-women-vs-manchester-city-wfc"
                         },
                         {
                             "title": "PSG vs Bayern Múnich",
@@ -354,16 +358,17 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2599884-paris-saint-germain-women-vs-bayern-munich-women"
                         }
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "championsleaguefemenina"
                 },
                 {
                     "name": "Copa del Rey",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/2ikh3a1671782958.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/copadelrey.jpg",
                     "events": [
@@ -409,13 +414,13 @@
                             "time": "2026-11-10 15:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 31,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/nc4ayd1793142773.jpg",
                             "logo": "",
                             "homeTeam": "Tavernes",
                             "awayTeam": "Valencia",
                             "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mzldoy1789165250.png/medium",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -435,7 +440,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2615686-tavernes-de-la-valldigna-vs-valencia"
                         }
                     ],
                     "flagCode": "",
