@@ -844,18 +844,18 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
-                            "title": "Dallas Mavericks vs Indiana Pacers",
+                            "title": "Sacramento Kings vs Orlando Magic",
                             "league": "NBA",
                             "code": "NBA",
-                            "time": "2026-11-09T20:00:00-05:00",
+                            "time": "2026-11-10 22:00",
                             "timezone": "America/Lima",
-                            "agendaOrder": 15,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/db1wl01759233083.jpg",
+                            "agendaOrder": 47,
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/7yz0481759234288.jpg",
                             "logo": "",
-                            "homeTeam": "Dallas Mavericks",
-                            "awayTeam": "Indiana Pacers",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+                            "homeTeam": "Sacramento Kings",
+                            "awayTeam": "Orlando Magic",
+                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
                             "imageMode": "banner",
                             "duration": 180,
                             "extraTime": 0,
@@ -877,115 +877,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601815-dallas-mavericks-vs-indiana-pacers"
-                        },
-                        {
-                            "title": "Houston Rockets vs Denver Nuggets",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-09T20:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 18,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/lhqrv21759233357.jpg",
-                            "logo": "",
-                            "homeTeam": "Houston Rockets",
-                            "awayTeam": "Denver Nuggets",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 6",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba6",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601816-houston-rockets-vs-denver-nuggets"
-                        },
-                        {
-                            "title": "Phoenix Suns vs San Antonio Spurs",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-09T21:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 19,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/rv5lfe1759233383.jpg",
-                            "logo": "",
-                            "homeTeam": "Phoenix Suns",
-                            "awayTeam": "San Antonio Spurs",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 7",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba7",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601817-phoenix-suns-vs-san-antonio-spurs"
-                        },
-                        {
-                            "title": "Golden State Warriors vs New Orleans Pelicans",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-09T22:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 21,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/n9dfz31759233447.jpg",
-                            "logo": "",
-                            "homeTeam": "Golden State Warriors",
-                            "awayTeam": "New Orleans Pelicans",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 8",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba8",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601818-golden-state-warriors-vs-new-orleans-pelicans"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601823-sacramento-kings-vs-orlando-magic"
                         },
                         {
                             "title": "New York Knicks vs Milwaukee Bucks",
@@ -998,8 +890,8 @@
                             "logo": "",
                             "homeTeam": "New York Knicks",
                             "awayTeam": "Milwaukee Bucks",
-                            "homeLogo": "",
-                            "awayLogo": "",
+                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
                             "imageMode": "banner",
                             "duration": 180,
                             "extraTime": 0,
@@ -1034,8 +926,8 @@
                             "logo": "",
                             "homeTeam": "Philadelphia 76ers",
                             "awayTeam": "Boston Celtics",
-                            "homeLogo": "",
-                            "awayLogo": "",
+                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
                             "imageMode": "banner",
                             "duration": 180,
                             "extraTime": 0,
@@ -1080,8 +972,8 @@
                             "logo": "",
                             "homeTeam": "Utah Jazz",
                             "awayTeam": "Miami Heat",
-                            "homeLogo": "",
-                            "awayLogo": "",
+                            "homeLogo": "https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
                             "imageMode": "banner",
                             "duration": 180,
                             "extraTime": 0,
@@ -1140,42 +1032,6 @@
                             "homeCountryCode": "",
                             "awayCountryCode": "",
                             "sourceEventUrl": "https://www.thesportsdb.com/event/2601821-phoenix-suns-vs-los-angeles-clippers"
-                        },
-                        {
-                            "title": "Sacramento Kings vs Orlando Magic",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-10T22:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 47,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/7yz0481759234288.jpg",
-                            "logo": "",
-                            "homeTeam": "Sacramento Kings",
-                            "awayTeam": "Orlando Magic",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 5",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba5",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601823-sacramento-kings-vs-orlando-magic"
                         },
                         {
                             "title": "Portland Trail Blazers vs Oklahoma City Thunder",
@@ -1242,78 +1098,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nhl.jpg",
                     "events": [
                         {
-                            "title": "Philadelphia Flyers vs Vancouver Canucks",
-                            "league": "NHL",
-                            "code": "NHL",
-                            "time": "2026-11-09T21:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 20,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/2amzuq1760900280.jpg",
-                            "logo": "",
-                            "homeTeam": "Philadelphia Flyers",
-                            "awayTeam": "Vancouver Canucks",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/phi.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png",
-                            "imageMode": "banner",
-                            "duration": 160,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney3",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591768-vancouver-canucks-vs-philadelphia-flyers"
-                        },
-                        {
-                            "title": "New York Islanders vs San Jose Sharks",
-                            "league": "NHL",
-                            "code": "NHL",
-                            "time": "2026-11-09T22:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 22,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/atdip81760901063.jpg",
-                            "logo": "",
-                            "homeTeam": "New York Islanders",
-                            "awayTeam": "San Jose Sharks",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/sj.png",
-                            "imageMode": "banner",
-                            "duration": 160,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney4",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591769-san-jose-sharks-vs-new-york-islanders"
-                        },
-                        {
                             "title": "Colorado Avalanche vs Toronto Maple Leafs",
                             "league": "NHL",
                             "code": "NHL",
@@ -1324,8 +1108,8 @@
                             "logo": "",
                             "homeTeam": "Colorado Avalanche",
                             "awayTeam": "Toronto Maple Leafs",
-                            "homeLogo": "",
-                            "awayLogo": "",
+                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png",
+                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/tor.png",
                             "imageMode": "banner",
                             "duration": 160,
                             "extraTime": 0,
@@ -1535,92 +1319,7 @@
                     "leagueId": "nhl"
                 }
             ]
-        },
-        {
-            "id": "nfl",
-            "name": "American Football",
-            "icon": "🏈",
-            "leagues": [
-                {
-                    "name": "NFL",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/0z0j131793688031.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nfl.jpg",
-                    "events": [
-                        {
-                            "title": "Minnesota Vikings vs Buffalo Bills",
-                            "league": "NFL",
-                            "code": "NFL",
-                            "time": "2026-11-09 20:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 17,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/lnf0zw1784759908.jpg",
-                            "logo": "",
-                            "homeTeam": "Minnesota Vikings",
-                            "awayTeam": "Buffalo Bills",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN 2 FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
-                                        "key": "6d15568e1dab59e7202ae12e71505185"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN 2 CO HD",
-                                    "url": "http://190.60.48.151:8010/play/a09l/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475509-minnesota-vikings-vs-buffalo-bills"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "nfl"
-                }
-            ]
         }
     ],
-    "updated": "2026-11-09 22:42:52"
+    "updated": "2026-11-10 12:42:35"
 }
