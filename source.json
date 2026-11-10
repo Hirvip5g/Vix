@@ -175,13 +175,13 @@
         "url": "https://www.thesportsdb.com/league/4337-dutch-eredivisie",
         "aliases": ["Dutch Eredivisie"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Copa del Rey": {
+        "url": "https://www.thesportsdb.com/league/4483-copa-del-rey",
+        "aliases": ["Copa del Rey"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Champions League Femenina": {
+        "url": "https://www.thesportsdb.com/league/4889-uefa-womens-champions-league",
+        "aliases": ["UEFA Womens Champions League"]
     },
     "demo": {
         "url": "demo",
