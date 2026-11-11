@@ -142,7 +142,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2627193-ju%c3%a1rez-femenil-vs-cd-guadalajara-femenil"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2627197-cd-guadalajara-femenil-vs-ju%c3%a1rez-femenil"
                         },
                         {
                             "title": "América vs Toluca",
@@ -1231,13 +1231,13 @@
                             "time": "2026-11-11T21:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 33,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/yyprlz1759234449.jpg",
                             "logo": "",
                             "homeTeam": "Houston Rockets",
                             "awayTeam": "Golden State Warriors",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -1298,7 +1298,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601833-houston-rockets-vs-golden-state-warriors"
                         },
                         {
                             "title": "Portland Trail Blazers vs Oklahoma City Thunder",
