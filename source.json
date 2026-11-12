@@ -183,9 +183,9 @@
         "url": "https://www.thesportsdb.com/league/4889-uefa-womens-champions-league",
         "aliases": ["UEFA Womens Champions League"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Liga de Naciones": {
+        "url": "https://www.thesportsdb.com/league/4490-uefa-nations-league",
+        "aliases": ["UEFA Nations League"]
     },
     "demo": {
         "url": "demo",
