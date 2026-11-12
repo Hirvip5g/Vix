@@ -187,9 +187,9 @@
         "url": "https://www.thesportsdb.com/league/4490-uefa-nations-league",
         "aliases": ["UEFA Nations League"]
     },
-    "Liga de Naciones": {
-        "url": "https://www.thesportsdb.com/league/5280-concacaf-nations-league",
-        "aliases": ["CONCACAF Nations League"]
+    "demo": {
+        "url": "demo",
+        "aliases": ["demo"]
     },
     "demo": {
         "url": "demo",
