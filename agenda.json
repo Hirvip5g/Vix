@@ -91,7 +91,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2627195-pachuca-femenil-vs-monterrey-femenil"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2627198-monterrey-femenil-vs-pachuca-femenil"
                         }
                     ],
                     "flagCode": "",
@@ -245,7 +245,7 @@
                     "name": "Liga de Naciones",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nationsleague.jpg",
                     "events": [
                         {
                             "title": "Armenia vs Chipre",
@@ -920,7 +920,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "nationsleague"
                 },
                 {
                     "name": "Champions League Femenina",
@@ -1762,7 +1762,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601824-portland-trail-blazers-vs-oklahoma-city-thunder"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601834-portland-trail-blazers-vs-oklahoma-city-thunder"
                         },
                         {
                             "title": "Philadelphia 76ers vs Toronto Raptors",
