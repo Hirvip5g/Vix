@@ -243,7 +243,7 @@
                 },
                 {
                     "name": "Liga de Naciones",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/gwew651790094136.png",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -254,13 +254,13 @@
                             "time": "2026-11-12 12:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 16,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ykky4u1786994435.jpg",
                             "logo": "",
                             "homeTeam": "Armenia",
                             "awayTeam": "Chipre",
                             "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Armenia.svg",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Cyprus.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -280,7 +280,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442823-armenia-vs-cyprus"
                         },
                         {
                             "title": "San Marino vs Bielorrusia",
@@ -289,13 +290,13 @@
                             "time": "2026-11-12 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 20,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ekraun1786994443.jpg",
                             "logo": "",
                             "homeTeam": "San Marino",
                             "awayTeam": "Bielorrusia",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/smr.png",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Belarus.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -315,7 +316,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442828-san-marino-vs-belarus"
                         },
                         {
                             "title": "Montenegro vs Letonia",
@@ -324,13 +326,13 @@
                             "time": "2026-11-12 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 21,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/34z5ji1786994444.jpg",
                             "logo": "",
                             "homeTeam": "Montenegro",
                             "awayTeam": "Letonia",
                             "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Montenegro.svg",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Latvia.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -350,7 +352,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475305-montenegro-vs-latvia"
                         },
                         {
                             "title": "Albania vs Finlandia",
@@ -359,13 +362,13 @@
                             "time": "2026-11-12 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 24,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/pje28d1786994441.jpg",
                             "logo": "",
                             "homeTeam": "Albania",
                             "awayTeam": "Finlandia",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Finland.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -385,7 +388,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442827-albania-vs-finland"
                         },
                         {
                             "title": "Curazao vs Panamá",
@@ -429,13 +433,13 @@
                             "time": "2026-11-12T12:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 17,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/p1pgsm1786994434.jpg",
                             "logo": "",
                             "homeTeam": "Turquía",
                             "awayTeam": "Bélgica",
                             "homeLogo": "https://flagcdn.com/w320/tr.png",
                             "awayLogo": "https://flagcdn.com/w320/be.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -540,7 +544,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442822-turkey-vs-belgium"
                         },
                         {
                             "title": "Italia vs Francia",
@@ -549,13 +554,13 @@
                             "time": "2026-11-12T14:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 22,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/9q7c4e1786994437.jpg",
                             "logo": "",
                             "homeTeam": "Italia",
                             "awayTeam": "Francia",
                             "homeLogo": "https://flagcdn.com/w320/it.png",
                             "awayLogo": "https://flagcdn.com/w320/fr.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -670,7 +675,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442824-italy-vs-france"
                         },
                         {
                             "title": "Inglaterra vs Croacia",
@@ -679,13 +685,13 @@
                             "time": "2026-11-12T14:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 23,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xzq52p1786994439.jpg",
                             "logo": "",
                             "homeTeam": "Inglaterra",
                             "awayTeam": "Croacia",
                             "homeLogo": "https://flagcdn.com/w320/gb-eng.png",
                             "awayLogo": "https://flagcdn.com/w320/hr.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -783,7 +789,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442826-england-vs-croatia"
                         },
                         {
                             "title": "República Checa vs España",
@@ -792,13 +799,13 @@
                             "time": "2026-11-12T14:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 25,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/mh6kkq1786994438.jpg",
                             "logo": "",
                             "homeTeam": "República Checa",
                             "awayTeam": "España",
                             "homeLogo": "https://flagcdn.com/w320/cz.png",
                             "awayLogo": "https://flagcdn.com/w320/es.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -872,7 +879,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442825-czech-republic-vs-spain"
                         },
                         {
                             "title": "Bonaire vs Cuba",
@@ -907,8 +915,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2608438-bonaire-vs-cuba"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
