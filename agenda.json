@@ -243,7 +243,7 @@
                 },
                 {
                     "name": "Liga de Naciones",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/gwew651790094136.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -907,7 +907,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2608438-bonaire-vs-cuba"
                         }
                     ],
                     "flagCode": "",
