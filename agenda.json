@@ -296,9 +296,9 @@
                 },
                 {
                     "name": "Amistoso Internacional",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/pdnktx1648659448.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/amistosos.jpg",
                     "events": [
                         {
                             "title": "Singapur vs Paraguay",
@@ -307,13 +307,13 @@
                             "time": "2026-11-13T07:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 9,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xbh3371791021001.jpg",
                             "logo": "",
                             "homeTeam": "Singapur",
                             "awayTeam": "Paraguay",
                             "homeLogo": "https://upload.wikimedia.org/wikipedia/ar/a/aa/Football_Association_of_Singapore_crest.png?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=original",
                             "awayLogo": "https://flagcdn.com/w320/py.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -333,7 +333,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2606352-singapore-vs-paraguay"
                         },
                         {
                             "title": "Emiratos Árabes Unidos vs Honduras",
@@ -368,7 +369,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2624394-united-arab-emirates-vs-honduras"
                         },
                         {
                             "title": "Arabia Saudita vs Corea del Sur",
@@ -403,7 +405,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2623095-saudi-arabia-vs-south-korea"
                         },
                         {
                             "title": "Qatar vs Australia",
@@ -412,13 +415,13 @@
                             "time": "2026-11-13T09:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 12,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/67cuse1791021003.jpg",
                             "logo": "",
                             "homeTeam": "Qatar",
                             "awayTeam": "Australia",
                             "homeLogo": "https://flagcdn.com/w320/qa.png",
                             "awayLogo": "https://flagcdn.com/w320/au.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -438,7 +441,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2606353-qatar-vs-australia"
                         },
                         {
                             "title": "Colo-Colo vs Racing Club",
@@ -682,7 +686,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "amistosos"
                 },
                 {
                     "name": "Liga de Naciones de la UEFA",
@@ -763,13 +767,13 @@
                             "time": "2026-11-13 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 16,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/5c81m21786994459.jpg",
                             "logo": "",
                             "homeTeam": "Luxemburgo",
                             "awayTeam": "Estonia",
                             "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Luxembourg.svg",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/est.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -789,7 +793,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475308-luxembourg-vs-estonia"
                         },
                         {
                             "title": "Liechtenstein vs Azerbaiyán",
@@ -798,13 +803,13 @@
                             "time": "2026-11-13 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 18,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/nr7xbd1786994457.jpg",
                             "logo": "",
                             "homeTeam": "Liechtenstein",
                             "awayTeam": "Azerbaiyán",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Azerbaijan.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -824,7 +829,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442834-liechtenstein-vs-azerbaijan"
                         },
                         {
                             "title": "Escocia vs Macedonia del Norte",
@@ -833,13 +839,13 @@
                             "time": "2026-11-13 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 19,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/s9wzln1786994447.jpg",
                             "logo": "",
                             "homeTeam": "Escocia",
                             "awayTeam": "Macedonia del Norte",
                             "homeLogo": "https://flagcdn.com/w320/gb-sct.png",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Macedonia.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -859,7 +865,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475307-scotland-vs-north-macedonia"
                         },
                         {
                             "title": "Países Bajos vs Grecia",
@@ -868,13 +875,13 @@
                             "time": "2026-11-13 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 21,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/wiiuro1786994450.jpg",
                             "logo": "",
                             "homeTeam": "Países Bajos",
                             "awayTeam": "Grecia",
                             "homeLogo": "https://flagcdn.com/w320/nl.png",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Greece.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -925,7 +932,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442830-netherlands-vs-greece"
                         },
                         {
                             "title": "Bulgaria vs Islandia",
@@ -934,13 +942,13 @@
                             "time": "2026-11-13 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 23,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xwye6g1786994455.jpg",
                             "logo": "",
                             "homeTeam": "Bulgaria",
                             "awayTeam": "Islandia",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Iceland.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -960,7 +968,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442833-bulgaria-vs-iceland"
                         },
                         {
                             "title": "Eslovaquia vs Islas Feroe",
@@ -969,13 +978,13 @@
                             "time": "2026-11-13 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 24,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/1v4csl1786994452.jpg",
                             "logo": "",
                             "homeTeam": "Eslovaquia",
                             "awayTeam": "Islas Feroe",
                             "homeLogo": "https://flagcdn.com/w320/sk.png",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Faroe-Islands.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -995,7 +1004,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442831-slovakia-vs-faroe-islands"
                         },
                         {
                             "title": "Andorra vs Gibraltar",
@@ -1109,13 +1119,13 @@
                             "time": "2026-11-13T14:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 22,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/81cw6o1786994449.jpg",
                             "logo": "",
                             "homeTeam": "Serbia",
                             "awayTeam": "Alemania",
                             "homeLogo": "https://flagcdn.com/w320/rs.png",
                             "awayLogo": "https://flagcdn.com/w320/de.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1183,7 +1193,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442829-serbia-vs-germany"
                         }
                     ],
                     "flagCode": "",
@@ -1229,7 +1240,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2628119-st-martin-vs-el-salvador"
                         },
                         {
                             "title": "Puerto Rico vs Dominica",
