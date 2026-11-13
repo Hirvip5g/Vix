@@ -6,172 +6,16 @@
             "icon": "⚽",
             "leagues": [
                 {
-                    "name": "Liga de Naciones",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/cwsp321698386224.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nationsleague.jpg",
-                    "events": [
-                        {
-                            "title": "Curazao vs Panamá",
-                            "league": "Liga de Naciones",
-                            "code": "CONCACAF",
-                            "time": "2026-11-12 19:30",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 6,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Curazao",
-                            "awayTeam": "Panamá",
-                            "homeLogo": "https://media.istockphoto.com/id/522331412/es/foto/bandera-de-curacao.jpg?s=612x612&w=0&k=20&c=5jlUceo9U4DrXu9uxZuast50SM2SCkVLh-07WHqCo3w=",
-                            "awayLogo": "https://flagcdn.com/w320/pa.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ViX",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dvix4",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "nationsleague"
-                },
-                {
                     "name": "Liga Colombia",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/sdz1351580833297.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg",
                     "events": [
                         {
-                            "title": "Deportivo Pasto vs Junior",
-                            "league": "Liga Colombia",
-                            "code": "COL",
-                            "time": "2026-11-12T17:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 1,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/yby1231675412481.jpg",
-                            "logo": "",
-                            "homeTeam": "Deportivo Pasto",
-                            "awayTeam": "Junior",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5485.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4815.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinplus",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "WIN SPORTS + HD",
-                                    "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481267-deportivo-pasto-vs-atl%c3%a9tico-junior"
-                        },
-                        {
-                            "title": "Llaneros vs Boyacá Chicó",
-                            "league": "Liga Colombia",
-                            "code": "COL",
-                            "time": "2026-11-12T19:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 3,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/x92ee81754335273.jpg",
-                            "logo": "",
-                            "homeTeam": "Llaneros",
-                            "awayTeam": "Boyacá Chicó",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7915.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5480.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinplus",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "WIN SPORTS + HD",
-                                    "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "Win Sports",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dwinsports",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2481274-llaneros-vs-boyac%c3%a1-chic%c3%b3"
-                        },
-                        {
                             "title": "Inter Bogotá vs Santa Fe",
                             "league": "Liga Colombia",
                             "code": "COL",
-                            "time": "2026-11-13T20:30:00-05:00",
+                            "time": "2026-11-13 20:30",
                             "timezone": "America/Lima",
                             "agendaOrder": 38,
                             "image": "",
@@ -222,228 +66,11 @@
                     "leagueId": "ligaco"
                 },
                 {
-                    "name": "Supercopa Argentina",
-                    "logo": "",
-                    "image": "",
-                    "background": "",
-                    "events": [
-                        {
-                            "title": "Estudiantes vs Independiente Rivadavia",
-                            "league": "Supercopa Argentina",
-                            "code": "AR",
-                            "time": "2026-11-12 18:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 2,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Estudiantes",
-                            "awayTeam": "Independiente Rivadavia",
-                            "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png/medium",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9744.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "ESPN AR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despnar",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "ESPN AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0NjUwNDMwIiwic2lwIjoiMTg2LjE1OC4yMjguNDAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU0MzBmMWE4NTgxNTIyOWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.hN3PvhgWFn_29n3PFOhi5hjQLRSyCCOT-f5WIp17WnWq0_SehCLWgeqJ7NIv1VH1MfHktAbNwnMCfErsJ6UptA==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "d079ffa3757e8335611fc48be6ba47ff",
-                                        "key": "05059d1cb21b6708a55e9c26fb38e2f3"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney9",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": ""
-                },
-                {
                     "name": "Amistoso Internacional",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/pdnktx1648659448.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/amistosos.jpg",
                     "events": [
-                        {
-                            "title": "Singapur vs Paraguay",
-                            "league": "Amistoso Internacional",
-                            "code": "AMISTOSO",
-                            "time": "2026-11-13T07:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 9,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xbh3371791021001.jpg",
-                            "logo": "",
-                            "homeTeam": "Singapur",
-                            "awayTeam": "Paraguay",
-                            "homeLogo": "https://upload.wikimedia.org/wikipedia/ar/a/aa/Football_Association_of_Singapore_crest.png?utm_source=ar.wikipedia.org&utm_campaign=api&utm_content=original",
-                            "awayLogo": "https://flagcdn.com/w320/py.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Evento 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Devento1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2606352-singapore-vs-paraguay"
-                        },
-                        {
-                            "title": "Emiratos Árabes Unidos vs Honduras",
-                            "league": "Amistoso Internacional",
-                            "code": "AMISTOSO",
-                            "time": "2026-11-13T09:10:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 10,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Emiratos Árabes Unidos",
-                            "awayTeam": "Honduras",
-                            "homeLogo": "https://flagcdn.com/w320/ae.png",
-                            "awayLogo": "https://flagcdn.com/w320/hn.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Evento 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Devento2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2624394-united-arab-emirates-vs-honduras"
-                        },
-                        {
-                            "title": "Arabia Saudita vs Corea del Sur",
-                            "league": "Amistoso Internacional",
-                            "code": "AMISTOSO",
-                            "time": "2026-11-13T09:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 11,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Arabia Saudita",
-                            "awayTeam": "Corea del Sur",
-                            "homeLogo": "https://flagcdn.com/w320/sa.png",
-                            "awayLogo": "https://flagcdn.com/w320/kr.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Evento 3",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Devento3",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2623095-saudi-arabia-vs-south-korea"
-                        },
-                        {
-                            "title": "Qatar vs Australia",
-                            "league": "Amistoso Internacional",
-                            "code": "AMISTOSO",
-                            "time": "2026-11-13T09:45:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 12,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/67cuse1791021003.jpg",
-                            "logo": "",
-                            "homeTeam": "Qatar",
-                            "awayTeam": "Australia",
-                            "homeLogo": "https://flagcdn.com/w320/qa.png",
-                            "awayLogo": "https://flagcdn.com/w320/au.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Evento 4",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Devento4",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2606353-qatar-vs-australia"
-                        },
                         {
                             "title": "Colo-Colo vs Racing Club",
                             "league": "Amistoso Internacional",
@@ -486,13 +113,13 @@
                             "time": "2026-11-13T18:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 27,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/6ftqmj1573989757.jpg",
                             "logo": "",
                             "homeTeam": "Argentina",
                             "awayTeam": "Uruguay",
                             "homeLogo": "https://flagcdn.com/w320/ar.png",
                             "awayLogo": "https://flagcdn.com/w320/uy.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -593,7 +220,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2623096-argentina-vs-uruguay"
                         },
                         {
                             "title": "Ecuador vs Costa Rica",
@@ -602,13 +230,13 @@
                             "time": "2026-11-13T19:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 29,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/z180ur1686760239.jpg",
                             "logo": "",
                             "homeTeam": "Ecuador",
                             "awayTeam": "Costa Rica",
                             "homeLogo": "https://flagcdn.com/w320/ec.png",
                             "awayLogo": "https://flagcdn.com/w320/cr.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -628,7 +256,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2623098-ecuador-vs-costa-rica"
                         },
                         {
                             "title": "Colombia vs Chile",
@@ -637,13 +266,13 @@
                             "time": "2026-11-13T19:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 30,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/3codtt1791021032.jpg",
                             "logo": "",
                             "homeTeam": "Colombia",
                             "awayTeam": "Chile",
                             "homeLogo": "https://flagcdn.com/w320/co.png",
                             "awayLogo": "https://flagcdn.com/w320/cl.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -663,7 +292,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2606659-colombia-vs-chile"
                         },
                         {
                             "title": "Perú vs Bolivia",
@@ -698,7 +328,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2623097-peru-vs-bolivia"
                         }
                     ],
                     "flagCode": "",
@@ -1482,160 +1113,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
-                            "title": "Philadelphia 76ers vs Toronto Raptors",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-12T19:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 4,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/fs54o61759233331.jpg",
-                            "logo": "",
-                            "homeTeam": "Philadelphia 76ers",
-                            "awayTeam": "Toronto Raptors",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Prime Video",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Damazon1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "NBA League Pass 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601836-philadelphia-76ers-vs-toronto-raptors"
-                        },
-                        {
-                            "title": "Washington Wizards vs Detroit Pistons",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-12T19:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 5,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/kx38ye1759234598.jpg",
-                            "logo": "",
-                            "homeTeam": "Washington Wizards",
-                            "awayTeam": "Detroit Pistons",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601835-washington-wizards-vs-detroit-pistons"
-                        },
-                        {
-                            "title": "Minnesota Timberwolves vs Dallas Mavericks",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-12T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 7,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/78n62x1759234296.jpg",
-                            "logo": "",
-                            "homeTeam": "Minnesota Timberwolves",
-                            "awayTeam": "Dallas Mavericks",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 3",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba3",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601837-minnesota-timberwolves-vs-dallas-mavericks"
-                        },
-                        {
-                            "title": "Phoenix Suns vs Charlotte Hornets",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-12T21:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 8,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/umszji1759234485.jpg",
-                            "logo": "",
-                            "homeTeam": "Phoenix Suns",
-                            "awayTeam": "Charlotte Hornets",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 4",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba4",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601838-phoenix-suns-vs-charlotte-hornets"
-                        },
-                        {
                             "title": "Indiana Pacers vs New York Knicks",
                             "league": "NBA",
                             "code": "NBA",
@@ -1987,5 +1464,5 @@
             ]
         }
     ],
-    "updated": "2026-11-12 19:19:42"
+    "updated": "2026-11-13 13:09:44"
 }
