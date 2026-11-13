@@ -509,6 +509,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "TyC Sports FHD MUTICALIDAD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0NjUwNDMwIiwic2lwIjoiMTg2LjE1OC4yMjguNDAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU0MzBmMWE4NTgxNTIyOWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.hN3PvhgWFn_29n3PFOhi5hjQLRSyCCOT-f5WIp17WnWq0_SehCLWgeqJ7NIv1VH1MfHktAbNwnMCfErsJ6UptA==/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/400/400/0/0/42832369072861.png",
+                                    "clearkey": {
+                                        "keyId": "0b1e6825350fa1bc0032f8f36287e006",
+                                        "key": "11fc540a4539d18f91cd403a5ed42284"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ViX",
                                     "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dvix3",
                                     "type": "iframe",
