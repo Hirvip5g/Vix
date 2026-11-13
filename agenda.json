@@ -701,13 +701,13 @@
                             "time": "2026-11-13 12:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 13,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/8kt9g61786994453.jpg",
                             "logo": "",
                             "homeTeam": "Moldavia",
                             "awayTeam": "Kazajistán",
                             "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Moldova.svg",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Kazakhstan.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -758,7 +758,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442832-moldova-vs-kazakhstan"
                         },
                         {
                             "title": "Luxemburgo vs Estonia",
@@ -1050,13 +1051,13 @@
                             "time": "2026-11-13T14:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 20,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/0stidn1786994446.jpg",
                             "logo": "",
                             "homeTeam": "Eslovenia",
                             "awayTeam": "Suiza",
                             "homeLogo": "https://flagcdn.com/w320/si.png",
                             "awayLogo": "https://flagcdn.com/w320/ch.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1110,7 +1111,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475306-slovenia-vs-switzerland"
                         },
                         {
                             "title": "Serbia vs Alemania",
