@@ -211,6 +211,30 @@
         "search_name": "Czech Republic",
         "aliases": ["DEMO2"]
     },
+    "Curazao": {
+        "search_name": "Curaçao",
+        "aliases": ["Curaçao"]
+    },
+    "Panamá": {
+        "search_name": "Panama",
+        "aliases": ["Panama"]
+    },
+    "Martinica": {
+        "search_name": "Martinique",
+        "aliases": ["Martinique"]
+    },
+    "Antigua y Barbuda": {
+        "search_name": "Antigua and Barbuda",
+        "aliases": ["Antigua and Barbuda"]
+    },
+    "Trinidad y Tobago": {
+        "search_name": "Trinidad and Tobago",
+        "aliases": ["Trinidad and Tobago"]
+    },
+    "Estudiantes LP": {
+        "search_name": "Estudiantes de La Plata",
+        "aliases": ["Estudiantes de La Plata"]
+    },
     "España": {
         "search_name": "Spain",
         "aliases": ["DEMO2"]

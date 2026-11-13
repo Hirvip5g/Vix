@@ -90,7 +90,7 @@ MAPEO_EQUIPOS = CaseInsensitiveDict({
     "genoa": "10233", "fiorentina": "8535", "inter": "8636", "inter de milan": "8636", "parma": "10167",
     "napoli": "9875", "frosinone": "9891",
     "vasco da gama": "10276", "remo": "1626", "são paulo": "10277", "vitória": "7733",
-    "boca juniors": "90006", "river plate": "90015", "Slavia Praha": "1901", "Al Qadisiya": "1902", "Fenerbahçe": "1903", "Sabah": "Sabah", "Deportivo La Coruña": "lacoruña", "Celta de Vigo II": "vigo2", "hamburg": "9790", "Durango": "durango", "Lyon": "133713", "Corea del Norte": "153610", "Japón": "153609",
+    "boca juniors": "90006", "river plate": "90015", "Slavia Praha": "1901", "Al Qadisiya": "1902", "Fenerbahçe": "1903", "Sabah": "Sabah", "Deportivo La Coruña": "lacoruña", "Celta de Vigo II": "vigo2", "hamburg": "9790", "Durango": "durango", "Lyon": "133713", "Corea del Norte": "153610", "Japón": "153609", "Martinica": "140278", "Aruba": "140264", "Antigua y Barbuda": "140263", "Trinidad y Tobago": "140176", "Progreso": "138815", "Cerro Largo": "138817", "Estudiantes LP": "135160", "Independiente Rivadavia": "137777", "Atlético Morelia": "134190", "Leones Negros UdeG": "134622", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo",
 })
 
 MAPEO_LIGAS = CaseInsensitiveDict({
@@ -104,7 +104,7 @@ MAPEO_LIGAS = CaseInsensitiveDict({
     "Eredivisie": "eredivisie", "Liga Colombia": "ligaco", "NFL": "nfl", "UFC": "ufc",
     "Saudi Pro League": "saudiproleague", "Primeira Liga": "primeiraligap", "NBA": "nba",
     "NHL": "nhl", "Liga Chile": "ligachile", "MotoGP": "motogp",
-    "Copa del Rey": "copadelrey", "Copa Ecuador": "copaecuador", "Copa de Brasil": "copadebrasil", "Messi Cup U16": "nessicupu16", "Copa Colombia": "copacolombia", "AFC Champions League Elite": "championsarabe", "Primera División": "primeradivisión", "UEFA Conference League": "ueafaconferenceleague", "UEFA Europa League": "ueafeuropaleague", "ESPN KnockOut - BXSTRS": "espnknockout", "ATP": "atp", "Fútbol Sala": "futbolsala", "F1": "f1", "Champions League Femenina": "championsleaguefemenina", "Torneo de Reserva": "torneodereserva", "Liga de Naciones": "nationsleague", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo",
+    "Copa del Rey": "copadelrey", "Copa Ecuador": "copaecuador", "Copa de Brasil": "copadebrasil", "Messi Cup U16": "nessicupu16", "Copa Colombia": "copacolombia", "AFC Champions League Elite": "championsarabe", "Primera División": "primeradivisión", "UEFA Conference League": "ueafaconferenceleague", "UEFA Europa League": "ueafeuropaleague", "ESPN KnockOut - BXSTRS": "espnknockout", "ATP": "atp", "Fútbol Sala": "futbolsala", "F1": "f1", "Champions League Femenina": "championsleaguefemenina", "Torneo de Reserva": "torneodereserva", "Liga de Naciones": "nationsleague", "Liga de Naciones de la CONCACAF": "cafnationsleague", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo", "demo": "demo",
 })
 
 def limpiar_para_comparar(texto):
