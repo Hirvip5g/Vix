@@ -1200,13 +1200,13 @@
                             "time": "2026-11-14 12:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 23,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/p14cf51786994466.jpg",
                             "logo": "",
                             "homeTeam": "Georgia",
                             "awayTeam": "Hungría",
                             "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Georgia.svg",
                             "awayLogo": "https://flagcdn.com/w320/hu.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1253,7 +1253,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442837-georgia-vs-hungary"
                         },
                         {
                             "title": "Austria vs República de Irlanda",
@@ -1262,13 +1263,13 @@
                             "time": "2026-11-14 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 29,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/sa792n1786994471.jpg",
                             "logo": "",
                             "homeTeam": "Austria",
                             "awayTeam": "República de Irlanda",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
                             "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Ireland.svg",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1288,7 +1289,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442840-austria-vs-ireland"
                         },
                         {
                             "title": "Suecia vs Bosnia-Herzegovina",
@@ -1297,13 +1299,13 @@
                             "time": "2026-11-14 14:45",
                             "timezone": "America/Lima",
                             "agendaOrder": 32,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/vhwewh1786994474.jpg",
                             "logo": "",
                             "homeTeam": "Suecia",
                             "awayTeam": "Bosnia-Herzegovina",
                             "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Sweden.svg",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1367,7 +1369,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442842-sweden-vs-bosnia-herzegovina"
                         },
                         {
                             "title": "Noruega vs Gales",
@@ -1376,13 +1379,13 @@
                             "time": "2026-11-14T12:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 24,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/gewg9o1786994465.jpg",
                             "logo": "",
                             "homeTeam": "Noruega",
                             "awayTeam": "Gales",
                             "homeLogo": "https://flagcdn.com/w320/no.png",
                             "awayLogo": "https://flagcdn.com/w320/gb-wls.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1460,7 +1463,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442836-norway-vs-wales"
                         },
                         {
                             "title": "Irlanda del Norte vs Ucrania",
@@ -1469,13 +1473,13 @@
                             "time": "2026-11-14T14:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 30,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/wc42sk1786994469.jpg",
                             "logo": "",
                             "homeTeam": "Irlanda del Norte",
                             "awayTeam": "Ucrania",
                             "homeLogo": "https://flagcdn.com/w320/gb-nir.png",
                             "awayLogo": "https://flagcdn.com/w320/ua.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1495,7 +1499,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442839-n.ireland-vs-ukraine"
                         },
                         {
                             "title": "Rumanía vs Polonia",
@@ -1504,13 +1509,13 @@
                             "time": "2026-11-14T14:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 31,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/1fxwpv1786994473.jpg",
                             "logo": "",
                             "homeTeam": "Rumanía",
                             "awayTeam": "Polonia",
                             "homeLogo": "https://flagcdn.com/w320/ro.png",
                             "awayLogo": "https://flagcdn.com/w320/pl.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1530,7 +1535,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442841-romania-vs-poland"
                         },
                         {
                             "title": "Portugal vs Dinamarca",
@@ -1539,13 +1545,13 @@
                             "time": "2026-11-14T14:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 33,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/arln421786994468.jpg",
                             "logo": "",
                             "homeTeam": "Portugal",
                             "awayTeam": "Dinamarca",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
                             "awayLogo": "https://flagcdn.com/w320/dk.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1650,7 +1656,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2442838-portugal-vs-denmark"
                         }
                     ],
                     "flagCode": "",
@@ -1659,9 +1666,9 @@
                 },
                 {
                     "name": "Copa Paraguay",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/sk46bb1764024619.png",
                     "image": "",
-                    "background": "",
+                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/copaparaguay.jpg",
                     "events": [
                         {
                             "title": "Deportivo Recoleta vs Libertad",
@@ -1701,7 +1708,7 @@
                     ],
                     "flagCode": "",
                     "flagUrl": "",
-                    "leagueId": ""
+                    "leagueId": "copaparaguay"
                 },
                 {
                     "name": "Brasileirão",
@@ -1805,7 +1812,7 @@
                 },
                 {
                     "name": "Copa Argentina",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/welbig1655924428.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -1816,13 +1823,13 @@
                             "time": "2026-11-14T17:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 45,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/2dymc01791004826.jpg",
                             "logo": "",
                             "homeTeam": "Banfield",
                             "awayTeam": "Boca Juniors",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1859,7 +1866,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2611378-banfield-vs-boca-juniors"
                         }
                     ],
                     "flagCode": "",
