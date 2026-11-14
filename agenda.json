@@ -909,7 +909,7 @@
                 },
                 {
                     "name": "LaLiga SmartBank",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
+                    "logo": "",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/smartbank.jpg",
                     "events": [
@@ -2067,7 +2067,7 @@
             "leagues": [
                 {
                     "name": "NBA",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
@@ -2078,13 +2078,13 @@
                             "time": "2026-11-13T19:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 6,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/cp8t2h1759234534.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Indiana Pacers",
                             "awayTeam": "New York Knicks",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2114,8 +2114,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601839-indiana-pacers-vs-new-york-knicks"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Orlando Magic vs Milwaukee Bucks",
@@ -2124,13 +2123,13 @@
                             "time": "2026-11-13T19:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 7,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/k9kbck1759234250.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Orlando Magic",
                             "awayTeam": "Milwaukee Bucks",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2150,8 +2149,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601840-orlando-magic-vs-milwaukee-bucks"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Miami Heat vs Cleveland Cavaliers",
@@ -2160,13 +2158,13 @@
                             "time": "2026-11-13T20:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 9,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/gc540u1759233252.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Miami Heat",
                             "awayTeam": "Cleveland Cavaliers",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2186,8 +2184,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601842-miami-heat-vs-cleveland-cavaliers"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Chicago Bulls vs Atlanta Hawks",
@@ -2196,13 +2193,13 @@
                             "time": "2026-11-13T20:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 10,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ecw05n1759233055.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Chicago Bulls",
                             "awayTeam": "Atlanta Hawks",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2222,8 +2219,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601841-chicago-bulls-vs-atlanta-hawks"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "New Orleans Pelicans vs Memphis Grizzlies",
@@ -2232,13 +2228,13 @@
                             "time": "2026-11-13T20:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 11,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/d6yf9g1759234107.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "New Orleans Pelicans",
                             "awayTeam": "Memphis Grizzlies",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2258,8 +2254,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601843-new-orleans-pelicans-vs-memphis-grizzlies"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Houston Rockets vs Utah Jazz",
@@ -2268,13 +2263,13 @@
                             "time": "2026-11-13T20:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 13,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/x4s5pd1759234755.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Houston Rockets",
                             "awayTeam": "Utah Jazz",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2294,8 +2289,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601844-houston-rockets-vs-utah-jazz"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "San Antonio Spurs vs Golden State Warriors",
@@ -2304,13 +2298,13 @@
                             "time": "2026-11-13T21:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 15,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/p4an1a1759233282.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "San Antonio Spurs",
                             "awayTeam": "Golden State Warriors",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2340,8 +2334,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601845-san-antonio-spurs-vs-golden-state-warriors"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Sacramento Kings vs Portland Trail Blazers",
@@ -2350,13 +2343,13 @@
                             "time": "2026-11-13T22:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 16,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/kb9e8j1759233962.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Sacramento Kings",
                             "awayTeam": "Portland Trail Blazers",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2376,8 +2369,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601846-sacramento-kings-vs-portland-trail-blazers"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Los Angeles Clippers vs Oklahoma City Thunder",
@@ -2386,13 +2378,13 @@
                             "time": "2026-11-13T22:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 17,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/c3gk491759233155.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Los Angeles Clippers",
                             "awayTeam": "Oklahoma City Thunder",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2412,8 +2404,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601847-los-angeles-clippers-vs-oklahoma-city-thunder"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "New Orleans Pelicans vs Denver Nuggets",
@@ -2422,13 +2413,13 @@
                             "time": "2026-11-14T19:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 50,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/6un5su1759233899.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "New Orleans Pelicans",
                             "awayTeam": "Denver Nuggets",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2448,8 +2439,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601848-new-orleans-pelicans-vs-denver-nuggets"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Cleveland Cavaliers vs Dallas Mavericks",
@@ -2458,13 +2448,13 @@
                             "time": "2026-11-14T19:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 51,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/eajddt1759234554.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Cleveland Cavaliers",
                             "awayTeam": "Dallas Mavericks",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2484,8 +2474,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601849-cleveland-cavaliers-vs-dallas-mavericks"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Miami Heat vs Detroit Pistons",
@@ -2494,13 +2483,13 @@
                             "time": "2026-11-14T20:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 53,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/maqryt1759234478.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Miami Heat",
                             "awayTeam": "Detroit Pistons",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2530,8 +2519,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601851-miami-heat-vs-detroit-pistons"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Minnesota Timberwolves vs Chicago Bulls",
@@ -2540,13 +2528,13 @@
                             "time": "2026-11-14T20:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 54,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xfdj341759234009.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Minnesota Timberwolves",
                             "awayTeam": "Chicago Bulls",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2566,8 +2554,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601852-minnesota-timberwolves-vs-chicago-bulls"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Memphis Grizzlies vs Brooklyn Nets",
@@ -2576,13 +2563,13 @@
                             "time": "2026-11-14T20:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 55,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/qkgrui1759233871.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Memphis Grizzlies",
                             "awayTeam": "Brooklyn Nets",
                             "homeLogo": "",
                             "awayLogo": "",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2602,8 +2589,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601850-memphis-grizzlies-vs-brooklyn-nets"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
