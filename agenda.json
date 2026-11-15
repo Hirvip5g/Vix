@@ -1,188 +1,10 @@
 {
     "sports": [
         {
-            "id": "boxing",
-            "name": "Boxing",
-            "icon": "🥊",
-            "leagues": [
-                {
-                    "name": "Boxeo ESPN Knockout",
-                    "logo": "https://stream04.lat/logs/BOX.png",
-                    "image": "",
-                    "background": "",
-                    "events": [
-                        {
-                            "title": "Diego Pacheco vs Darius Fulghum",
-                            "league": "Boxeo ESPN Knockout",
-                            "code": "BOX",
-                            "time": "2026-11-14 20:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 9,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "",
-                            "awayTeam": "",
-                            "homeLogo": "",
-                            "awayLogo": "",
-                            "imageMode": "",
-                            "duration": 240,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney12",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": ""
-                }
-            ]
-        },
-        {
-            "id": "mma",
-            "name": "MMA / UFC",
-            "icon": "🥋",
-            "leagues": [
-                {
-                    "name": "UFC",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/bewnz31717531281.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ufc.jpg",
-                    "events": [
-                        {
-                            "title": "Ciryl Gane vs Josh Hokit",
-                            "league": "UFC",
-                            "code": "UFC",
-                            "time": "2026-11-14 21:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 10,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "",
-                            "awayTeam": "",
-                            "homeLogo": "",
-                            "awayLogo": "",
-                            "imageMode": "",
-                            "duration": 240,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Paramount+",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dparamount1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [
-                                        "Español"
-                                    ],
-                                    "customLanguages": "Español",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "Paramount+",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dparamount2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [
-                                        "Inglés"
-                                    ],
-                                    "customLanguages": "Inglés",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "Paramount+",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dparamount3",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [
-                                        "Portugués"
-                                    ],
-                                    "customLanguages": "Portugués",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "ufc"
-                }
-            ]
-        },
-        {
             "id": "football",
             "name": "Football",
             "icon": "⚽",
             "leagues": [
-                {
-                    "name": "Amistoso Internacional",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/pdnktx1648659448.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/amistosos.jpg",
-                    "events": [
-                        {
-                            "title": "New York RB vs America",
-                            "league": "Amistoso Internacional",
-                            "code": "FIFA",
-                            "time": "2026-11-14 19:30",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 3,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "New York RB",
-                            "awayTeam": "America",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Vix +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dvix2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "amistosos"
-                },
                 {
                     "name": "Liga de Naciones de la CONCACAF",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/gwew651790094136.png",
@@ -190,127 +12,10 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/cafnationsleague.jpg",
                     "events": [
                         {
-                            "title": "Jamaica vs México",
-                            "league": "Liga de Naciones de la CONCACAF",
-                            "code": "CONCACAF",
-                            "time": "2026-11-14T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 5,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/oe2rr31655292020.jpg",
-                            "logo": "",
-                            "homeTeam": "Jamaica",
-                            "awayTeam": "México",
-                            "homeLogo": "https://flagcdn.com/w320/jm.png",
-                            "awayLogo": "https://flagcdn.com/w320/mx.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "TUDN MX",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudnmx",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "TUDN MX MUTICALIDAD",
-                                    "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "763ce1ebcaf23502c8cf357c6ef423e1",
-                                        "key": "0c5e6c0820a1ea28753721db00272411"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                                },
-                                {
-                                    "name": "Azteca 7",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dazteca7",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "AZTECA 7 MUTICALIDAD",
-                                    "url": "https://live1-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-7-HD/dash/AZTECA-7-HD.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "29f2aeb97a908466177c56fc28fe083f",
-                                        "key": "2cde091f1e4675c82d65498bd6ba0e65"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                                },
-                                {
-                                    "name": "Canal 5 MX",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dcanal5mx",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "CANAL 5 MX MUTICALIDAD",
-                                    "url": "https://live1-ott.izzigo.tv/7/out/u/dash/CANAL-5-HD-H265/default.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "2764ddb50fbcdfa640e19874116dd529",
-                                        "key": "ab1e5cc276f81696e41131392290585d"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-                                },
-                                {
-                                    "name": "TUDN USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtudn_usa",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2628123-jamaica-vs-mexico"
-                        },
-                        {
                             "title": "Panamá vs Curazao",
                             "league": "Liga de Naciones de la CONCACAF",
                             "code": "CONCACAF",
-                            "time": "2026-11-15T18:00:00-05:00",
+                            "time": "2026-11-15 18:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 45,
                             "image": "",
@@ -318,7 +23,7 @@
                             "homeTeam": "Panamá",
                             "awayTeam": "Curazao",
                             "homeLogo": "https://flagcdn.com/w320/pa.png",
-                            "awayLogo": "",
+                            "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Curacao.svg",
                             "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
@@ -348,120 +53,11 @@
                     "leagueId": "cafnationsleague"
                 },
                 {
-                    "name": "Liga MX Femenil",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/f3ut8v1645305794.png",
-                    "image": "",
-                    "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligamx.jpg",
-                    "events": [
-                        {
-                            "title": "Guadalajara vs Juárez",
-                            "league": "Liga MX Femenil",
-                            "code": "LIGAMX",
-                            "time": "2026-11-14T22:06:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 12,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Guadalajara",
-                            "awayTeam": "Juárez",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/22416.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133984.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Amazon 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Damazon1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "FOX Deportes USA",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfox_deportes_usa",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "FOX DEPORTES MUTICALIDAD",
-                                    "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "d1a163914db8ffad2c3e94f979896a0d",
-                                        "key": "9728800a3959aafdd5b0bcfbf3768811"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2627197-cd-guadalajara-femenil-vs-ju%c3%a1rez-femenil"
-                        }
-                    ],
-                    "flagCode": "",
-                    "flagUrl": "",
-                    "leagueId": "ligamx"
-                },
-                {
                     "name": "Liga de Expansión MX",
                     "logo": "https://r2.thesportsdb.com/images/media/league/badge/2h0yz01615330546.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/expamx.jpg",
                     "events": [
-                        {
-                            "title": "Atlético La Paz vs Piratas FC",
-                            "league": "Liga de Expansión MX",
-                            "code": "LIGAMX",
-                            "time": "2026-11-14 22:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 11,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Atlético La Paz",
-                            "awayTeam": "Piratas FC",
-                            "homeLogo": "https://a.espncdn.com/guid/c6a0e36d-c3f5-3f04-93d8-1436cb1f6e9c/logos/default.png",
-                            "awayLogo": "https://upload.wikimedia.org/wikipedia/en/2/25/Piratas_FC_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney14",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        },
                         {
                             "title": "Leones Negros UdeG vs Atlético Morelia",
                             "league": "Liga de Expansión MX",
@@ -1416,7 +1012,7 @@
                             "title": "Boca Juniors de Cali vs Independiente Valle del Cauca",
                             "league": "Primera B",
                             "code": "COL",
-                            "time": "2026-11-15T14:00:00-05:00",
+                            "time": "2026-11-15 14:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 28,
                             "image": "",
@@ -1424,7 +1020,7 @@
                             "homeTeam": "Boca Juniors de Cali",
                             "awayTeam": "Independiente Valle del Cauca",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17372.png",
-                            "awayLogo": "",
+                            "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ezsfmz1769183202.png/medium",
                             "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
@@ -1859,196 +1455,6 @@
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
-                        {
-                            "title": "New Orleans Pelicans vs Denver Nuggets",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-14T19:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 2,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/6un5su1759233899.jpg",
-                            "logo": "",
-                            "homeTeam": "New Orleans Pelicans",
-                            "awayTeam": "Denver Nuggets",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601848-new-orleans-pelicans-vs-denver-nuggets"
-                        },
-                        {
-                            "title": "Cleveland Cavaliers vs Dallas Mavericks",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-14T19:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 4,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/eajddt1759234554.jpg",
-                            "logo": "",
-                            "homeTeam": "Cleveland Cavaliers",
-                            "awayTeam": "Dallas Mavericks",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601849-cleveland-cavaliers-vs-dallas-mavericks"
-                        },
-                        {
-                            "title": "Miami Heat vs Detroit Pistons",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-14T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 6,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/maqryt1759234478.jpg",
-                            "logo": "",
-                            "homeTeam": "Miami Heat",
-                            "awayTeam": "Detroit Pistons",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney13",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "NBA League Pass 3",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba3",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601851-miami-heat-vs-detroit-pistons"
-                        },
-                        {
-                            "title": "Minnesota Timberwolves vs Chicago Bulls",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-14T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 7,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/xfdj341759234009.jpg",
-                            "logo": "",
-                            "homeTeam": "Minnesota Timberwolves",
-                            "awayTeam": "Chicago Bulls",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 4",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba4",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601852-minnesota-timberwolves-vs-chicago-bulls"
-                        },
-                        {
-                            "title": "Memphis Grizzlies vs Brooklyn Nets",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-14T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 8,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/qkgrui1759233871.jpg",
-                            "logo": "",
-                            "homeTeam": "Memphis Grizzlies",
-                            "awayTeam": "Brooklyn Nets",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 5",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba5",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601850-memphis-grizzlies-vs-brooklyn-nets"
-                        },
                         {
                             "title": "Philadelphia 76ers vs Indiana Pacers",
                             "league": "NBA",
@@ -2705,13 +2111,13 @@
                             "time": "2026-11-15T16:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 39,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/tkb90n1784759927.jpg",
                             "logo": "",
                             "homeTeam": "Dallas Cowboys",
                             "awayTeam": "San Francisco 49ers",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 180,
                             "extraTime": 0,
                             "status": "",
@@ -2775,7 +2181,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2475521-dallas-cowboys-vs-san-francisco-49ers"
                         },
                         {
                             "title": "Arizona Cardinals vs Los Angeles Rams",
@@ -3119,5 +2526,5 @@
             ]
         }
     ],
-    "updated": "2026-11-14 21:10:30"
+    "updated": "2026-11-15 10:07:53"
 }
