@@ -12,46 +12,10 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
-                            "title": "Denver Nuggets vs Phoenix Suns",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-16 21:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 1,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/tkr6uc1759233033.jpg",
-                            "logo": "",
-                            "homeTeam": "Denver Nuggets",
-                            "awayTeam": "Phoenix Suns",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 8",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dnba8",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601869-denver-nuggets-vs-phoenix-suns"
-                        },
-                        {
                             "title": "Toronto Raptors vs New York Knicks",
                             "league": "NBA",
                             "code": "NBA",
-                            "time": "2026-11-17T19:30:00-05:00",
+                            "time": "2026-11-17 19:30",
                             "timezone": "America/Lima",
                             "agendaOrder": 21,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/5kbfva1759234430.jpg",
@@ -266,42 +230,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nhl.jpg",
                     "events": [
                         {
-                            "title": "Utah Mammoth vs Vancouver Canucks",
-                            "league": "NHL",
-                            "code": "NHL",
-                            "time": "2026-11-16T21:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 2,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/8wt2rk1760900810.jpg",
-                            "logo": "",
-                            "homeTeam": "Utah Mammoth",
-                            "awayTeam": "Vancouver Canucks",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/utah.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png",
-                            "imageMode": "banner",
-                            "duration": 160,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Disney +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney14",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591816-utah-mammoth-vs-vancouver-canucks"
-                        },
-                        {
                             "title": "Chicago Blackhawks vs Toronto Maple Leafs",
                             "league": "NHL",
                             "code": "NHL",
@@ -460,59 +388,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/amistosos.jpg",
                     "events": [
                         {
-                            "title": "Singapur vs Brasil",
-                            "league": "Amistoso Internacional",
-                            "code": "FIFA",
-                            "time": "2026-11-17 05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 3,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/6osfxt1791021006.jpg",
-                            "logo": "",
-                            "homeTeam": "Singapur",
-                            "awayTeam": "Brasil",
-                            "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Singapore.svg",
-                            "awayLogo": "https://flagcdn.com/w320/br.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Sportv BR",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dsporttvbr1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "SPORTV 1 🇧🇷",
-                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "",
-                                    "clearkey": {
-                                        "keyId": "51c0ef23b17297e5c01cd7f36dd0a6ce",
-                                        "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
-                                    },
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2606356-singapore-vs-brazil"
-                        },
-                        {
                             "title": "Rusia vs Venezuela",
                             "league": "Amistoso Internacional",
                             "code": "FIFA",
@@ -534,41 +409,6 @@
                                 {
                                     "name": "Evento 2",
                                     "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Devento2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        },
-                        {
-                            "title": "Japón vs Paraguay",
-                            "league": "Amistoso Internacional",
-                            "code": "FIFA",
-                            "time": "2026-11-17T08:10:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 4,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Japón",
-                            "awayTeam": "Paraguay",
-                            "homeLogo": "https://flagcdn.com/w320/jp.png",
-                            "awayLogo": "https://flagcdn.com/w320/py.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Evento 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Devento1",
                                     "type": "iframe",
                                     "quality": "",
                                     "active": true,
@@ -615,7 +455,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2624397-kuwait-vs-honduras"
                         },
                         {
                             "title": "Argentina vs Costa Rica",
@@ -731,7 +572,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2623106-argentina-vs-costa-rica"
                         },
                         {
                             "title": "Chile vs Colombia",
@@ -740,13 +582,13 @@
                             "time": "2026-11-17T18:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 16,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/gegqou1791021033.jpg",
                             "logo": "",
                             "homeTeam": "Chile",
                             "awayTeam": "Colombia",
                             "homeLogo": "https://flagcdn.com/w320/cl.png",
                             "awayLogo": "https://flagcdn.com/w320/co.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -766,7 +608,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2606660-chile-vs-colombia"
                         },
                         {
                             "title": "Ecuador vs Bolivia",
@@ -775,13 +618,13 @@
                             "time": "2026-11-17T18:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 17,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/o9wm851648888751.jpg",
                             "logo": "",
                             "homeTeam": "Ecuador",
                             "awayTeam": "Bolivia",
                             "homeLogo": "https://flagcdn.com/w320/ec.png",
                             "awayLogo": "https://flagcdn.com/w320/bo.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -801,7 +644,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2623107-ecuador-vs-bolivia"
                         },
                         {
                             "title": "Uruguay vs República Dominicana",
@@ -1636,5 +1480,5 @@
             ]
         }
     ],
-    "updated": "2026-11-16 23:39:24"
+    "updated": "2026-11-17 10:50:19"
 }
