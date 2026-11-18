@@ -388,41 +388,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/amistosos.jpg",
                     "events": [
                         {
-                            "title": "Rusia vs Venezuela",
-                            "league": "Amistoso Internacional",
-                            "code": "FIFA",
-                            "time": "2026-11-17 11:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 5,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Rusia",
-                            "awayTeam": "Venezuela",
-                            "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Russia.svg",
-                            "awayLogo": "https://flagcdn.com/w320/ve.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Evento 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Devento2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        },
-                        {
                             "title": "Kuwait vs Honduras",
                             "league": "Amistoso Internacional",
                             "code": "FIFA",
@@ -1480,5 +1445,5 @@
             ]
         }
     ],
-    "updated": "2026-11-17 10:50:19"
+    "updated": "2026-11-17 13:24:11"
 }
