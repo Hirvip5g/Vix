@@ -7,7 +7,7 @@
             "leagues": [
                 {
                     "name": "Copa Mundial Sub-17",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/yfm4a01779473539.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -41,7 +41,7 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "DSports + MUTICALIDAD",
+                                    "name": "DSports + HD",
                                     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -91,29 +91,13 @@
                                     "languages": [],
                                     "customLanguages": "",
                                     "channelLogo": ""
-                                },
-                                {
-                                    "name": "SPORTV 1 🇧🇷",
-                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "",
-                                    "clearkey": {
-                                        "keyId": "51c0ef23b17297e5c01cd7f36dd0a6ce",
-                                        "key": "8823f713ba6fdb9bbe0a2ad82d309a4b"
-                                    },
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
                                 }
                             ],
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2476381-brazil-u17-vs-ireland-u17"
                         },
                         {
                             "title": "Chile vs Argelia",
@@ -145,7 +129,7 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "DSports + MUTICALIDAD",
+                                    "name": "DSports + HD",
                                     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -197,14 +181,14 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "TUDN MX MUTICALIDAD",
-                                    "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
+                                    "name": "TUDN MX FHD",
+                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": {
                                         "keyId": "763ce1ebcaf23502c8cf357c6ef423e1",
                                         "key": "0c5e6c0820a1ea28753721db00272411"
@@ -227,7 +211,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2476387-mexico-u17-vs-romania-u17"
                         }
                     ],
                     "flagCode": "",
@@ -553,6 +538,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "ESPN 2 HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "3f2e12c72e1a011be0569fbd9ca486ab",
+                                        "key": "1273deabb3c043560fe264dd2b1690f1"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ESPN 2 FHD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
                                     "type": "clearkey",
@@ -560,7 +562,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ESPN2.png",
                                     "clearkey": {
                                         "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
                                         "key": "6d15568e1dab59e7202ae12e71505185"
@@ -577,7 +579,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/pvvydr1660761581.png",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -799,7 +801,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
                                     "clearkey": {
                                         "keyId": "54a2c11085c315ed6ff85c340a86095d",
                                         "key": "5f0d10cf4a5c7e22e286b7e8cb4e79f4"
@@ -809,14 +811,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN 4 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "name": "ESPN 4 AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
+                                    "channelLogo": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
                                     "clearkey": {
                                         "keyId": "d02981e6faeacef49c90fdb053ab641d",
                                         "key": "645e13624e933841b1ea35cda1b55bd1"
@@ -1028,24 +1030,7 @@
                                 },
                                 {
                                     "name": "ESPN 3 FHD",
-                                    "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd?",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": {
-                                        "keyId": "8a60d7889ff126ee1895335e92254f8e",
-                                        "key": "de1b0ce19fa804a1c473eb8ef2d5cf6d"
-                                    },
-                                    "referer": "https://portal.app.flow.com.ar",
-                                    "origin": "https://portal.app.flow.com.ar",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN 3 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+                                    "url": "https://f648185a3ca04006a528cda76d1e64e8.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1102/1102_ESPN_3_ANDINA_DASH/manifest.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1053,8 +1038,25 @@
                                     "customLanguages": "",
                                     "channelLogo": "https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png",
                                     "clearkey": {
-                                        "keyId": "deeed0f44c6b45e064f4d5064486e821",
-                                        "key": "bf89ceeb93564ddc603ba6afd8c9266a"
+                                        "keyId": "6c415e76814b3428aa873ddc2114b2ca",
+                                        "key": "3ff370cd3b42847081456488d902b160"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
+                                    "name": "ESPN 3 AR HD",
+                                    "url": "https://a1e60c26d2ae49198ea177161fdedf3f.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1103/1103_ESPN_3_SUR_DASH/manifest.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "06715229b8493b7398e84e2fdba1d880",
+                                        "key": "d7ea84a53061f1523c60cb6c4bf78e79"
                                     },
                                     "referer": "https://portal.app.flow.com.ar",
                                     "origin": "https://portal.app.flow.com.ar",
@@ -1088,21 +1090,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN DEPORTES HD PRUEBA",
-                                    "url": "https://104game.click/player/1/71",
-                                    "type": "embed",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/3840px-ESPN_Deportes.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1145,7 +1133,7 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "DSPORTS 2 HD MUTICALIDAD",
+                                    "name": "DSPORTS 2 HD HD",
                                     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1189,21 +1177,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN DEPORTES HD PRUEBA",
-                                    "url": "https://104game.click/player/1/71",
-                                    "type": "embed",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/3840px-ESPN_Deportes.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1246,7 +1220,7 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "DSPORTS 2 HD MUTICALIDAD",
+                                    "name": "DSPORTS 2 HD HD",
                                     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -1290,21 +1264,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN DEPORTES HD PRUEBA",
-                                    "url": "https://104game.click/player/1/71",
-                                    "type": "embed",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/3840px-ESPN_Deportes.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1357,6 +1317,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "ESPN 2 HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "3f2e12c72e1a011be0569fbd9ca486ab",
+                                        "key": "1273deabb3c043560fe264dd2b1690f1"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ESPN 2 FHD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
                                     "type": "clearkey",
@@ -1364,7 +1341,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ESPN2.png",
                                     "clearkey": {
                                         "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
                                         "key": "6d15568e1dab59e7202ae12e71505185"
@@ -1381,7 +1358,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/pvvydr1660761581.png",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1415,21 +1392,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                },
-                                {
-                                    "name": "ESPN DEPORTES HD PRUEBA",
-                                    "url": "https://104game.click/player/1/71",
-                                    "type": "embed",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/3840px-ESPN_Deportes.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1449,7 +1412,7 @@
                 },
                 {
                     "name": "Copa de Portugal",
-                    "logo": "",
+                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/hyy7lq1593011553.png",
                     "image": "",
                     "background": "",
                     "events": [
@@ -1490,7 +1453,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1507,8 +1470,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX Sports 3 MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+                                    "name": "FOX Sports 3 HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1541,7 +1504,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2624086-mafra-vs-arouca"
                         },
                         {
                             "title": "Sporting CP vs UD da Serra",
@@ -1580,7 +1544,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1597,8 +1561,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX Sports MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "name": "FOX Sports HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1656,7 +1620,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1673,8 +1637,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX Sports MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "name": "FOX Sports HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1821,7 +1785,7 @@
                 },
                 {
                     "name": "Liga Colombia",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/sdz1351580833297.png",
+                    "logo": "",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg",
                     "events": [
@@ -1832,13 +1796,13 @@
                             "time": "2026-11-20T20:40:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 31,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/q5jmoh1769691881.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Deportivo Cali",
                             "awayTeam": "Millonarios",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2672.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5484.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1862,7 +1826,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1872,8 +1836,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2630136-deportivo-cali-vs-millonarios"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Once Caldas vs Atlético Nacional",
@@ -1882,13 +1845,13 @@
                             "time": "2026-11-21T20:15:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 118,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/inji9p1675412559.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Once Caldas",
                             "awayTeam": "Atlético Nacional",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2919.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5264.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -1912,7 +1875,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -1922,8 +1885,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2630137-once-caldas-vs-atl%c3%a9tico-nacional"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -1966,8 +1928,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN Premium FHD MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
+                                    "name": "ESPN Premium FHD HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1990,7 +1952,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+                                    "channelLogo": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -2050,15 +2012,15 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/3840px-TNT_Sports_%282023%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "TNT Sports Premium FHD MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
+                                    "name": "TNT Sports Premium FHD HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2121,6 +2083,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "Universo HD",
+                                    "url": "https://square-feather-406d.kartinadaren.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.ibb.co/2SYRLkw/nbc-universo.png",
+                                    "clearkey": {
+                                        "keyId": "96b67fa09140329a89b7a1ead134eda3",
+                                        "key": "c618d32c56cdc6cad8330eb98507ca3f"
+                                    },
+                                    "referer": "https://www.primevideo.com/",
+                                    "origin": "",
+                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                                },
+                                {
                                     "name": "FOX One",
                                     "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dfoxone",
                                     "type": "iframe",
@@ -2141,17 +2120,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "AZTECA 7 MUTICALIDAD",
-                                    "url": "https://live1-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-7-HD/dash/AZTECA-7-HD.mpd",
+                                    "name": "AZTECA 7 HD",
+                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ep2x5rkrf5/out/v1/4e18b1b6cb5a48e19b5062e782008c4e/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": {
-                                        "keyId": "29f2aeb97a908466177c56fc28fe083f",
-                                        "key": "2cde091f1e4675c82d65498bd6ba0e65"
+                                        "keyId": "9850bd2ac5d9089ce920ca127e67aa57",
+                                        "key": "8561d5b02983577886cf1f40aed3a8fe"
                                     },
                                     "referer": "https://www.primevideo.com/",
                                     "origin": "",
@@ -2332,14 +2311,14 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "TUDN MX MUTICALIDAD",
-                                    "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
+                                    "name": "TUDN MX FHD",
+                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": {
                                         "keyId": "763ce1ebcaf23502c8cf357c6ef423e1",
                                         "key": "0c5e6c0820a1ea28753721db00272411"
@@ -2357,23 +2336,6 @@
                                     "languages": [],
                                     "customLanguages": "",
                                     "channelLogo": ""
-                                },
-                                {
-                                    "name": "CANAL 5 MX MUTICALIDAD",
-                                    "url": "https://live1-ott.izzigo.tv/7/out/u/dash/CANAL-5-HD-H265/default.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "2764ddb50fbcdfa640e19874116dd529",
-                                        "key": "ab1e5cc276f81696e41131392290585d"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                                 },
                                 {
                                     "name": "TUDN USA",
@@ -2432,6 +2394,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "Universo HD",
+                                    "url": "https://square-feather-406d.kartinadaren.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.ibb.co/2SYRLkw/nbc-universo.png",
+                                    "clearkey": {
+                                        "keyId": "96b67fa09140329a89b7a1ead134eda3",
+                                        "key": "c618d32c56cdc6cad8330eb98507ca3f"
+                                    },
+                                    "referer": "https://www.primevideo.com/",
+                                    "origin": "",
+                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                                },
+                                {
                                     "name": "Azteca 7",
                                     "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dazteca7",
                                     "type": "iframe",
@@ -2442,17 +2421,17 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "AZTECA 7 MUTICALIDAD",
-                                    "url": "https://live1-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-7-HD/dash/AZTECA-7-HD.mpd",
+                                    "name": "AZTECA 7 HD",
+                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ep2x5rkrf5/out/v1/4e18b1b6cb5a48e19b5062e782008c4e/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": {
-                                        "keyId": "29f2aeb97a908466177c56fc28fe083f",
-                                        "key": "2cde091f1e4675c82d65498bd6ba0e65"
+                                        "keyId": "9850bd2ac5d9089ce920ca127e67aa57",
+                                        "key": "8561d5b02983577886cf1f40aed3a8fe"
                                     },
                                     "referer": "https://www.primevideo.com/",
                                     "origin": "",
@@ -2493,13 +2472,13 @@
                             "time": "2026-11-21T07:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 42,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/4yup2u1783076889.jpg",
                             "logo": "",
                             "homeTeam": "VfL Wolfsburg",
                             "awayTeam": "Holstein Kiel",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7884.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -2516,8 +2495,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX Sports 2 MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+                                    "name": "FOX Sports 2 HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2550,7 +2529,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2511836-wolfsburg-vs-holstein-kiel"
                         },
                         {
                             "title": "St. Pauli vs VfL Bochum",
@@ -2559,13 +2539,13 @@
                             "time": "2026-11-21T14:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 88,
-                            "image": "",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/3sg9se1783076892.jpg",
                             "logo": "",
                             "homeTeam": "St. Pauli",
                             "awayTeam": "VfL Bochum",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/121.png",
-                            "imageMode": "",
+                            "imageMode": "banner",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -2582,8 +2562,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX Sports 2 MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+                                    "name": "FOX Sports 2 HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2616,7 +2596,8 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": ""
+                            "awayCountryCode": "",
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2511840-st-pauli-vs-bochum"
                         }
                     ],
                     "flagCode": "",
@@ -2669,8 +2650,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+                                    "name": "ESPN AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2686,6 +2667,20 @@
                                     "userAgent": ""
                                 },
                                 {
+                                    "name": "ESPN AR HD",
+                                    "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8",
+                                    "type": "m3u8",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": "",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "Universo",
                                     "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Duniverso",
                                     "type": "iframe",
@@ -2694,6 +2689,23 @@
                                     "languages": [],
                                     "customLanguages": "",
                                     "channelLogo": ""
+                                },
+                                {
+                                    "name": "Universo HD",
+                                    "url": "https://square-feather-406d.kartinadaren.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.ibb.co/2SYRLkw/nbc-universo.png",
+                                    "clearkey": {
+                                        "keyId": "96b67fa09140329a89b7a1ead134eda3",
+                                        "key": "c618d32c56cdc6cad8330eb98507ca3f"
+                                    },
+                                    "referer": "https://www.primevideo.com/",
+                                    "origin": "",
+                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                                 },
                                 {
                                     "name": "ESPN",
@@ -2723,14 +2735,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "name": "ESPN PY HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
                                     "clearkey": {
                                         "keyId": "e95fe84b9f73e6655fde711d5c896056",
                                         "key": "267a0e514deb984803bec43cc607c4cb"
@@ -2740,15 +2752,35 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN CO HD",
-                                    "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN CL HD",
+                                    "url": "https://a19095b072504a86808dd0be541a700f.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1104/1104_ESPN_ARGENTINA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": null,
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
+                                    "clearkey": {
+                                        "keyId": "606d3b409c063e56b5e2be3ea2226080",
+                                        "key": "bc68305fdf7067d9e23785374dedc145"
+                                    },
+                                    "referer": "https://gtdtv.gtd.cl/",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
+                                    "name": "ESPN CO HD",
+                                    "url": "https://b1816077c5854c97966b46adef0bf591.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1106/1106_ESPN_COLOMBIA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
+                                    "clearkey": {
+                                        "keyId": "d2f583141e963ab59a5a8ff5d6f725d1",
+                                        "key": "b3f560693c9806e0a7ae93e2eebcc8cf"
+                                    },
                                     "referer": "",
                                     "origin": "",
                                     "userAgent": ""
@@ -2798,6 +2830,23 @@
                                     "languages": [],
                                     "customLanguages": "",
                                     "channelLogo": ""
+                                },
+                                {
+                                    "name": "Universo HD",
+                                    "url": "https://square-feather-406d.kartinadaren.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.ibb.co/2SYRLkw/nbc-universo.png",
+                                    "clearkey": {
+                                        "keyId": "96b67fa09140329a89b7a1ead134eda3",
+                                        "key": "c618d32c56cdc6cad8330eb98507ca3f"
+                                    },
+                                    "referer": "https://www.primevideo.com/",
+                                    "origin": "",
+                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                                 }
                             ],
                             "flagCode": "",
@@ -2882,8 +2931,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+                                    "name": "ESPN AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2896,6 +2945,20 @@
                                     },
                                     "referer": "https://portal.app.flow.com.ar",
                                     "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
+                                    "name": "ESPN AR HD",
+                                    "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8",
+                                    "type": "m3u8",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "clearkey": null,
+                                    "referer": "",
+                                    "origin": "",
                                     "userAgent": ""
                                 },
                                 {
@@ -2926,14 +2989,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "name": "ESPN PY HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
                                     "clearkey": {
                                         "keyId": "e95fe84b9f73e6655fde711d5c896056",
                                         "key": "267a0e514deb984803bec43cc607c4cb"
@@ -2943,15 +3006,35 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN CO HD",
-                                    "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN CL HD",
+                                    "url": "https://a19095b072504a86808dd0be541a700f.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1104/1104_ESPN_ARGENTINA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": null,
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
+                                    "clearkey": {
+                                        "keyId": "606d3b409c063e56b5e2be3ea2226080",
+                                        "key": "bc68305fdf7067d9e23785374dedc145"
+                                    },
+                                    "referer": "https://gtdtv.gtd.cl/",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
+                                    "name": "ESPN CO HD",
+                                    "url": "https://b1816077c5854c97966b46adef0bf591.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1106/1106_ESPN_COLOMBIA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
+                                    "clearkey": {
+                                        "keyId": "d2f583141e963ab59a5a8ff5d6f725d1",
+                                        "key": "b3f560693c9806e0a7ae93e2eebcc8cf"
+                                    },
                                     "referer": "",
                                     "origin": "",
                                     "userAgent": ""
@@ -3122,8 +3205,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX Sports MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "name": "FOX Sports HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3156,7 +3239,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.ibb.co/6bvjxGP/espn-5B.png",
+                                    "channelLogo": "https://i.imgur.com/eBYBgnn.png",
                                     "clearkey": {
                                         "keyId": "4e126297fc7af35c736bdffe98eecaaa",
                                         "key": "fdb0091cf67d9c596dbfb07cf6f4c8f5"
@@ -3166,8 +3249,8 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN 5 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+                                    "name": "ESPN 5 AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3219,8 +3302,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX Sports MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "name": "FOX Sports HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3253,7 +3336,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.ibb.co/LSQFzkw/espn-7B.png?",
+                                    "channelLogo": "https://i.imgur.com/bWrggk0.png",
                                     "clearkey": {
                                         "keyId": "98ea1e32227adcd3618baac2bbf36814",
                                         "key": "72a03a09d33e412f14a9bfa4ef24b542"
@@ -3263,8 +3346,8 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN 7 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+                                    "name": "ESPN 7 AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3509,14 +3592,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "name": "ESPN PY HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
                                     "clearkey": {
                                         "keyId": "e95fe84b9f73e6655fde711d5c896056",
                                         "key": "267a0e514deb984803bec43cc607c4cb"
@@ -3526,15 +3609,35 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN CO HD",
-                                    "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN CL HD",
+                                    "url": "https://a19095b072504a86808dd0be541a700f.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1104/1104_ESPN_ARGENTINA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": null,
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
+                                    "clearkey": {
+                                        "keyId": "606d3b409c063e56b5e2be3ea2226080",
+                                        "key": "bc68305fdf7067d9e23785374dedc145"
+                                    },
+                                    "referer": "https://gtdtv.gtd.cl/",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
+                                    "name": "ESPN CO HD",
+                                    "url": "https://b1816077c5854c97966b46adef0bf591.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1106/1106_ESPN_COLOMBIA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
+                                    "clearkey": {
+                                        "keyId": "d2f583141e963ab59a5a8ff5d6f725d1",
+                                        "key": "b3f560693c9806e0a7ae93e2eebcc8cf"
+                                    },
                                     "referer": "",
                                     "origin": "",
                                     "userAgent": ""
@@ -3550,6 +3653,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "Universo HD",
+                                    "url": "https://square-feather-406d.kartinadaren.workers.dev/https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.ibb.co/2SYRLkw/nbc-universo.png",
+                                    "clearkey": {
+                                        "keyId": "96b67fa09140329a89b7a1ead134eda3",
+                                        "key": "c618d32c56cdc6cad8330eb98507ca3f"
+                                    },
+                                    "referer": "https://www.primevideo.com/",
+                                    "origin": "",
+                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                                },
+                                {
                                     "name": "ESPN 2 AR",
                                     "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn2ar",
                                     "type": "iframe",
@@ -3560,8 +3680,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "ESPN 2 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+                                    "name": "ESPN 2 AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3636,7 +3756,7 @@
                 },
                 {
                     "name": "Eredivisie",
-                    "logo": "https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png",
+                    "logo": "https://www.thesportsdb.com/images/ico/android-icon-192x192.png",
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/eredivisie.jpg",
                     "events": [
@@ -3647,13 +3767,13 @@
                             "time": "2026-11-21T10:30:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 72,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/msrln91782210044.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "NEC",
                             "awayTeam": "PSV",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -3673,8 +3793,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489179-nec-nijmegen-vs-psv-eindhoven"
+                            "awayCountryCode": ""
                         },
                         {
                             "title": "Feyenoord vs Excelsior",
@@ -3683,13 +3802,13 @@
                             "time": "2026-11-21T12:45:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 80,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/2hzr061782210041.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Feyenoord",
                             "awayTeam": "Excelsior",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 130,
                             "extraTime": 0,
                             "status": "",
@@ -3713,7 +3832,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.ibb.co/LSQFzkw/espn-7B.png?",
+                                    "channelLogo": "https://i.imgur.com/bWrggk0.png",
                                     "clearkey": {
                                         "keyId": "98ea1e32227adcd3618baac2bbf36814",
                                         "key": "72a03a09d33e412f14a9bfa4ef24b542"
@@ -3723,8 +3842,8 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN 7 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+                                    "name": "ESPN 7 AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3753,8 +3872,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2489177-feyenoord-vs-excelsior"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
@@ -4017,14 +4135,14 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "PREMIERE CLUBES 🇧🇷",
+                                    "name": "PREMIERE 1 🇧🇷",
                                     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Logotipo_do_Premiere_%282017%29.svg/3840px-Logotipo_do_Premiere_%282017%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": {
                                         "keyId": "56b79c1782b30e6b6fc973b0e8fd4104",
                                         "key": "fa38aaa865a57eda7c77444697ba8ed3"
@@ -4087,7 +4205,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Logotipo_do_Premiere_%282017%29.svg/3840px-Logotipo_do_Premiere_%282017%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": {
                                         "keyId": "9dc40460c93087aea84d6315f08ecb64",
                                         "key": "f69c8d4624fddff4ca89bd0b31bdc4a7"
@@ -4133,14 +4251,14 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "PREMIERE CLUBES 🇧🇷",
+                                    "name": "PREMIERE 1 🇧🇷",
                                     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Logotipo_do_Premiere_%282017%29.svg/3840px-Logotipo_do_Premiere_%282017%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": {
                                         "keyId": "56b79c1782b30e6b6fc973b0e8fd4104",
                                         "key": "fa38aaa865a57eda7c77444697ba8ed3"
@@ -4204,7 +4322,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/3840px-L1MAX-LOGO.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -4278,7 +4396,7 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "DSports Global",
+                                    "name": "DSports FHD",
                                     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
                                     "type": "clearkey",
                                     "quality": "",
@@ -4293,23 +4411,6 @@
                                     "referer": "https://www.primevideo.com/",
                                     "origin": "",
                                     "userAgent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-                                },
-                                {
-                                    "name": "DSPORTS ARG MUTICALIDAD",
-                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "4f4c3a9912ea752e88f4497864a1bc8b",
-                                        "key": "278128004fe8c6ffb2cd2a0c154a241a"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
                                 },
                                 {
                                     "name": "Disney +",
@@ -4349,14 +4450,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "name": "ESPN PY HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
                                     "clearkey": {
                                         "keyId": "e95fe84b9f73e6655fde711d5c896056",
                                         "key": "267a0e514deb984803bec43cc607c4cb"
@@ -4366,15 +4467,35 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN CO HD",
-                                    "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN CL HD",
+                                    "url": "https://a19095b072504a86808dd0be541a700f.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1104/1104_ESPN_ARGENTINA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": null,
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
+                                    "clearkey": {
+                                        "keyId": "606d3b409c063e56b5e2be3ea2226080",
+                                        "key": "bc68305fdf7067d9e23785374dedc145"
+                                    },
+                                    "referer": "https://gtdtv.gtd.cl/",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
+                                    "name": "ESPN CO HD",
+                                    "url": "https://b1816077c5854c97966b46adef0bf591.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1106/1106_ESPN_COLOMBIA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
+                                    "clearkey": {
+                                        "keyId": "d2f583141e963ab59a5a8ff5d6f725d1",
+                                        "key": "b3f560693c9806e0a7ae93e2eebcc8cf"
+                                    },
                                     "referer": "",
                                     "origin": "",
                                     "userAgent": ""
@@ -4443,7 +4564,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
                                     "clearkey": {
                                         "keyId": "54a2c11085c315ed6ff85c340a86095d",
                                         "key": "5f0d10cf4a5c7e22e286b7e8cb4e79f4"
@@ -4453,14 +4574,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN 4 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "name": "ESPN 4 AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
+                                    "channelLogo": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
                                     "clearkey": {
                                         "keyId": "d02981e6faeacef49c90fdb053ab641d",
                                         "key": "645e13624e933841b1ea35cda1b55bd1"
@@ -4597,14 +4718,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "name": "ESPN PY HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
                                     "clearkey": {
                                         "keyId": "e95fe84b9f73e6655fde711d5c896056",
                                         "key": "267a0e514deb984803bec43cc607c4cb"
@@ -4614,15 +4735,35 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN CO HD",
-                                    "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN CL HD",
+                                    "url": "https://a19095b072504a86808dd0be541a700f.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1104/1104_ESPN_ARGENTINA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": null,
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
+                                    "clearkey": {
+                                        "keyId": "606d3b409c063e56b5e2be3ea2226080",
+                                        "key": "bc68305fdf7067d9e23785374dedc145"
+                                    },
+                                    "referer": "https://gtdtv.gtd.cl/",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
+                                    "name": "ESPN CO HD",
+                                    "url": "https://b1816077c5854c97966b46adef0bf591.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1106/1106_ESPN_COLOMBIA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
+                                    "clearkey": {
+                                        "keyId": "d2f583141e963ab59a5a8ff5d6f725d1",
+                                        "key": "b3f560693c9806e0a7ae93e2eebcc8cf"
+                                    },
                                     "referer": "",
                                     "origin": "",
                                     "userAgent": ""
@@ -4638,8 +4779,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX Sports MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "name": "FOX Sports HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -4665,23 +4806,6 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "SKY SPORTS F1",
-                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "0d7d09d646a2a4edd51b87563abe77a3",
-                                        "key": "a1e63461298a129daa947f42cbad4aa2"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-                                },
-                                {
                                     "name": "SporTV 3",
                                     "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dsporttvbr3",
                                     "type": "iframe",
@@ -4690,23 +4814,6 @@
                                     "languages": [],
                                     "customLanguages": "",
                                     "channelLogo": ""
-                                },
-                                {
-                                    "name": "SPORTV 3 🇧🇷",
-                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "",
-                                    "clearkey": {
-                                        "keyId": "902e5ec0e3d05e665daa32fc23f4f59e",
-                                        "key": "7b2322a273843921a43e2c61dac7cae3"
-                                    },
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
                                 }
                             ],
                             "flagCode": "",
@@ -4827,6 +4934,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "ESPN 2 HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "3f2e12c72e1a011be0569fbd9ca486ab",
+                                        "key": "1273deabb3c043560fe264dd2b1690f1"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ESPN 2 FHD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
                                     "type": "clearkey",
@@ -4834,7 +4958,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ESPN2.png",
                                     "clearkey": {
                                         "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
                                         "key": "6d15568e1dab59e7202ae12e71505185"
@@ -4851,7 +4975,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/pvvydr1660761581.png",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -4868,8 +4992,8 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "FOX Sports MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "name": "FOX Sports HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -4895,23 +5019,6 @@
                                     "channelLogo": ""
                                 },
                                 {
-                                    "name": "SKY SPORTS F1",
-                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
-                                    "clearkey": {
-                                        "keyId": "0d7d09d646a2a4edd51b87563abe77a3",
-                                        "key": "a1e63461298a129daa947f42cbad4aa2"
-                                    },
-                                    "referer": "https://www.primevideo.com/",
-                                    "origin": "",
-                                    "userAgent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-                                },
-                                {
                                     "name": "SporTV 3",
                                     "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dsporttvbr3",
                                     "type": "iframe",
@@ -4920,23 +5027,6 @@
                                     "languages": [],
                                     "customLanguages": "",
                                     "channelLogo": ""
-                                },
-                                {
-                                    "name": "SPORTV 3 🇧🇷",
-                                    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-                                    "type": "clearkey",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "",
-                                    "clearkey": {
-                                        "keyId": "902e5ec0e3d05e665daa32fc23f4f59e",
-                                        "key": "7b2322a273843921a43e2c61dac7cae3"
-                                    },
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
                                 }
                             ],
                             "flagCode": "",
@@ -5125,6 +5215,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "ESPN 2 HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "3f2e12c72e1a011be0569fbd9ca486ab",
+                                        "key": "1273deabb3c043560fe264dd2b1690f1"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ESPN 2 FHD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
                                     "type": "clearkey",
@@ -5132,7 +5239,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ESPN2.png",
                                     "clearkey": {
                                         "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
                                         "key": "6d15568e1dab59e7202ae12e71505185"
@@ -5149,7 +5256,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/pvvydr1660761581.png",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -5199,7 +5306,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
                                     "clearkey": {
                                         "keyId": "54a2c11085c315ed6ff85c340a86095d",
                                         "key": "5f0d10cf4a5c7e22e286b7e8cb4e79f4"
@@ -5209,14 +5316,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN 4 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "name": "ESPN 4 AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
+                                    "channelLogo": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
                                     "clearkey": {
                                         "keyId": "d02981e6faeacef49c90fdb053ab641d",
                                         "key": "645e13624e933841b1ea35cda1b55bd1"
@@ -5832,6 +5939,23 @@
                                     "channelLogo": ""
                                 },
                                 {
+                                    "name": "ESPN 2 HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png",
+                                    "clearkey": {
+                                        "keyId": "3f2e12c72e1a011be0569fbd9ca486ab",
+                                        "key": "1273deabb3c043560fe264dd2b1690f1"
+                                    },
+                                    "referer": "https://portal.app.flow.com.ar",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
                                     "name": "ESPN 2 FHD",
                                     "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd?",
                                     "type": "clearkey",
@@ -5839,7 +5963,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ESPN2.png",
                                     "clearkey": {
                                         "keyId": "a81ee4a694fecd6aa8a682e5024b313c",
                                         "key": "6d15568e1dab59e7202ae12e71505185"
@@ -5856,7 +5980,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/tu-logo/logo.png",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/pvvydr1660761581.png",
                                     "clearkey": null,
                                     "referer": "",
                                     "origin": "",
@@ -5905,7 +6029,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
                                     "clearkey": {
                                         "keyId": "54a2c11085c315ed6ff85c340a86095d",
                                         "key": "5f0d10cf4a5c7e22e286b7e8cb4e79f4"
@@ -5915,14 +6039,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN 4 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "name": "ESPN 4 AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png",
+                                    "channelLogo": "https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
                                     "clearkey": {
                                         "keyId": "d02981e6faeacef49c90fdb053ab641d",
                                         "key": "645e13624e933841b1ea35cda1b55bd1"
@@ -5992,7 +6116,7 @@
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.ibb.co/6bvjxGP/espn-5B.png",
+                                    "channelLogo": "https://i.imgur.com/eBYBgnn.png",
                                     "clearkey": {
                                         "keyId": "4e126297fc7af35c736bdffe98eecaaa",
                                         "key": "fdb0091cf67d9c596dbfb07cf6f4c8f5"
@@ -6002,8 +6126,8 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN 5 AR MUTICALIDAD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+                                    "name": "ESPN 5 AR HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -6082,14 +6206,14 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "name": "ESPN PY HD",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
                                     "clearkey": {
                                         "keyId": "e95fe84b9f73e6655fde711d5c896056",
                                         "key": "267a0e514deb984803bec43cc607c4cb"
@@ -6099,15 +6223,35 @@
                                     "userAgent": ""
                                 },
                                 {
-                                    "name": "ESPN CO HD",
-                                    "url": "http://209.61.12.132:9000/play/a06z/index.m3u8",
-                                    "type": "m3u8",
+                                    "name": "ESPN CL HD",
+                                    "url": "https://a19095b072504a86808dd0be541a700f.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1104/1104_ESPN_ARGENTINA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
                                     "quality": "",
                                     "active": true,
                                     "languages": [],
                                     "customLanguages": "",
-                                    "channelLogo": "https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png",
-                                    "clearkey": null,
+                                    "channelLogo": "http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png",
+                                    "clearkey": {
+                                        "keyId": "606d3b409c063e56b5e2be3ea2226080",
+                                        "key": "bc68305fdf7067d9e23785374dedc145"
+                                    },
+                                    "referer": "https://gtdtv.gtd.cl/",
+                                    "origin": "https://portal.app.flow.com.ar",
+                                    "userAgent": ""
+                                },
+                                {
+                                    "name": "ESPN CO HD",
+                                    "url": "https://b1816077c5854c97966b46adef0bf591.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1106/1106_ESPN_COLOMBIA_HD_DASH/manifest.mpd",
+                                    "type": "clearkey",
+                                    "quality": "",
+                                    "active": true,
+                                    "languages": [],
+                                    "customLanguages": "",
+                                    "channelLogo": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
+                                    "clearkey": {
+                                        "keyId": "d2f583141e963ab59a5a8ff5d6f725d1",
+                                        "key": "b3f560693c9806e0a7ae93e2eebcc8cf"
+                                    },
                                     "referer": "",
                                     "origin": "",
                                     "userAgent": ""
