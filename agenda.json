@@ -539,7 +539,7 @@
                                 },
                                 {
                                     "name": "ESPN 2 HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -812,7 +812,7 @@
                                 },
                                 {
                                     "name": "ESPN 4 AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1318,7 +1318,7 @@
                                 },
                                 {
                                     "name": "ESPN 2 HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1471,7 +1471,7 @@
                                 },
                                 {
                                     "name": "FOX Sports 3 HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1562,7 +1562,7 @@
                                 },
                                 {
                                     "name": "FOX Sports HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1638,7 +1638,7 @@
                                 },
                                 {
                                     "name": "FOX Sports HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1880,7 +1880,7 @@
                                 },
                                 {
                                     "name": "ESPN Premium FHD HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -1971,7 +1971,7 @@
                                 },
                                 {
                                     "name": "TNT Sports Premium FHD HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2311,7 +2311,7 @@
                                 },
                                 {
                                     "name": "FOX Sports 2 HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2378,7 +2378,7 @@
                                 },
                                 {
                                     "name": "FOX Sports 2 HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2466,7 +2466,7 @@
                                 },
                                 {
                                     "name": "ESPN AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2551,7 +2551,7 @@
                                 },
                                 {
                                     "name": "ESPN PY HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2747,7 +2747,7 @@
                                 },
                                 {
                                     "name": "ESPN AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -2805,7 +2805,7 @@
                                 },
                                 {
                                     "name": "ESPN PY HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3021,7 +3021,7 @@
                                 },
                                 {
                                     "name": "FOX Sports HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3065,7 +3065,7 @@
                                 },
                                 {
                                     "name": "ESPN 5 AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3118,7 +3118,7 @@
                                 },
                                 {
                                     "name": "FOX Sports HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3162,7 +3162,7 @@
                                 },
                                 {
                                     "name": "ESPN 7 AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3408,7 +3408,7 @@
                                 },
                                 {
                                     "name": "ESPN PY HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3496,7 +3496,7 @@
                                 },
                                 {
                                     "name": "ESPN 2 AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -3658,7 +3658,7 @@
                                 },
                                 {
                                     "name": "ESPN 7 AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -4266,7 +4266,7 @@
                                 },
                                 {
                                     "name": "ESPN PY HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -4390,7 +4390,7 @@
                                 },
                                 {
                                     "name": "ESPN 4 AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -4517,7 +4517,7 @@
                                 },
                                 {
                                     "name": "ESPN 2 HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -4575,7 +4575,7 @@
                                 },
                                 {
                                     "name": "FOX Sports HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -4798,7 +4798,7 @@
                                 },
                                 {
                                     "name": "ESPN 2 HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -4899,7 +4899,7 @@
                                 },
                                 {
                                     "name": "ESPN 4 AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -5214,7 +5214,7 @@
                                 },
                                 {
                                     "name": "ESPN 2 HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MDk0ODgxIiwic2lwIjoiODQuMjMzLjIzNC4xOTUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvTmlja19Kci9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA5MWE3ZDAxNDA3NTM3M2MiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE2IiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.oA5G1R7BgRLSEKEB957AwcPz79lrMgxfeiHbyCludFOYHoMbay1cOF83ARKHXVuDOV4kGP71SEtOij71ZYrAvA==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -5314,7 +5314,7 @@
                                 },
                                 {
                                     "name": "ESPN 4 AR HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
@@ -5401,7 +5401,7 @@
                                 },
                                 {
                                     "name": "ESPN PY HD",
-                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MzkwMjA4Iiwic2lwIjoiMTk0LjI2LjEzMS4yMSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9FU1BOM19VeS1QeS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZTMzMGJkMTQ5MmJlZjlhOSIsInNlc3Npb25faWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYy0xNzk1MjE3NDA4LTgxNCIsImNsaWVudF9pZCI6ImZsb3c6NDE5OTA3Ny0tZmxvdzo0MTk5MDc3OlAiLCJkZXZpY2VfaWQiOiIxNWY0NDVlNjIwMTcwMjZlYWZiY2U3OTUwZTI4NjhkYyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NEIVKR4S9IgtkdpU-GoJkfM7pLMQgDqqm_bB9MfMuJ-hIlf7eOSU_VYCV_If6ojkdiekBjLLX8adtTdqv0o_aQ==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+                                    "url": "https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1NDM2MTU4Iiwic2lwIjoiODQuMjMzLjIzNC4xOTkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSU5DQUFfVHYvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI2M2IyMzExZjNkMzEwYmU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzUzIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.NSMifW2HWgO1Xs2BsH9Z0HJIM0dTc8jtgsoYro0z43ckBZtB5iqXZ2MDanXzRElQ-XAV-VXRvgiowqBEMHKfig==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
                                     "type": "clearkey",
                                     "quality": "",
                                     "active": true,
