@@ -80,7 +80,7 @@
         "aliases": ["Chile Primera Division"]
     },
     "Primera B": {
-        "url": "https://www.thesportsdb.com/league/4951-colombian-categoría-primera-b",
+        "url": "https://www.thesportsdb.com/team/141071-tigres-fc",
         "aliases": ["Colombian Categoría Primera B"]
     },
     "Liga Paraguay": {
@@ -99,7 +99,7 @@
         "url": "https://www.thesportsdb.com/league/4725-copa-do-brasil",
         "aliases": ["Copa do Brasil"]
     },
-    "Liga Colombia": {
+    "Liga BetPlay": {
         "url": "https://www.thesportsdb.com/league/4497-colombia-categoría-primera-a",
         "aliases": ["Colombian Liga DIMAYOR"]
     },
@@ -167,19 +167,19 @@
         "url": "https://www.thesportsdb.com/league/5206-mexican-liga-femenil",
         "aliases": ["Mexican Liga Femenil"]
     },
-    "Superliga Grecia": {
-        "url": "https://www.thesportsdb.com/league/4336-greek-super-league-1",
-        "aliases": ["Greek Super League 1"]
-    },
     "Eredivisie": {
-        "url": "https://www.thesportsdb.com/league/4337-dutch-eredivisie",
+        "url": "Dutch Eredivisie",
         "aliases": ["Dutch Eredivisie"]
     },
-    "Copa del Rey": {
-        "url": "https://www.thesportsdb.com/league/4483-copa-del-rey",
-        "aliases": ["Copa del Rey"]
+    "Liga de Naciones de la CONCACAF": {
+        "url": "https://www.thesportsdb.com/league/5280-concacaf-nations-league",
+        "aliases": ["CONCACAF Nations League"]
     },
-    "Champions League Femenina": {
+    "Supercopa Argentina": {
+        "url": "https://www.thesportsdb.com/league/5663-argentinian-supercopa-internacional",
+        "aliases": ["Argentinian Supercopa Internacional"]
+    },
+    "UEFA Women's Champions League": {
         "url": "https://www.thesportsdb.com/league/4889-uefa-womens-champions-league",
         "aliases": ["UEFA Womens Champions League"]
     },
@@ -199,49 +199,45 @@
         "url": "https://www.thesportsdb.com/league/4562-international-friendlies",
         "aliases": ["International Friendlies"]
     },
-    "Copa Paraguay": {
-        "url": "https://www.thesportsdb.com/league/5499-copa-paraguay",
-        "aliases": ["Copa Paraguay"]
+    "Amistoso": {
+        "url": "https://www.thesportsdb.com/league/4569-club-friendlies",
+        "aliases": ["Club Friendlies"]
+    },
+    "LaLiga 2": {
+        "url": "https://www.thesportsdb.com/league/4400-spanish-la-liga-2",
+        "aliases": ["Spanish La Liga 2"]
+    },
+    "Copa del Rey": {
+        "url": "https://www.thesportsdb.com/league/4483-copa-del-rey",
+        "aliases": ["Copa del Rey"]
+    },
+    "Copa de la Liga": {
+        "url": "https://www.thesportsdb.com/league/5858-chilean-copa-de-la-liga",
+        "aliases": ["Chilean Copa de la Liga"]
     },
     "Copa Argentina": {
         "url": "https://www.thesportsdb.com/league/4500-copa-argentina",
         "aliases": ["Copa Argentina"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Serie C": {
+        "url": "https://www.thesportsdb.com/league/5339-italian-serie-c-girone-b",
+        "aliases": ["Italian Serie C Girone B"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Copa Mundial Sub-17": {
+        "url": "https://www.thesportsdb.com/league/5416-fifa-u-17-world-cup",
+        "aliases": ["FIFA U-17 World Cup"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Liga Profesional Saudí": {
+        "url": "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league",
+        "aliases": ["Saudi-Arabian Pro League"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Primera División": {
+        "url": "https://www.thesportsdb.com/league/4627-chile-primera-division",
+        "aliases": ["Chile Primera Division"]
     },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
-    },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
-    },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
-    },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
-    },
-    "demo": {
-        "url": "demo",
-        "aliases": ["demo"]
+    "Copa de Portugal": {
+        "url": "https://www.thesportsdb.com/league/4510-taca-de-portugal",
+        "aliases": ["Taca de Portugal"]
     },
     "demo": {
         "url": "demo",
