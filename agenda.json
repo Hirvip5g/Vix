@@ -413,7 +413,7 @@
                             "title": "Barcelona SC vs Independiente del Valle",
                             "league": "Liga Ecuador",
                             "code": "ECUA",
-                            "time": "2026-11-25T19:00:00-05:00",
+                            "time": "2026-11-25 20:05",
                             "timezone": "America/Lima",
                             "agendaOrder": 13,
                             "image": "https://r2.thesportsdb.com/images/media/event/thumb/mfag6y1638220346.jpg",
@@ -550,7 +550,7 @@
                             "time": "2026-11-25T20:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 18,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/l4oetk1784405041.jpg",
+                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/3dfq211601923115.jpg",
                             "logo": "",
                             "homeTeam": "Toluca",
                             "awayTeam": "Atlas",
@@ -655,7 +655,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2631051-toluca-vs-atlas"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2631056-atlas-vs-toluca"
                         },
                         {
                             "title": "Pachuca vs Guadalajara",
@@ -3851,5 +3851,5 @@
             ]
         }
     ],
-    "updated": "2026-11-25 17:10:05"
+    "updated": "2026-11-25 19:50:10"
 }
