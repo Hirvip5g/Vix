@@ -541,7 +541,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2631052-monterrey-vs-am%c3%a9rica"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2631057-am%c3%a9rica-vs-monterrey"
                         },
                         {
                             "title": "Toluca vs Atlas",
@@ -3567,13 +3567,13 @@
                             "time": "2026-11-25T19:00:00-05:00",
                             "timezone": "America/Lima",
                             "agendaOrder": 15,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ugh1i11760901189.jpg",
+                            "image": "",
                             "logo": "",
                             "homeTeam": "Tampa Bay Lightning",
                             "awayTeam": "Carolina Hurricanes",
                             "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png",
                             "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/car.png",
-                            "imageMode": "banner",
+                            "imageMode": "",
                             "duration": 160,
                             "extraTime": 0,
                             "status": "",
@@ -3610,8 +3610,7 @@
                             "flagCode": "",
                             "flagUrl": "",
                             "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2591872-tampa-bay-lightning-vs-carolina-hurricanes"
+                            "awayCountryCode": ""
                         }
                     ],
                     "flagCode": "",
