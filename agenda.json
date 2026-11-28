@@ -251,55 +251,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/ligaco.jpg",
                     "events": [
                         {
-                            "title": "Millonarios vs América de Cali",
-                            "league": "Liga Colombia",
-                            "code": "COL",
-                            "time": "2026-11-27T20:40:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 17,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "Millonarios",
-                            "awayTeam": "América de Cali",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5484.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8109.png",
-                            "imageMode": "",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Win Sports +",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd1.com%2Flive1.php%3Fstream%3Dwinplus",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "WIN SPORTS + HD",
-                                    "url": "http://181.78.84.78:8910/play/a0gr/index.m3u8",
-                                    "type": "m3u8",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-                                    "clearkey": null,
-                                    "referer": "",
-                                    "origin": "",
-                                    "userAgent": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        },
-                        {
                             "title": "Santa Fe vs Atlético Nacional",
                             "league": "Liga Colombia",
                             "code": "COL",
@@ -369,52 +320,6 @@
                     "image": "",
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/mls.jpg",
                     "events": [
-                        {
-                            "title": "Columbus Crew vs Inter Miami",
-                            "league": "MLS",
-                            "code": "MLS",
-                            "time": "2026-11-27T20:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 12,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/ooy23a1706713403.jpg",
-                            "logo": "",
-                            "homeTeam": "Columbus Crew",
-                            "awayTeam": "Inter Miami",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
-                            "imageMode": "banner",
-                            "duration": 130,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Apple TV Español",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd1.com%2Flive1.php%3Fstream%3Dappletv1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "Apple TV English",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd1.com%2Flive1.php%3Fstream%3Dappletv2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2627210-columbus-crew-vs-inter-miami"
-                        },
                         {
                             "title": "Real Salt Lake vs Vancouver Whitecaps",
                             "league": "MLS",
@@ -4239,159 +4144,6 @@
                     "background": "https://raw.githubusercontent.com/Hirvip5g/Vix/main/assets/ligas_fm/nba.jpg",
                     "events": [
                         {
-                            "title": "New York Knicks vs Miami Heat",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-27T19:00:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 8,
-                            "image": "",
-                            "logo": "",
-                            "homeTeam": "New York Knicks",
-                            "awayTeam": "Miami Heat",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-                            "imageMode": "",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "Prime Video",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd1.com%2Flive1.php%3Fstream%3Damazon1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                },
-                                {
-                                    "name": "NBA League Pass 1",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd1.com%2Flive1.php%3Fstream%3Dnba1",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": ""
-                        },
-                        {
-                            "title": "Indiana Pacers vs Philadelphia 76ers",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-27T19:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 9,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/a8mvss1759234338.jpg",
-                            "logo": "",
-                            "homeTeam": "Indiana Pacers",
-                            "awayTeam": "Philadelphia 76ers",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 2",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd1.com%2Flive1.php%3Fstream%3Dnba2",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601937-indiana-pacers-vs-philadelphia-76ers"
-                        },
-                        {
-                            "title": "Toronto Raptors vs Brooklyn Nets",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-27T19:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 10,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/7efrcw1759233380.jpg",
-                            "logo": "",
-                            "homeTeam": "Toronto Raptors",
-                            "awayTeam": "Brooklyn Nets",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 3",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd1.com%2Flive1.php%3Fstream%3Dnba3",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601936-toronto-raptors-vs-brooklyn-nets"
-                        },
-                        {
-                            "title": "Detroit Pistons vs Milwaukee Bucks",
-                            "league": "NBA",
-                            "code": "NBA",
-                            "time": "2026-11-27T19:30:00-05:00",
-                            "timezone": "America/Lima",
-                            "agendaOrder": 11,
-                            "image": "https://r2.thesportsdb.com/images/media/event/thumb/3y9cp11759233537.jpg",
-                            "logo": "",
-                            "homeTeam": "Detroit Pistons",
-                            "awayTeam": "Milwaukee Bucks",
-                            "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
-                            "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-                            "imageMode": "banner",
-                            "duration": 180,
-                            "extraTime": 0,
-                            "status": "",
-                            "note": "",
-                            "servers": [
-                                {
-                                    "name": "NBA League Pass 4",
-                                    "url": "https://pruevon.blogspot.com/2026/04/embedc.html?r=https%3A%2F%2Fstreamxhd1.com%2Flive1.php%3Fstream%3Dnba4",
-                                    "type": "iframe",
-                                    "quality": "",
-                                    "active": true,
-                                    "languages": [],
-                                    "customLanguages": "",
-                                    "channelLogo": ""
-                                }
-                            ],
-                            "flagCode": "",
-                            "flagUrl": "",
-                            "homeCountryCode": "",
-                            "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2601938-detroit-pistons-vs-milwaukee-bucks"
-                        },
-                        {
                             "title": "Boston Celtics vs Atlanta Hawks",
                             "league": "NBA",
                             "code": "NBA",
@@ -5140,7 +4892,7 @@
                             "flagUrl": "",
                             "homeCountryCode": "",
                             "awayCountryCode": "",
-                            "sourceEventUrl": "https://www.thesportsdb.com/event/2568431-valencia-qualifying-1"
+                            "sourceEventUrl": "https://www.thesportsdb.com/event/2568432-valencia-qualifying-2"
                         },
                         {
                             "title": "GP Valencia – Sprint",
@@ -5621,5 +5373,5 @@
             ]
         }
     ],
-    "updated": "2026-11-27 22:02:04"
+    "updated": "2026-11-27 22:59:16"
 }
